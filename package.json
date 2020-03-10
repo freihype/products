@@ -1,0 +1,21 @@
+{
+    "name": "template-generator",
+    "version": "0.1.0",
+    "description": "creates templates - picked up later a form generator and some backend",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "elena-gallery": "sigal build -d products/elena/media/ products/elena/gallery",
+        "sheetpress-cell-gallery": "sigal build -d products/sheetpress-cell/renderings/ products/sheetpress-cell/gallery/",
+        "lydia4-gallery": "sigal build -d products/lydia-v4/making/random products/lydia-v4/making/gallery/",
+        "bazar-zoe": "cd ..\\lang\\cli; cd node ./build/main.js bazar-product-html --debug=true --products=../../products --product=zoe",
+        "bazar-elena": "cd ..\\lang\\cli; node ./build/main.js bazar-product-html --debug=true --products=../../products --product=elena"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@types/lodash": "^4.14.148",
+        "@types/node": "^12.12.8",
+        "lodash": "^4.17.15"
+    }
+}

@@ -1,0 +1,12 @@
+.icon-red {
+    BUTTON {
+        I {
+            color: red !important;
+        }
+    }
+    BUTTON[disabled] {
+        I {
+            color: gray !important;
+        }
+    }
+}

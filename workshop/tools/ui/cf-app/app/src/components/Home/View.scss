@@ -1,0 +1,143 @@
+@import '../../styles/variables';
+@import '../../styles/mixins';
+.icon-41,
+.icon-51 {
+    color: red !important;
+}
+
+body {
+    margin: 0px;
+}
+
+
+
+:global {
+    @mixin scrollbars($size, $foreground-color, $background-color: mix($foreground-color, white, 50%)) {
+        ::-webkit-scrollbar {
+            width: 0.4em;
+            height: $size;
+        }
+        .form-control[disabled],
+        .form-control[readonly],
+        fieldset[disabled] .form-control {
+            opacity: 0.3;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: $foreground-color;
+        }
+        ::-webkit-scrollbar-track {
+            background: $background-color;
+        } // For Internet Explorer
+        body {
+            scrollbar-face-color: $foreground-color;
+            scrollbar-track-color: $background-color;
+        }
+    }
+    @include scrollbars(.5em, slategray);
+    .PropertiesSave {
+        margin-top: 8px;
+    }
+    .Property {
+        margin-bottom: 8px
+    }
+    .App-breadcrumb {
+        margin: 0px !important;
+    } // Element that wraps everything except for the header
+    .App-wrapper {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        max-width: $App-maximumWidth;
+    } // Nav is hidden off screen by default
+    .App-nav {
+        -webkit-overflow-scrolling: touch; // Improves scrolling performance
+        bottom: 0;
+        @include ms-left(0);
+        /*@include ms-left(-$Nav-width);*/
+        overflow-y: auto;
+        position: fixed;
+        top: $Header-height;
+        transition: $ms-animation-duration-2 $ms-animation-ease-1;
+        /*@include ms-transition-property(left);*/
+        width: $Nav-width;
+    }
+    .App-content {
+        /*@include contentPadding();*/
+        background-color: $ms-color-neutralLighter;
+        flex-grow: 1;
+        left: $Nav-width;
+        overflow: hidden;
+        position: relative;
+        transition: all $ms-animation-duration-2 $ms-animation-ease-1;
+        @include high-contrast {
+            border-right: 1px solid WindowText;
+            border-left: 1px solid WindowText;
+            border-bottom: 1px solid WindowText;
+        }
+    } // When the nav is open (smaller screens only) push the content over and prevent app from scrolling
+    @media screen and (max-width: $uhf-screen-min-mobile) {
+        .App {
+            padding: 0;
+        }
+        .App.is-navOpen {
+            bottom: 0;
+            left: 0;
+            overflow: hidden;
+            position: fixed;
+            right: 0;
+            top: 0;
+            .App-nav {
+                @include ms-left(0);
+            }
+            .App-content {
+                @include ms-left($Nav-width);
+                opacity: 0.5; // Dim the content
+            }
+        }
+    } // Show the nav at all times, to the left of the content
+    @media screen and (min-width: $uhf-screen-min-mobile) {
+        .App {
+            background-color: $ms-color-neutralDark;
+            justify-content: center;
+            @include ms-padding-right($App-padding-right-lg);
+            @include ms-padding-left($App-padding-left-lg);
+        }
+        .App-wrapper {
+            flex-direction: row;
+        }
+        .App-nav {
+            /*@include ms-left(auto);*/
+            top: auto; // Mobile nav bar is no longer there
+            position: relative;
+            overflow-y: visible
+        }
+        .App-content {
+            margin-top: 0;
+            flex-grow: unset;
+            width: calc(100% - #{$Nav-width});
+        } // Reset values for the nav and content if opened on larger screens
+        .App.is-navOpen {
+            .App-nav {
+                @include ms-left(auto);
+            }
+            .App-content {
+                @include ms-left(auto);
+            }
+        }
+    }
+    @media only screen and (max-width: $uhf-screen-max-lg) and (min-width: $uhf-screen-min-mobile) {
+        .App {
+            @include ms-padding-right($App-padding-right-sm);
+            @include ms-padding-left($App-padding-left-sm);
+        }
+        .App-nav {
+            /*@include ms-margin-left(18px);*/
+        }
+    }
+}
+
+@media only screen and (max-width: $uhf-screen-min-mobile) {
+    .App {
+        padding: 0;
+    }
+}

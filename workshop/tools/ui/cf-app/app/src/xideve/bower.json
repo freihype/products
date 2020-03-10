@@ -1,0 +1,28 @@
+{
+	"author": "Günter Baumgart",
+	"name": "xideve",
+	"version": "0.1.2",
+	"keywords": [
+		"xdojo",
+		"xide",
+		"dojo",
+		"dojo2"
+	],
+
+	"authors": [
+	],
+	"homepage": "http://dojotoolkit.org/",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/xblox/xideve.git"
+	},
+	"dependencies": {
+	},
+	"ignore": [
+		"tests",
+		"out",
+		"node_modules"
+	],
+	"license": [ "BSD-3-Clause" ],
+	"moduleType": [ "amd" ]
+}

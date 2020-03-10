@@ -1,0 +1,54 @@
+#focusContainer {
+    pointer-events: none;
+    position: absolute;
+    /*overflow:hidden;*/
+}
+
+.maqFocus {
+    z-index: 5;
+    pointer-events: auto;
+}
+
+.editFocusFrame {
+    position: absolute;
+    overflow: hidden;
+    border: none;
+    background: #d3e1ee;
+    border: 2px solid #6a94dc;
+}
+
+.editFocusFrameLEFT {
+    width: 4px;
+    border-right: none;
+    cursor: w-resize;
+}
+
+.editFocusFrameRIGHT {
+    width: 4px;
+    border-left: none;
+    cursor: e-resize;
+}
+
+.editFocusFrameTOP {
+    height: 4px;
+    border-bottom: none;
+    cursor: n-resize;
+}
+
+.editFocusFrameBOTTOM {
+    height: 4px;
+    border-top: none;
+    cursor: s-resize;
+}
+
+.editFocusNob {
+    background-color: #fff;
+    border: 1px solid #179ede;
+    border-radius: 50%;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+    display: block;
+    height: 11px;
+    pointer-events: all;
+    position: absolute;
+    width: 11px;
+}

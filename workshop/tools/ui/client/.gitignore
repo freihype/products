@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+src/**/*.jsx
+tests/__coverage__/
+tests/**/*.jsx
+yarn.lock
+yarn_error.log
+.sonarlint
+cf2/
+.awcache

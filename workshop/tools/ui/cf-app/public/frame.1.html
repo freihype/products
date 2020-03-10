@@ -1,0 +1,303 @@
+<html style="height: 100%; width: 100%; margin: 0;">
+
+<head>
+  <!--base href="baseUrl"/-->
+  <meta charset="utf-8" />
+  <script src="http://0.0.0.0:5555/Code/client/src/lib//external/lodash.min.js"></script>
+  <script src="http://0.0.0.0:5555/Code/client/src/lib/xibm/ibm//requirejs/require.js"></script>
+  <script src="http://0.0.0.0:5555/Code/client/src/lib//external/jquery-1.9.1.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="http://0.0.0.0:5555/Code/client/src/lib//xapp/build/themes/layer_bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="http://0.0.0.0:5555/files/workspace_user//A-MediaPlayer.css">
+
+  <script>
+    const debugBoot = false;
+    require.config({
+      config: {
+        'delite/theme': {
+          theme: 'bootstrap'
+        },
+        'xdelite/theme': {
+          theme: 'superhero',
+          variables: {
+            theme: 'superhero',
+            themeRoot: 'xdelite/themes/'
+          }
+        },
+        "requirejs-dplugins/has": {
+          "phone-like-channel": true,
+          "tablet-like-channel": true,
+          "desktop-like-channel": false
+        }
+      },
+      baseUrl: "http://0.0.0.0:5555/Code/client/src/lib/xibm/ibm/",
+      paths: {
+
+      },
+      shim: {
+        // Libraries
+        lodash: {
+          exports: '_'
+        }
+      },
+      packages: [{
+          name: 'lodash',
+          location: './lodash-compat' //points to bower_components/dcl
+        },
+        {
+          name: 'xide',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xide'
+        },
+        {
+          name: 'xblox',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xblox'
+        },
+        {
+          name: 'xdelite',
+          location: '%requireBaseUrl%/../xibm/delite'
+        },
+        {
+          name: 'xcf',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xcf'
+        },
+        {
+          name: 'xlang',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xlang'
+        },
+        {
+          name: 'xlog',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xlog'
+        },
+        {
+          name: 'xnode',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xnode'
+        },
+        {
+          name: 'xace',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xace'
+        },
+        {
+          name: 'dstore',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/dstore'
+        },
+        {
+          name: 'xdocker',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xdocker'
+        },
+        {
+          name: 'wcDocker',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/wcDocker/src'
+        },
+        {
+          name: 'xgrid',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xgrid'
+        },
+        {
+          name: 'xblox',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xblox'
+        },
+        {
+          name: 'xapp',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xapp'
+        },
+        {
+          name: 'dijit',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/dijit'
+        },
+        {
+          name: 'dijit',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/dijit'
+        },
+        {
+          name: 'xwire',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xwire'
+        },
+        {
+          name: 'dojo',
+          location: 'dojo'
+        },
+        {
+          name: 'dojox',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/dojox'
+        },
+        {
+          name: 'xfile',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xfile'
+        },
+        {
+          name: 'xdojo',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xdojo'
+        },
+        {
+          name: 'xaction',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib//xaction/src'
+        },
+        {
+          name: 'xdelite',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xdelite'
+        },
+        {
+          name: 'xdeliteful',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib//xibm/xibm/deliteful'
+        },
+        {
+          name: 'xdelite',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xibm/ibm//delite'
+        },
+        {
+          name: 'project',
+          location: 'http://0.0.0.0:5555/Code/client/src/lib/xwire'
+        },
+        {
+          name: 'projectx',
+          location: ',xwire'
+        },
+        {
+          name: 'workspace_user',
+          location: 'http://0.0.0.0:5555/files/workspace_user/'
+        },
+        {
+          name: 'custom',
+          location: 'http://0.0.0.0:5555/files/workspace_user//lib/custom'
+        }
+      ]
+    });
+
+    require({
+      map: {
+        '*': {
+          'deliteful/Button': 'xdeliteful/Button',
+          'delite/Viewport': 'xdelite/Viewport',
+          'deliteful/Slider': 'xdeliteful/Slider',
+          'dpointer/build/dpointerr': '../xibm/dpointer/build/dpointerr',
+          'decor/build/decorr': '../xibm/decor/build/decorr',
+          'delite/Container': '../xibm/delite/Container'
+        }
+      }
+    });
+
+    // base dependencies needed for VE
+    require([
+      "dcl/dcl",
+      "xapp/bootr",
+      "delite/register",
+      "deliteful/Button",
+      "deliteful/Slider",
+      "deliteful/Combobox",
+      "deliteful/Select",
+      "deliteful/Checkbox",
+      "deliteful/ViewStack",
+      "deliteful/Panel",
+      "deliteful/ToggleButton",
+      "xdeliteful/TabBar",
+      "xdeliteful/MediaPlayer",
+      "xdeliteful/Script",
+      "dojo/dom",
+      'dojo/query',
+      'dojo/dom-construct',
+      'dojo/dom-style',
+      'dojo/dom-attr',
+      'dojo/_base/html',
+      'dojo/Deferred',
+      'dojo/_base/lang',
+      'xdojo/declare',
+      'dojox/html/_base',
+      "delite/theme!delite/themes/bootstrap/global.css",
+      "requirejs-dplugins/css!Font-Awesome/css/font-awesome.css"
+    ], () => {
+      console.log('horray');
+    });
+
+  </script>
+
+
+
+  <style>
+
+
+  </style>
+
+  <script type="text/javascript">
+    var xideveSettings = {
+      xbloxScripts: [
+
+      ],
+      item: {
+        path: "./A-MediaPlayer.dhtml",
+        mount: "workspace_user"
+      }
+    };
+    var appContext = null;
+
+    var runBlox = function (path, id, context, settings) {
+      appContext.application.runBlox(path, id, context, settings);
+    };
+
+    var runx = function (ctx, expression, args) {
+      var _function = new Function("{" + expression + "; }");
+      return _function.call(ctx, args);
+    };
+
+    var runExpression = function (expression, context, args) {
+      var _function = new Function("{" + expression + "}");
+      return _function.apply(context || this, args || {});
+    };
+
+    var startx = function (dfd, bootStrapper, context, settings) {
+      debugBoot && console.log('Checkpoint 6. all dependencies loaded');
+      appContext = context;
+      dfd.resolve({
+        bootstrap: bootStrapper,
+        context: context,
+        settings: settings
+      });
+    };
+
+    var bootx = function (settings, Deferred) {
+      if (!settings.delegate) {
+        return;
+      }
+      var headDfd = new Deferred();
+      require(['xapp/boot', 'xide/utils', 'dojo/_base/kernel'], function (boot, utils, dojo) {
+        try {
+          document.dojo = dojo;
+
+          var bootStrap = new boot();
+          bootStrap.load().then(function () {
+            debugBoot && console.log('   Checkpoint 3.1 xapp/boot load()');
+            utils.mixin(settings, xideveSettings);
+            bootStrap.start(settings).then(function (ctx) {
+              debugBoot && console.log('   Checkpoint 5.2 xapp/boot start', xideveSettings);
+              startx(headDfd, bootStrap, ctx, xideveSettings);
+            }, function (e) {
+              console.error('error starting xapp/boot/start ' + e, e);
+            });
+          }, function (e) {
+            console.error('error starting xapp/boot/load ' + e, e);
+          });
+        } catch (e) {
+          debugger;
+        }
+
+      });
+      return headDfd;
+    }
+
+  </script>
+
+  <script src="http://0.0.0.0:5555/Code/client/src//xcf/ext/xapp-externals.js"></script>
+
+</head>
+
+<body>
+  <button is="d-button" title="second" label="first" style="border: none; padding: 1em; position: absolute; background-size: cover; background-image: url('workspace_user://backgrounds/dark2.jpg'); color: #cfcfcf; width: 263px; height: 92px; background-color: transparent; left: 58px; top: 48px;"
+    state=",noname" id="button_12">
+    <d-xstate-style name="noname" style="background-color: black; background-image: none; border: 1px solid black;"></d-xstate-style>
+  </button>
+  <button is="d-button" title="second" label="second" style="border: none; padding: 1em; background-size: cover; background-image: url('workspace_user://backgrounds/dark2.jpg'); width: 263px; height: 92px; position: absolute; left: 59px; top: 172px;"
+    id="button_0">
+    <d-xstate-style name="noname" style="background-color: white; background-image: none;"></d-xstate-style>
+  </button>
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+:global {
+    .cf-Properties {
+        .ms-GroupHeader-title {
+            font-size: 18px;
+            text-decoration: underline;
+            font-weight: bold;
+        }
+        .ms-GroupSpacer{
+          width: 12px !important;
+        }
+        .ms-DetailsRow-cell{
+          padding: 0px;
+        }
+    }
+}

@@ -1,0 +1,10 @@
+export { Inject } from './decorators/Inject';
+export { Injectable } from './decorators/Injectable';
+export { Module } from './decorators/Module';
+export { Provider } from './components/Provider';
+export { TestBed } from './components/TestBed';
+export { Binding } from './bindings/Binding';
+export { ClassBinding } from './bindings/ClassBinding';
+export { FactoryBinding } from './bindings/FactoryBinding';
+export { ValueBinding } from './bindings/ValueBinding';
+export { Container } from 'inversify';

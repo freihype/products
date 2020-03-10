@@ -1,0 +1,34 @@
+[
+    {
+        "name": "file-db",
+        "driver": {
+            "type": "sqlite",
+            "storage": "sqlite.db"
+        },
+        "logging": {
+            "logQueries": true,
+            "logFailedQueryError": true
+        },
+        "migrations": [
+            "dist/migration/*.js"
+        ],
+        "entities": [
+            "src/entities/*.js"
+        ],
+        "autoSchemaSync": true
+    },
+    {
+        "name": "memory-db",
+        "driver": {
+            "type": "sqlite",
+            "storage": ":memory:"
+        },
+        "migrations": [
+            "dist/migration/*.js"
+        ],
+        "entities": [
+            "dist/entity/*.js"
+        ],
+        "autoSchemaSync": true
+    }
+]

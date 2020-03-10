@@ -1,0 +1,22 @@
+:global {
+
+  .ms-DetailsListAdvancedExample {
+    .ms-DetailsList{
+      background: transparent;
+    }
+
+    .ms-DetailsRow-cell .ms-Link {
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 100%;
+    }
+
+    .ms-DetailsListAdvancedExample-icon {
+      font-size: 16px;
+      width: 16px;
+      vertical-align: top;
+    }
+  }
+
+}

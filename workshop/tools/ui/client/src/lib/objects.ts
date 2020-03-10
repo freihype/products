@@ -1,0 +1,1 @@
+export const keyOf = (object, value) => Object.keys(object).find(key => object[key] === value);

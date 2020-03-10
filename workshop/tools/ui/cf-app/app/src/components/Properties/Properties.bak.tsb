@@ -1,0 +1,140 @@
+import * as React from 'react';
+import * as lodash from 'lodash';
+
+import { IconButton, ActionButton, PrimaryButton } from 'office-ui-fabric-react/lib/Button';
+import {
+    IPropertyHandler,
+    IProperty,
+    WidgetMap,
+    ICheckboxProps,
+    ITextFieldProps,
+
+} from './types';
+import { IComboBoxOption, SelectableOptionMenuItemType, IComboBox, ComboBox, VirtualizedComboBox } from 'office-ui-fabric-react/lib/ComboBox';
+import { autobind, assign } from '@uifabric/utilities';
+import { Icon } from 'office-ui-fabric-react/lib/Icon';
+
+import { capitalize, WidgetArgs } from './utils';
+
+export const DevicePropertiesMap = {
+    name: 'string',
+    isActive: 'boolean',
+    host: 'enum',
+    protocol: 'enum',
+    flags: 'flags',
+    port: 'string'
+}
+
+export const DevicePropertiesGroupMap = {
+    name: 'General',
+    isActive: 'General',
+    host: 'Network',
+    protocol: 'Network',
+    flags: 'Settings',
+    settings: 'Response',
+    port: 'Network'
+}
+
+export const DeviceToProperties = (model: any, handler: IPropertyHandler) => {
+    if (!model) {
+        return [];
+    }
+    let ret: IProperty[] = [];
+    for (const attribute in model) {
+        if (attribute in DevicePropertiesMap) {
+            const type = DevicePropertiesMap[attribute];
+            let widget = WidgetMap[type];
+            if (handler.map) {
+                const newWidgetType = handler.map(attribute, type);
+                if (newWidgetType) {
+                    widget = newWidgetType
+                }
+            }
+            const value = model[attribute];
+            if (type) {
+                if (widget) {
+                    const property: IProperty = {
+                        value: value,
+                        handler: handler,
+                        label: attribute,
+                        widget: widget,
+                        type: type,
+                        attribute: attribute,
+                        args: WidgetArgs(type, attribute, value, capitalize(attribute), handler)
+                    }
+                    ret.push(property)
+                }
+            }
+        }
+    }
+
+    if (handler && handler.sort) {
+        ret = handler.sort(ret);
+    }
+    return ret;
+}
+export class PropertiesGroupsRenderer extends React.Component<IPropertiesRendererProps, IPropertiesRendererProps> {
+}
+
+////////////////////////////////////////////////////////////////
+// Default property renderer
+// single properties pane
+export interface IPropertiesRendererProps {
+    model?: any;
+    handler?: IPropertyHandler;
+    toProperties?: (model: any, handler: IPropertyHandler) => IProperty[]
+}
+export class PropertiesRenderer extends React.Component<IPropertiesRendererProps, IPropertiesRendererProps> {
+    public state: IPropertiesRendererProps = {};
+    public properties: IProperty[] = [];
+
+    @autobind public onSave() {
+        this.props.handler.save(this.properties, this.props.model);
+    }
+
+    public renderProperty(property: IProperty, handler: IPropertyHandler) {
+        return React.createElement(property.widget, {
+            ...property.args,
+            key: 'prop-' + this.properties.indexOf(property),
+            ref: (ref: any) => {
+                if (this.props.handler) {
+                    if (this.props.handler.onRendered) {
+                        this.props.handler.onRendered(property.attribute, property, ref);
+                    }
+                }
+            }
+        });
+    }
+    public render() {
+        this.properties = this.props.toProperties(this.props.model, this.props.handler);
+        return <div>
+            {
+                this.properties.map((property, i) => {
+                    property.instance = this.renderProperty(property, this.props.handler);
+                    return <div className={'Property Property-' + property.type} key={'prop' + i}> {property.instance} </div>;
+                })
+            }
+            {
+                this.properties.length ? <PrimaryButton onClick={this.onSave} className={'PropertiesSave'} style={{ marginRight: '8px' }} > Save </PrimaryButton> : ''}
+        </div>
+    }
+}
+
+////////////////////////////////////////////////////////////////////////////////////
+const COMPONENTS = {
+    device: PropertiesRenderer
+}
+
+export interface IPropertyView {
+    model: any;
+    handler?: IPropertyHandler;
+}
+
+export class PropertiesComponent extends React.Component<IPropertyView, IPropertyView> {
+    state: IPropertyView = { model: {}, handler: null }
+    public render() {
+        return <div className='Properties' data-is-scrollable='true'>
+            <PropertiesRenderer model={this.state.model} handler={this.state.handler} toProperties={DeviceToProperties} />
+        </div>
+    }
+}

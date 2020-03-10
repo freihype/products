@@ -1,0 +1,26 @@
+{
+    "author": "Günter Baumgart",
+    "name": "xideve",
+    "version": "0.1.2",
+    "dependencies": {},
+    "devDependencies": {},
+    "contributors": [
+        {
+            "name": "Günter Baumgart",
+            "email": "baumgart.guenter@gmail.com",
+            "url": "http://net-commander.com"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/xblox/xideve.git"
+    },
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "https://github.com/xblox/xideve/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/xblox/xideve/issues",
+    "homepage": "https://github.com/xblox/xideve"
+}

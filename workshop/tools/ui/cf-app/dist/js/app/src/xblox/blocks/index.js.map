@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../../../app/src/xblox/blocks/index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,gBAAgB,CAAC;AACvC,OAAO,EAAE,QAAQ,EAAE,MAAM,mBAAmB,CAAC;AAC7C,OAAO,EAAE,OAAO,EAAE,MAAM,WAAW,CAAC;AACpC,MAAM,CAAC,MAAM,QAAQ,GAAG;IACpB,oBAAoB,EAAE,QAAQ;IAC9B,mBAAmB,EAAE,OAAO;IAC5B,GAAG,EAAE,KAAK;CACb,CAAA"}

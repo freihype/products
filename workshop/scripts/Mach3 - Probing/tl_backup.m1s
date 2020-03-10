@@ -1,0 +1,233 @@
+'----------------------------------------------------------------------
+' ---------------------------------------------------------------------
+' These values need to be set to the exact values of your touchplate
+
+PlateThickness =  0 ' Inches
+PlateHole = 5 ' Inches
+YWidth = 66 ' Inches
+XWidth =  100 ' Inches
+' ---------------------------------------------------------------------
+ProbeFeed = 130   ' Feedrate to use for probing
+MoveFeed = 330  ' Feedrate to use for movements
+MoveFeed = 1500  ' Feedrate to use for movements
+
+RetractClearance = 0.0 ' Distance above touch plate to retract
+' ---------------------------------------------------------------------  0.393701
+ProbeLED = 825
+CurrentFeed = GetOemDRO(FeedrateDRO) ' Save current feedrate
+
+If IsSuchSignal(22) = 0 Then ' Be sure the Touch Probe is wired 
+	Message( "ERROR !! No Touch probe wired" ) 
+	End  ' Stop the Zero routine and exit back to Mach3
+	End If 
+  
+' Be sure the touch plate is not starting out grounded
+' Do nothing if probe is already grounded
+If GetOemLed(ProbeLED) <> 0 Then
+	Message( "ERROR !! Touch Plate is already grounded" ) 
+	End  ' Stop the Zero routine and exit back to Mach3
+	End If
+
+AbsMode = GetOemLED(AbsoluteModeLED) ' Save current coordinate mode
+Code "G90"                           ' Set absolute coordinate mode
+
+ToolDiameter = 86.25
+' InputBox("Enter the Tool Diameter (in inches), or -2 to find in hole, or -1 to zero Z only","AutoZero", -2)
+ToolRadius = ToolDiameter / 2 ' calculate the tool radius
+
+ToolDiameter2 = 99.75
+' InputBox("Enter the Tool Diameter (in inches), or -2 to find in hole, or -1 to zero Z only","AutoZero", -2)
+ToolRadius2 = ToolDiameter2 / 2 ' calculate the tool radius
+
+
+
+If ToolDiameter = -1 Then ' just do the normal Z zero
+	Call ZeroAxis("Z", -1, PlateThickness, RetractClearance) 
+	End If
+	
+If ToolDiameter > 0 Then ' Zero XYZ with known tool size
+	Message( "Auto Zeroing all for tool of radius " & ToolRadius ) 
+	Call ZeroAxis("X", 15, ToolRadius, -1) ' axis, range, offset, retract
+	code "G91" ' Relative positioning
+	code "G1 Y15 F" & MoveFeed ' Move toward back of machine 1.5 inch
+	Call WaitForMove()
+	code "G1 X15 F" & MoveFeed ' Move Left (to get behind edge finder .6 inches  
+	Call WaitForMove()
+	Call ZeroAxisY("Y", -35, ToolRadius2, 1) ' axis, range, offset, retract
+	code "G91" ' Relative  positioning
+	'code "G1 Z" & PlateThickness & " F" & MoveFeed  ' Raise the Z above the top of the plate
+	'Call WaitForMove()
+	code "G91" ' Relative  positioning
+	code "G1 Y15 F" & MoveFeedFast ' Move over the plate by moveing foward .7 inches
+	Call WaitForMove()
+	
+	Call gotoZero("Y", -35, ToolRadius2, 1) ' axis, range, offset, retract
+	Call WaitForMove()
+	
+	Call ZeroZAxis("Z", -50, 0, 1) 
+	sleep 1000
+	Call SetDRO( 2, 1.00 )
+	Code "G4 P2.25" ' pause for val to set
+
+	'Code "(X, Y and Z axis are zeroed)" ' put a message on status bar
+	Message ("ALL axis zeroed for " & ToolRadius & " Radius tool" )
+	End If
+
+If ToolDiameter = -2 Then ' Zero XYZ with unknown tool size
+	Message( "Auto Zeroing all for unknown tool") 
+	Call ZeroAxis("X", -PlateHole, 0, 0.1) ' axis, range, offset, retract
+	XTravel =  ZeroAxis("X", PlateHole, 0, -0.1) ' axis, range, offset, retract
+	code "G91" ' Relative positioning
+	code "G1 X-" & (XTravel/2) & " F" & MoveFeed ' Move to center on X axis
+	Call WaitForMove()
+	Call ZeroAxis("Y", -PlateHole, 0, XTravel/2) ' axis, range, offset, retract
+	YTravel = ZeroAxis("Y", PlateHole, 0, -0.1) ' axis, range, offset, retract
+
+	ToolDiameter = PlateHole - YTravel
+	ToolRadius = ToolDiameter / 2 ' calculate the tool radius
+	
+	code "G91" ' Relative positioning
+	code "G1 Y-" & (YTravel/2) & " F" & MoveFeed ' Move to center on X axis
+	Call WaitForMove()
+
+	Call SetDRO( 0, 0.00 ) 
+	Call SetDRO( 1, 0.00 ) 
+	Code "G4 P0.25" ' pause for val to set
+
+	code "G91" ' Relative  positioning
+	code "G1 Z" & PlateThickness & " F" & MoveFeed  ' Raise the Z above the top of the plate
+	Call WaitForMove()
+	code "G91" ' Relative  positioning
+	code "G1 X0.7 Y0.7 F" & MoveFeed ' Move over the plate by moveing foward .7 inches
+	Call WaitForMove()
+	Call ZeroAxis("Z", -1, PlateThickness, RetractClearance) 
+	Code "(X, Y and Z axis are zeroed)" ' put a message on status bar
+	Message ("ALL axis zeroed for " & ToolRadius & " Radius tool" )
+	End If
+
+If ToolDiameter = 0 Then
+	Message ("Cancelled")
+	End If
+
+If AbsMode = 0 Then
+	Code "G91"
+	End If
+
+Code "F" & CurrentFeed ' Reset feedrate to original value
+
+Function gotoZero(ByVal axis As String, ByVal range As Double, ByVal offset As Double, ByVal retract As Double) As Double
+	
+	code "G91" ' Relative  positioning
+	code "G1 Z20 F" & MoveFeed' Move over the plate by moveing foward .7 inches
+	Call WaitForMove()
+	Call SetDRO( 2, 0.00 ) 
+	Code "G4 P2.0" ' pause for val to set
+	code "G90" ' Relative  positioning
+	code "G1 X0 Y0 F" & MoveFeed
+	End Function	
+
+Function ZeroZAxis(ByVal axis As String, ByVal range As Double, ByVal offset As Double, ByVal retract As Double) As Double
+  
+	Message( "Auto Zeroing " & axis & "..." )
+ 	Select Case axis
+ 	 Case "X" 
+ 	 	axisno = 0
+ 	 Case "Y" 
+ 	 	axisno = 1
+ 	 Case "Z" 
+ 	 	axisno = 2
+ 	 End Select
+	Call SetDRO( axisno, 0.00 ) 
+	Code "G4 P2.25" ' pause for val to set
+	code "G91" ' Relative positioning
+	code "G31 " & axis & range & " F" & ProbeFeed ' move axis a max of range at the ProbeFeed in/min
+	Call WaitForMove()
+	If ( range > 0 And ((range - 0.01) <= GetDRO(axisno)) ) Or (range < 0 And ( (range + 0.01) >= GetDRO(axisno)) ) Then
+		Message( "ERROR: Out of range " & range & " by " & GetDRO(axisno) )
+		End
+		End If
+	If offset <> 0 Then
+		Call SetDRO( axisno, offset ) ' Set the Z zero
+		Code "G4 P0.25"    ' pause for val to set
+		End If
+	code "G1 " & axis & retract & " F" & MoveFeed  ' Retract the axis
+	Call WaitForMove()
+	Code "(" & axis & " axis is zeroed)" ' put a message on status bar
+	ZeroZAxis = GetDRO(axisno)
+	End Function
+Function ZeroAxis(ByVal axis As String, ByVal range As Double, ByVal offset As Double, ByVal retract As Double) As Double
+  
+	Message( "Auto Zeroing " & axis & "..." )
+ 	Select Case axis
+ 	 Case "X" 
+ 	 	axisno = 0
+ 	 Case "Y" 
+ 	 	axisno = 1
+ 	 Case "Z" 
+ 	 	axisno = 2
+ 	 End Select
+	Call SetDRO( axisno, 0.00 ) 
+	Code "G4 P2.25" ' pause for val to set
+	code "G91" ' Relative positioning
+	code "G31 " & axis & range & " F" & ProbeFeed ' move axis a max of range at the ProbeFeed in/min
+	Call WaitForMove()
+	If ( range > 0 And ((range - 0.01) <= GetDRO(axisno)) ) Or (range < 0 And ( (range + 0.01) >= GetDRO(axisno)) ) Then
+		Message( "ERROR: Out of range " & range & " by " & GetDRO(axisno) )
+		End
+		End If
+	If offset <> 0 Then
+		Call SetDRO( axisno, offset ) ' Set the Z zero
+		Code "G4 P0.25"    ' pause for val to set
+		End If
+	code "G1 " & axis & retract & " F" & MoveFeed  ' Retract the axis
+	Call WaitForMove()
+	Code "(" & axis & " axis is zeroed)" ' put a message on status bar
+	ZeroAxis = GetDRO(axisno)
+	End Function
+
+Function ZeroAxisY(ByVal axis As String, ByVal range As Double, ByVal offset As Double, ByVal retract As Double) As Double
+  
+	axisno = 1
+
+	Message( "Auto Zeroing " & axis & "..." & axisno )
+ 	Call SetDRO( 1, 0.00 ) 
+	Code "G4 P2.25" ' pause for val to set
+	code "G91" ' Relative positioning
+	code "G31 Y" & range & " F" & ProbeFeed ' move axis a max of range at the ProbeFeed in/min
+	
+	Call WaitForMove2()
+	If ( range > 0 And ((range - 0.01) <= GetDRO(1)) ) Or (range < 0 And ( (range + 0.01) >= GetDRO(1)) ) Then
+		Message( "ERROR: Out of range " & range & " by " & GetDRO(1) )
+		End
+		End If
+	If offset <> 0 Then
+		Call SetDRO( 1, offset ) ' Set the Z zero
+		Code "G4 P0.25"    ' pause for val to set
+		End If
+	code "G1 Y" & retract & " F" & MoveFeed  ' Retract the axis
+	Call WaitForMove2()
+	Code "(" & axis & " axis is zeroed)" ' put a message on status bar
+	ZeroAxisY = GetDRO(1)
+	Message("zeroed y " & ZeroAxisY )
+ 	
+	' Call SetDRO( 1, 0.00 )
+	End Function
+
+Function WaitForMove() As Boolean
+	While (IsMoving() = 1) And (IsEStop() = 0) ' Wait for moment to stop
+		Wend
+	If IsEStop() = 1 Then
+		Message("ERROR: E-STOP!")
+		End
+		End If
+	End Function 
+
+	
+Function WaitForMove2() As Boolean
+	While (IsMoving() = 1) And (IsEStop() = 0) ' Wait for moment to stop
+		Wend
+	If IsEStop() = 1 Then
+		Message("ERROR: E-STOP!")
+		End
+		End If
+	End Function  

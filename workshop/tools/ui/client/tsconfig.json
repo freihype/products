@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "noImplicitAny": false,
+        "module": "commonjs",
+        "target": "es6",
+        "allowJs": true,
+        "jsx": "react",
+        "lib": ["es5", "es6", "dom"],
+        "suppressImplicitAnyIndexErrors": true
+    },
+    "include": [
+        "./src/**/*"
+    ],
+    "exclude": [
+        "./**/*.spec.ts"
+    ]
+}
