@@ -26,5 +26,5 @@
 
 ## Todos
 
-- integrate latest hopper (with sensors)
-- imperial
+- integrate latest hopper (with sensors: loaded, closed)
+- integrate automatic plunger
