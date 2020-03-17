@@ -61,6 +61,7 @@
 |  Plunger  | Mechanics | 450 | 1 |  | Testing |  |
 |  Touchscreen  | Electronics | 400 | 1 |  | Testing |  |
 |  LED Feedback | Electronics | 100 | 3 | 5 | Not tested |  |
+|  Main controller | Electronics | 450 | 3 | 5 | Done |  |
 |  Audio Feedback | Electronics | 10 | 1 | 1 | Testing |  |
 |  Suspend/Resume | Electronics | 100 | 3 | 10 | Done |  |
 |  Inverter | Electronics | 250 | 2 | 1 | Done |  |
