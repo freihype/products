@@ -41,8 +41,8 @@
 |  **Component Name** | **Component Section** | **Component Price/Estimate** | **Production/Duration (hours)** | **Design/Prototyping-Duration (hours)** | **Status** | **Risk** |
 | --- | --- | --- | --- | --- | --- | --- |
 |  Shredder Box | Shredding | 1450 | 24 | 12 | Solved |  |
-|  Coupling | Drive | 120 | 4 | 10 | Design |  |
-|  Hopper | Feed | 150 | 6 | 16 | Design |  |
+|  Coupling | Drive | 120 | 4 | 10 | Removed |  |
+|  Hopper | Feed | 150 | 6 | 16 | Done |  |
 |  Shredder/Motor-Mounts | Framework |  |  |  | Solved |  |
 |  Motor | Motor | 560 | 1 | 2 | Solved |  |
 |   |  |  |  |  |  |  |
@@ -53,19 +53,23 @@
 |  Cartridges | Framework | 200 | 10 | 10 | Design |  |
 |  Wheels & mounts | Framework | 100 | 4 | 1 | Design | Middle |
 |  Cartridge loaded Sensors | Electronics | 20 | 2 | 1 | Solved |  |
-|  Chassie- Sensors | Electronics | 100 | 5 | 10 | Solved |  |
+|  Chassie- Sensors | Electronics | 80 | 5 | 10 | Solved |  |
 |  Motor Heat Sensors | Electronics | 30 | 2 | 2 | Solved |  |
-|  Auto-Reverse | Electronics | 50 | 4 | 2 | Solved |  |
-|  Feed - Sensor | Electronics | 50 | 2 | 2 | Solved |  |
+|  Auto-Reverse | Electronics | 0 | 4 | 2 | Done |  |
+|  Feed - Sensor | Electronics | 150 | 2 | 2 | Done |  |
 |  Cartridges - Full Sensor | Electronics | 20 | 1 |  | Solved |  |
+|  Plunger  | Mechanics | 450 | 1 |  | Testing |  |
+|  Touchscreen  | Electronics | 400 | 1 |  | Testing |  |
 |  LED Feedback | Electronics | 100 | 3 | 5 | Not tested |  |
-|  Audio Feedback | Electronics | 10 | 1 | 1 | Solved |  |
-|  Suspend/Resume | Electronics | 100 | 3 | 10 | Not impl. |  |
-|  Inverter | Electronics | 250 | 2 | 1 | Solved |  |
+|  Main controller | Electronics | 450 | 3 | 5 | Done |  |
+|  Audio Feedback | Electronics | 10 | 1 | 1 | Testing |  |
+|  Suspend/Resume | Electronics | 100 | 3 | 10 | Done |  |
+|  Inverter | Electronics | 250 | 2 | 1 | Done |  |
 |   |  |  |  |  |  |  |
 |  Control - Board / Fuses/,... | Electronics | 200 | 5 | 1 | Solved |  |
 |   |  |  |  |  |  |  |
 |  Sourcing,... | Logistics | 150 | 10 |  |  |  |
+
 
 ## References
 
@@ -97,3 +101,4 @@
 [Shredder Firmware](https://github.com/plastic-hub/firmware/blob/master/shredder-extrusion/README.md)
 
 <hr/>
+
