@@ -10,7 +10,7 @@
 
 **license** : proprietary
 
-**quick jumps** : - [Firmware](https://github.com/plastic-hub/firmware/tree/asterix/shredder-extrusion/firmware-next) | [Panel Design](./media/DemoRevA.pdf) | [Touchscreen Interface](./hmi)
+**quick jumps** : - [Firmware](https://github.com/plastic-hub/firmware/tree/asterix/shredder-extrusion/firmware-next) | [Panel Design](./media/DemoRevA.pdf) | [Touchscreen Interface](./hmi) | [3D Preview](https://a360.co/33VksZy)
 
 
 ## Features of the first revision
