@@ -73,13 +73,15 @@
 
 ## References
 
+
+
 - [Table Source](https://docs.google.com/spreadsheets/d/1SPyHnEtUMeZ_hL9212lvQF86MP4abl22_4R1H0gXtW0/edit#gid=0)
 
 - [Components Source](https://docs.google.com/spreadsheets/d/1SPyHnEtUMeZ_hL9212lvQF86MP4abl22_4R1H0gXtW0/edit#gid=150475076&range=A1)
 
 - [Drawings](src/components/) | [Renderings](src/renderings)
 
-- [Firmware](src/firmware)
+- [Firmware](https://github.com/plastic-hub/firmware/tree/asterix/shredder-extrusion/firmware-next)
 
 - [Orders](src/orders)
 
