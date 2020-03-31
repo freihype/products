@@ -10,6 +10,9 @@
 
 **license** : proprietary
 
+**quick jumps** : - [Firmware](https://github.com/plastic-hub/firmware/tree/asterix/shredder-extrusion/firmware-next) | [Panel Design](./media/DemoRevA.pdf) | [Touchscreen Interface](./hmi)
+
+
 ## Features of the first revision
 
 * IP55 grade housing and electronics
