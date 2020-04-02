@@ -24,9 +24,10 @@
 3. Self closing door for bottles (position : fixed)
 4. Container for shredded plastic (position : fixed)
 
-
 ![](./media/previewRevA_legend.png)
 
+Dimensions : 450x450x1200mm
+Weight: 55KG
 
 ## Features of the first revision
 
