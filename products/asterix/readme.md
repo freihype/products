@@ -17,8 +17,6 @@
 
 <img width="300px" src="./media/no_panels.JPG">
 
-
-
 ## Current design - Rev. A
 
 1. Little opening for bottle lids (position : variable)

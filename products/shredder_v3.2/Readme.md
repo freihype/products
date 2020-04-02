@@ -23,6 +23,7 @@
 - [Laser files - DXF](./laser) -  [Overview Stainless](./laser/Shredder_3.2_overview_Inox.PDF) | [Overview Steel](./laser/Shredder_3.2_overview_Ferro.PDF)
 - [Drawings](./drawings)
 - [CAD - Solidworks](./cad) - [STEP - File](./cad/shredder_v3.2.STEP)
+- [Fusion360 3D Online Preview (parts missing)](https://a360.co/2UXQFuX)
 
 ## Todos
 
