@@ -26,8 +26,9 @@
 
 ![](./media/previewRevA_legend.png)
 
-Dimensions : 450x450x1200mm
-Weight: 55KG
+**Dimensions** : 450x450x1200mm
+
+**Weight**: 55KG
 
 ## Features of the first revision
 
