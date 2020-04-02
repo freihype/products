@@ -14,9 +14,9 @@
             </p></a>
     </div>
     <div>
-        <a href="https://raw.githubusercontent.com/plastic-hub/products/master/products/sheetpress-cell/renderings/render-new-03.JPG">
+        <a href="https://precious-plastic.org/products/products/sheetpress-cell/renderings/render-new-03.JPG">
             <p style="text-align: center">
-                <img width="100%" src="https://raw.githubusercontent.com/plastic-hub/products/master/products/sheetpress-cell/renderings/render-new-03.JPG">
+                <img width="100%" src="https://precious-plastic.org/products/products/sheetpress-cell/renderings/render-new-03.JPG">
             </p></a>
     </div>
     <div style="padding: 16px; display: inline-block">

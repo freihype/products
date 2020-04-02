@@ -6,9 +6,9 @@ This is our best seller and is truly open source. It comes with auto-reverse and
             <img width="100%" src="${product_overview}">
         </p>
     </a>
-    <a href="https://raw.githubusercontent.com/plastic-hub/products/master/products/components/hal/overview.JPG">
+    <a href="https://precious-plastic.org/products/products/components/hal/overview.JPG">
         <p style="text-align: center">
-            <img width="100%" src="https://raw.githubusercontent.com/plastic-hub/products/master/products/components/hal/overview.JPG">
+            <img width="100%" src="https://precious-plastic.org/products/products/components/hal/overview.JPG">
         </p>
     </a>
 </div>
