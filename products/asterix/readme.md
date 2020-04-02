@@ -12,6 +12,21 @@
 
 **quick jumps** : - [Firmware](https://github.com/plastic-hub/firmware/tree/asterix/shredder-extrusion/firmware-next) | [Panel Design](./media/DemoRevA.pdf) | [Touchscreen Interface](./hmi) | [3D Preview](https://a360.co/33VksZy)
 
+- [3D Step File - All](./cad/Asterix-All_final.STEP)
+- [3D Step File - No panels](Asterix-All_final-no_panels_or_supports.STEP) | [3D - Preview / Download](https://a360.co/2w6kilw)
+
+
+
+## Current design - Rev. A
+
+1. Little opening for bottle lids (position : variable)
+2. Touchscreen (position : variable)
+3. Self closing door for bottles (position : fixed)
+4. Container for shredded plastic (position : fixed)
+
+
+![](./media/previewRevA_legend.png)
+
 
 ## Features of the first revision
 
