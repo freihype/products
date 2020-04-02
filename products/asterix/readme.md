@@ -10,12 +10,14 @@
 
 **license** : proprietary
 
-**quick jumps** : - [Firmware](https://github.com/plastic-hub/firmware/tree/asterix/shredder-extrusion/firmware-next) | [Panel Design](./media/DemoRevA.pdf) | [Touchscreen Interface](./hmi) | [3D Preview](https://a360.co/33VksZy)
+**quick jumps** : - [Firmware](https://github.com/plastic-hub/firmware/tree/asterix/shredder-extrusion/firmware-next) | [Panel Design](./media/DemoRevA.pdf) | [Touchscreen Interface](./hmi) | [3D Preview](https://a360.co/33VksZy) | [System Overview](https://app.diagrams.net?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Asterix-Overview.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1QVYcLk1qBjSK2Wi1ik__HUtd0Ao31LyI%26export%3Ddownload) | [Documentation](./documentation/)
 
 - [3D Step File - All](./cad/Asterix-All_final.STEP)
 - [3D Step File - No panels](Asterix-All_final-no_panels_or_supports.STEP) | [3D - Preview / Download](https://a360.co/2w6kilw)
 
 <img width="300px" src="./media/no_panels.JPG">
+
+
 
 ## Current design - Rev. A
 
