@@ -46,7 +46,7 @@ The square, needed for layout work, work holding, welding fixture, ...
 
 ## Basic wiring
 
-![](./media/wiring.jpg)
+![](./media/wiring.JPG)
 
 ## Resources
 
