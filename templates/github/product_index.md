@@ -19,7 +19,10 @@ ${product_brief}
 
 ${header}
 
+${product_gallery}
+
 ${body}
+
 <br/>
 <hr/>
 
@@ -33,6 +36,8 @@ ${body}
 - [Laser files](./laser)
 - [Discord Chat](${product_chat})
 - [Electrical wiring](./electronics)
+
+${directory_listing}
 
 ${product_howtos}
 
