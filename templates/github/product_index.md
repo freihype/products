@@ -15,19 +15,27 @@ ${product_brief}
 
 **Version** : ${product_version}
 
+**Compatible with** : ${product_pcompat}
+
 ${header}
+
 ${body}
 <br/>
 <hr/>
-${footer}
 
 **Product Resources**
 
+- [BOM 'Bill of materials'](${product_bom})
 - [3D Preview](${product_3d})
 - [Drawings](./drawings)
 - [CAD model](./cad)
 - [Wiki](./wiki)
+- [Laser files](./laser)
 - [Discord Chat](${product_chat})
 - [Electrical wiring](./electronics)
 
 ${product_howtos}
+
+<hr/>
+
+${footer}
