@@ -2,6 +2,8 @@
 
 ![](./media/pers.jpg)
 
+![](./drawings/overview.JPG)
+
 Simplified and cheaper version of the v4 extruder
 
 **Status** : in first production
@@ -48,9 +50,11 @@ The square, needed for layout work, work holding, welding fixture, ...
 
 ## Resources
 
-[CAD](./CAD)
+[CAD](./cad)
 
-[Renderings](./Renderings)
+[Renderings](./renderings)
+
+[Drawings](./drawings)
 
 [Vendor](./vendor/)
 
