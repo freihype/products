@@ -5,6 +5,9 @@
 - interlockable
 - integrated fan for fumes
 - heater blocks are TIG welded, enabling vacuum forming
+- heater blocks with perfect fit for the the cartridge heaters. This garantuees maximum lifetime as well energy savings over the 0.3mm loose fit as in the original.
+- In case you take the dual sheetpress, up to 1.20x2.40m sheets, we supply you with a tested hydraulic system
+- better rails as in v4.0
 
 <div style="clear:both">
     <div>
