@@ -2,9 +2,8 @@
 
 ![](./renderings/pers2.jpg)
 
-
 ## Resources
 
-- [CAD]()
+- [CAD](./cad)
 - [Renderings](./renderings)
 - [Hydraulics](./components/hydraulics)
