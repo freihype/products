@@ -16,7 +16,7 @@
 - adjusted mobile knifes, sieve, hex spacers, stationary knifes
 - extra bearing mounting block (UFCL206)
 
-**Status** : testing
+**Status** : **testing** | do not use this yet ! 
 
 ## Resources
 
