@@ -137,7 +137,7 @@ thumb_size = (280, 210)
 # path relative to the source directory:
 # http://docs.python.org/2/library/fnmatch.html
 ignore_directories = []
-ignore_files = []
+ignore_files = ['./sheetpress-cell/gallery']
 
 # -------------
 # Video options

@@ -9,7 +9,8 @@
         "sheetpress-cell-gallery": "sigal build -d products/sheetpress-cell/renderings/ products/sheetpress-cell/gallery/",
         "lydia4-gallery": "sigal build -d products/lydia-v4/making/random products/lydia-v4/making/gallery/",
         "bazar-zoe": "cd ..\\lang\\cli; cd node ./build/main.js bazar-product-html --debug=true --products=../../products --product=zoe",
-        "bazar-elena": "cd ..\\lang\\cli; node ./build/main.js bazar-product-html --debug=true --products=../../products --product=elena"
+        "bazar-elena": "cd ..\\lang\\cli; node ./build/main.js bazar-product-html --debug=true --products=../../products --product=elena",
+        "gallery-all": "sigal build -d ./products ./gallery/"
     },
     "author": "",
     "license": "ISC",
