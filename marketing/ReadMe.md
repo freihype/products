@@ -82,6 +82,9 @@ Global forums/expos:
 
 [Futurebuild Southeast Asia](https://www.futurebuildsea.com/) Kuala Lumpur 23. - 25. June 2020 | International trade fair and conference for sustainable building and design
 
+[IFAT](https://www.ifat.de/en/) World's Leading Trade Fair for Water, Sewage, Waste and Raw Materials Management
+07. - 11. September 2020 | Messe München 
+
 
 Local Authorities/Councils
 Corporate sponsored oureach schemes
