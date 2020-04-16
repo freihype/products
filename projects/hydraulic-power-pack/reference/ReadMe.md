@@ -26,6 +26,11 @@
  ### Existing Products
  
  [Little Champ](https://pdf.directindustry.com/pdf/continental-hydraulics/little-champ-hydraulic-power-units-catalog/7308-97992.html)
- !(http://www.zeushydratech.com/wp-content/uploads/2015/09/Little-Champ-500x500.gif)
+ ![Little Champ](http://www.zeushydratech.com/wp-content/uploads/2015/09/Little-Champ-500x500.gif)
  
- Available in kit form: !(https://www.continentalhydraulics.com/wp-content/uploads/2018/11/champ-kit-clean-web.jpg)
+ Available in kit form: ![Little Champ Kit](https://www.continentalhydraulics.com/wp-content/uploads/2018/11/champ-kit-clean-web.jpg)
+
+
+[Flowfit Hydraulic 12V DC single acting trailer kit](http://www.flowfitonline.com/hydraulic-power-units/trailer-tipper-assemblies/flowfit-hydraulic-12v-dc-single-acting-trailer-kit-to-lift-39-tonne-400mm-cylinder-stroke?gclid=EAIaIQobChMIs5-8y4ft6AIVSkPTCh36FgmNEAkYASABEgLGWfD_BwE) to lift 3.9 Tonne, ~£350 INCLUDING CYLINDER!! 400mm cylinder stroke
+
+![Flowfit 12V](https://images-na.ssl-images-amazon.com/images/I/51jYe1Rob2L.jpg)
