@@ -1,0 +1,53 @@
+
+|  Type | Item | Qty. | URL (Europe) | Price | Part/Assembly Number | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+|  Beams and Sheets | Hexagon stock Ø41 mm S235JR | 0.1 m | [link](https://www.hattemleeuw.nl/) | € 75.15 | EXTPRO-V1 1100.01, EXTPRO-V1 1140.03 | Ordered per 3 meter |
+|  Beams and Sheets | Seamless tube stock Ø40 x 5 mm, DIN 2391, S235JR | 0.75 m | [link](https://www.hattemleeuw.nl/) | € 36.00 | EXTPRO-V1 1130.01, EXTPRO-V1 1140.01, EXTPRO-V1 1200.01, EXTPRO-V1 1200.02 | Ordered per 6 meter |
+|  Beams and Sheets | Thick walled tube Ø82,5X22,2 mm S355J2H | 0.3 m | [link](https://www.hattemleeuw.nl/) | € 85.00 | EXTPRO-V1 1121.01, EXTPRO-V1 1121.02, EXTPRO-V1 1130.02 | Ordered per meter |
+|  Beams and Sheets | Tube Ø139,7X3,7 mm S355J2H | 0.03 m | [link](https://www.hattemleeuw.nl/) | € 10.00 | EXTPRO-V1 1110.01 | Ordered per meter |
+|  Beams and Sheets | Round rod stock Ø60 mm, 42CrMo4 (or C45) | 0.36 m | [link](https://shop.kloeckner.fr/) | € 38.83 | EXTPRO-V1 1120.01, EXTPRO-V1 1120.02 | Ordered per 6 meter |
+|  Beams and Sheets | Laser cut part : hinges, flanges, electronic box | 1 | [link](https://www.247tailorsteel.com/nl) | € 81.50 | EXTPRO-V1-1110.02_A, EXTPRO-V1-1110.03_A, EXTPRO-V1-1130.03_A, EXTPRO-V1-1140.02_A<br/>EXTPRO-V1-2100.01_A, EXTPRO-V1-2100.02_A, EXTPRO-V1-2100.03_A, EXTPRO-V1-2100.04_A, EXTPRO-V1-2100.05_A, EXTPRO-V1-2100.06_A,<br/>EXTPRO-V1-3000.04_A, EXTPRO-V1-3000.05_A, |  |
+|  Beams and Sheets | Square tube steel 40 x 40 x 2.6 | 2 | [link](https://www.danielsmetalen.nl/prijslijst_constructiestalen_plaatmaterialen.pdf#page=1) | € 24.00 | EXTPRO-V1 3000.01 | (By 6 meters) |
+|  Beams and Sheets | L angle steel 25 x 25 x 3 mm | 1 | [link](https://www.danielsmetalen.nl/prijslijst_constructiestalen_plaatmaterialen.pdf#page=1) | € 6.26 | EXTPRO-V1 2000.01, EXTPRO-V1 3000.01 | (By 6 meters) |
+|  Beams and Sheets | Flat steel Bar 25 x 5 mm | 1 | [link](https://www.danielsmetalen.nl/prijslijst_constructiestalen_plaatmaterialen.pdf#page=1) | € 5.25 | EXTPRO-V1 3000.01 | (By 6 meters) |
+|  Beams and Sheets | Metal sheet 2000 x 1000 x 0,5 mm | 1 | [link](https://www.danielsmetalen.nl/prijslijst_constructiestalen_plaatmaterialen.pdf#page=1) | € 12.50 | EXTPRO-V1 1200.04 |  |
+|  Beams and Sheets | Plywood Sheet | 1 | [link](https://www.hornbach.nl/shop/Multiplexplaat-Powerplex-Pure-interieur-2440-x-1220-x-15-mm/8492344/artikel.html?varCat=S23172##v8492350) | € 39.99 | EXTPRO-V1 3000.02, EXTPRO-V1 3000.03 |  |
+|  Fastners | M8 x 45 Socket head screw | 4 | [link](https://shop.eriks.nl/en/fasteners-bolts-socket-head-cap-screws-fillister-head-screws/din912-hex-socket-head-cap-screw-steel-8-8-zinc-plated-m8x45mm-23241231/) | € 0.80 | EXTPRO-V1 30 |  |
+|  Fastners | M8 x 25 Socket head screw | 6 | [link](https://shop.eriks.nl/en/fasteners-bolts-socket-head-cap-screws-fillister-head-screws/din912-hex-socket-head-cap-screw-steel-8-8-zinc-plated-pr-ec002356-0008-csc/?langId=-1&storeId=100001&catalogId=1000&productId=1459079&pageNumber=0&categoryId=19751&itemCount=25&pageName=ProductPage&searchTerm=&itemFacet=&itemFacet=adf_f174004%253A%25228.0%2522&itemFacet=adf_f142464%253A%252225.0%2522&itemFacet=&pageSize=10) | € 0.78 | EXTPRO-V1 09 |  |
+|  Fastners | M6 x 60 Socket head screw | 2 | [link](https://shop.eriks.nl/en/fasteners-bolts-socket-head-cap-screws-fillister-head-screws/din912-hex-socket-head-cap-screw-steel-8-8-zinc-plated-pr-ec002356-0008-csc/?langId=-1&storeId=100001&catalogId=1000&productId=1459079&pageNumber=0&categoryId=19751&itemCount=1&pageName=ProductPage&searchTerm=&itemFacet=&itemFacet=adf_f174004%253A%25226.0%2522&itemFacet=adf_f142464%253A%252260.0%2522) | € 0.26 | EXTPRO-V1 27 |  |
+|  Fastners | M6 x 35 Socket head screw | 4 | [link](https://shop.eriks.nl/en/fasteners-bolts-socket-head-cap-screws-fillister-head-screws/din912-hex-socket-head-cap-screw-steel-8-8-zinc-plated-m6x35mm-23241210/) | € 0.36 | EXTPRO-V1 32 |  |
+|  Fastners | M6 x 20 Socket head screw | 12 | [link](https://shop.eriks.nl/en/fasteners-bolts-socket-head-cap-screws-fillister-head-screws/din912-hex-socket-head-cap-screw-steel-8-8-zinc-plated-yellow-passivated-m6x20mm-23241438/) | € 0.84 | EXTPRO-V1 07 |  |
+|  Fastners | M6 x 16 Socket head screw | 20 | [link](https://shop.eriks.nl/en/fasteners-bolts-socket-head-cap-screws-fillister-head-screws/din912-hex-socket-head-cap-screw-steel-8-8-zinc-plated-m6x16mm-23241204/) | € 1.20 | EXTPRO-V1 08 |  |
+|  Fastners | M6 x 10 Socket head screw | 4 | [link](https://shop.eriks.nl/en/fasteners-bolts-socket-head-cap-screws-fillister-head-screws/din912-hex-socket-head-cap-screw-steel-8-8-zinc-plated-m6x10mm-23241202/) | € 0.20 | EXTPRO-V1 15 |  |
+|  Fastners | M5 x 16 Socket head screw | 6 | [link](https://shop.eriks.nl/en/fasteners-bolts-socket-head-cap-screws-fillister-head-screws/din912-hex-socket-head-cap-screw-steel-8-8-zinc-plated-m5x16mm-23241188/) | € 0.24 | EXTPRO-V1 25 |  |
+|  Fastners | M8 Nuts | 4 | [link](https://shop.eriks.nl/en/fasteners-nuts-hexagonal-full-nuts/hex-nut-din934-steel-10-9-m8-23238449/) | € 0.24 | EXTPRO-V1 31 |  |
+|  Fastners | M6 Nuts | 4 | [link](https://shop.eriks.nl/en/fasteners-nuts-hexagonal-full-nuts/hex-nut-din934-steel-10-9-m6-23238448/) | € 0.24 | EXTPRO-V1 28 |  |
+|  Fastners | M5 Nuts | 6 | [link](https://shop.eriks.nl/en/fasteners-nuts-hexagonal-full-nuts/hex-nut-din934-steel-10-9-m5-23238447/) | € 0.36 | EXTPRO-V1 14 |  |
+|  Fastners | M8 washers | 4 | [link](https://shop.eriks.nl/en/fasteners-washers-plain-washers/flat-washer-steel-din-125-m8-23256064/) | € 0.08 | EXTPRO-V1 29 |  |
+|  Fastners | M6 Washers | 8 | [link](https://shop.eriks.nl/en/fasteners-washers-plain-washers/flat-washer-steel-electrolytic-zinc-plated-din-125-m6-23256090/) | € 0.08 | EXTPRO-V1 26 |  |
+|  Motor | Motorreductor Siemens BAZ39-LE100ZLSB4P | 1 | [link](https://www.koster-elektromotoren.nl/) | € 912.00 | EXTPRO-V1 01 | Hollow shaft Ø30 + Key way |
+|  Electronics | Inverter drive | 1 | [link](https://nl.rs-online.com/web/p/inverter-drives/1756234/) | € 454.16 | EXTPRO-V1 17, EXTPRO-V1 22 |  |
+|  Electronics | Control cable for inverter drive | 1 | [link](https://nl.rs-online.com/web/p/inverter-drives/1756249/) | € 14.40 | NA |  |
+|  Electronics | PID Controller | 3 | [link](https://www.amazon.de/Digitaler-Temperaturregler-REX-C100-Thermostat-Relaisausgang/dp/B078M7GCDK/ref=sr_1_3?keywords=rex+c100&qid=1565196185&refinements=p_76%3A419122031&rnid=419121031&rps=1&s=gateway&sr=8-3) | € 20.24 | EXTPRO-V1 16 |  |
+|  Electronics | SSR Heatsink | 3 | [link](https://www.amazon.de/easycargo-Aluminium-K%C3%BChlk%C3%B6rper-Heizk%C3%B6rper-80-mmx50mmx50/dp/B07B3Y2ZNY/ref=sr_1_24?keywords=ssr&qid=1565195998&s=gateway&sr=8-24) | € 29.97 | EXTPRO-V1 19 |  |
+|  Electronics | 40A SSR | 3 | [link](https://www.amazon.de/KKmoon-24V-380V-SSR-40-Relaismodul-Temperaturregler/dp/B010Q6898C/ref=sr_1_1_sspa?keywords=ssr+40a&qid=1565195313&refinements=p_76%3A419122031&rnid=419121031&rps=1&s=gateway&sr=8-1-spons&psc=1) | € 26.97 | EXTPRO-V1 18 |  |
+|  Electronics | Emergency Stop | 1 | [link](https://nl.rs-online.com/web/p/emergency-stop-push-buttons/1682546/) | € 15.78 | EXTPRO-V1 21 |  |
+|  Electronics | Button On/Off | 1 | [link](https://nl.rs-online.com/web/p/rotary-cam-switches/0332133/) | € 18.78 | EXTPRO-V1 20 |  |
+|  Electronics | M20 Cable Gland | 1 | [link](https://nl.rs-online.com/web/p/cable-glands/6694660/) | € 4.57 | EXTPRO-V1 24 | Bag of 5 pieces |
+|  Electronics | M16 Cable Gland | 2 | [link](https://nl.rs-online.com/web/p/cable-glands/6694667/) | € 11.79 | EXTPRO-V1 23 | Bag of 5 pieces |
+|  Electronics | 12A Contactor | 1 | [link](https://nl.rs-online.com/web/p/contactors/4930129/) | € 51.87 | NA |  |
+|  Electronics | 16A Male Plug | 1 | [link](https://www.hornbach.nl/shop/PCE-CEE-Fase-inverter-16A/828911/artikel.html) | € 9.50 | NA | If no plug included with the motor |
+|  Electronics | H07 5 Multi-core Cable (6mm) | 1 | [link](https://www.neopreen-kabel.nl/5-aderige-neopreenkabel/24-5-x-25-mm2-neopreenkabel-tm-99-meter.html#_qty-7) | € 24.20 | NA | (For 5 meter) If no Multi-core Cable included with the motor |
+|  Electronics | Electric Splicing Connector | 1 | [link](https://www.amazon.fr/Wago-Blister-panach%C3%A9-connexion-automatique/dp/B06XRHV7VJ/ref=sr_1_15?qid=1575247488&refinements=p_89%3AWago&s=hi&sr=1-15) | € 9.90 | NA |  |
+|  Electronics | Heating element Ø40 x 20mm 350W Type 4 | 1 | [link](https://webshop.rokoma.com/?p=p&i=172) | € 27.58 | EXTPRO-V1 11 | (1 Meter cable) |
+|  Electronics | Heating element Ø40 x 50mm 350W Type 4 | 5 | [link](https://webshop.rokoma.com/?p=p&i=172) | € 200.73 | EXTPRO-V1 13 | (1 Meter cable) |
+|  Electronics | Thermocouple collar | 3 | [link](https://www.tcdirect.nl/Default.aspx?level=2&department_id=180/26) | € 78.03 | EXTPRO-V1 12 |  |
+|  Misc. | Extrusion screw - D=30 L=600 | 1 | [link](https://zswxlg.en.alibaba.com/?spm=a2700.8443308.0.0.13dc2364vILPmG) | € 189.72 | EXTPRO-V1 1100.02-A | Price with bulk |
+|  Misc. | Ammlock ALK 142 / 20 x 47 | 1 | [link](https://www.atd.nl/klembus-ammlock-p-22279.html) | € 19.80 | NA |  |
+|  Misc. | Taper roller bearing | 2 | [link](https://shop.eriks.nl/nl/lagers-kegellagers-kegellagers-metrisch/eenrijig-kegellager-32006-x-q-23756738/) | € 27.78 | EXTPRO-V1 04 |  |
+|  Misc. | Radial shaft seal | 2 | [link](https://shop.eriks.nl/nl/afdichtingstechniek-asafdichtingen-oliekeerringen/oliekeerring-nbr-r-42x55x8-10006078/) | € 7,10 | EXTPRO-V1 02 |  |
+|  Misc. | Shaft Collar Ø30 | 1 | [link](https://nl.rs-online.com/web/p/collars/1746739/) | € 15.15 | EXTPRO-V1 03 |  |
+|  Misc. | Worm drive clamp 50 mm | 2 | [link](https://nl.rs-online.com/web/p/hose-clips-jubilee-clips/0525278/) | € 1.28 | EXTPRO-V1 10 | Bag of 5 pieces |
+|  Misc. | Iron Fitting Plain Plug, 1/4 | 1 | [link](https://nl.rs-online.com/web/p/malleable-iron-fittings/2435177/?relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D626572266C753D656E266D6D3D6D61746368616C6C26706D3D5E2828282872737C5253295B205D3F293F285C647B337D5B5C2D5C735D3F5C647B332C347D5B705061415D3F29297C283235285C647B387D7C5C647B317D5C2D5C647B377D2929292426706F3D3126736E3D592673723D2673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D3234332D35313737267374613D3234333531373726&searchHistory=%7B%22enabled%22%3Atrue%7D) | € 6.13 | NA | Bag of 10 pieces |
+|  Misc. | Isolant cork gasket | 1 | [link](https://www.techniekwebshop.nl/reinz-rubb-kurkpakking-914x914x2-mm-703122200-2-mm-914-mm-914-mm.html?fbclid=IwAR2tuOp9w5Qo3fVwDN1flQzxURfx7JI8HJQ1rG_sq6SDXoFRB47DGniZizw) | € 40.96 | EXTPRO-V1 1200.03-A |  |
+|   |  |  | Total: | € 2,631.45 |  |  |
