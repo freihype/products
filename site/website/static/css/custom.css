@@ -1,0 +1,620 @@
+/* your custom css */
+
+body {
+  background-color: #f4f6f7;
+  overflow-x: hidden;
+  font-family: $bodyFont;
+}
+
+.wrapper {
+  padding: 0 20px;
+}
+
+.button {
+  background: #fee77b;
+  border: 2px solid #2c2c2c;
+  border-radius: 5px;
+  color: #000;
+  padding: 20px;
+}
+
+.downloadButton {
+  background-color: rgb(131, 206, 235);
+  padding: 20px;
+  color: #fff;
+  text-shadow: 0 2px 2px rgb(110, 173, 198);
+  border: 2px solid rgb(110, 173, 198);
+  border-radius: 4px;
+  display: inline-block;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  transition: all 180ms;
+  text-decoration: none;
+}
+
+.downloadButton.small {
+  padding: 5px 8px;
+  font-size: 12px;
+}
+
+.downloadButton:hover {
+  background-color: rgb(112, 197, 230);
+  border-color: rgb(101, 173, 201);
+  color: #fff;
+  text-decoration: none;
+}
+
+article .videocontainer {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  margin-bottom: 45px;
+}
+
+article iframe {
+  border: 5px #f29094 solid;
+  border-radius: 10px;
+  margin: 20px 0;
+  width: 100%;
+}
+
+article .videocontainer iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+a {
+  color: rgb(131, 206, 235);
+  color: var(--links, var(--highlight, $primaryColor));
+}
+
+details > summary {
+  cursor: pointer;
+}
+
+.navGroup ul li.navListItem {
+  border-color: transparent;
+}
+
+.subNavGroup .navListItem {
+  margin: 0px !important;
+}
+
+.navGroup ul li.navListItem:hover {
+  border-left: 4px var(--highlight, $primaryColor) solid;
+  transition: border-color 0.3s;
+  text-decoration: none;
+}
+
+.navGroup ul li.navListItem:hover a {
+  margin-left: -4px;
+}
+
+.toc .toggleNav ul li.navListItemActive a {
+  color: $defaultFontColor;
+  margin-left: -4px;
+}
+
+.toc .toggleNav .navGroup ul li.navListItem {
+  position: relative;
+  z-index: 1;
+}
+
+.toc .toggleNav ul li a {
+  color: #afafaf;
+}
+
+.toc .toggleNav ul li a:hover,
+.toc .toggleNav ul li a:focus {
+  color: $defaultFontColor;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(131, 206, 235);
+  color: var(--hover, $primaryColor);
+  text-decoration: underline;
+}
+
+article .videocontainer {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  margin-bottom: 45px;
+}
+
+article iframe {
+  border: 5px solid var(--highlight, $primaryColor);
+  border-radius: 10px;
+  margin: 20px 0;
+  width: 100%;
+}
+
+article .videocontainer iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+ol {
+  margin-left: 30px;
+}
+
+article div span h1:first-child {
+  margin-top: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Varela Round", "sans-serif";
+}
+
+/* Remove pro-tip formatting
+article code {
+  background-color: transparent;
+  background-image: url("/academy/img/protip_highlight.svg");
+  background-repeat: no-repeat;
+  background-position: 0 40px;
+  background-size: 100%;
+  border-radius: 0;
+  color: inherit;
+  font-family: $bodyFont;
+  font-size: 100%;
+  margin: 0 60px 0 -20px;
+  padding: 50px 20px 0 20px;
+  display: block;
+  min-height: 130px;
+  position: relative;
+}
+
+article code:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  background-image: url("/academy/img/protip.svg");
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 40px;
+  display: block;
+}
+*/
+.navGroup .collapsible {
+  font-size: 16px;
+  background-repeat: no-repeat;
+  background-image: none;
+  padding: 10px;
+  margin: 0;
+}
+
+.navGroup {
+  position: relative;
+}
+
+.navGroup h3 {
+  position: relative;
+  z-index: 1;
+}
+
+.navGroup ul:after {
+  background-repeat: no-repeat;
+  background-size: auto;
+  position: absolute;
+  content: "";
+  display: block;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  pointer-events: none;
+  z-index: -5;
+}
+
+.navGroups > .navGroup:nth-child(1) > .collapsible:hover,
+.navGroups > .navGroup:nth-child(1) > ul:after {
+  background-image: url("/academy/img/highlight_stroke_intro.svg");
+  background-size: 102.68px 39.91px;
+}
+
+.navGroups > .navGroup:nth-child(2) > .collapsible:hover,
+.navGroups > .navGroup:nth-child(2) > ul:after {
+  background-image: url("/academy/img/highlight_stroke_plastic.svg");
+  background-size: 138.01px 41.37px;
+}
+
+.navGroups > .navGroup:nth-child(3) > .collapsible:hover,
+.navGroups > .navGroup:nth-child(3) > ul:after {
+  background-image: url("/academy/img/highlight_stroke_build.svg");
+  background-size: 135.23px 44.16px;
+}
+
+.navGroups > .navGroup:nth-child(4) > .collapsible:hover,
+.navGroups > .navGroup:nth-child(4) > ul:after {
+  background-image: url("/academy/img/highlight_stroke_collect.svg");
+  background-size: 154.69px 44.96px;
+}
+
+.navGroups > .navGroup:nth-child(5) > .collapsible:hover,
+.navGroups > .navGroup:nth-child(5) > ul:after {
+  background-image: url("/academy/img/highlight_stroke_create.svg");
+  background-size: 136.83px 37px;
+}
+
+.navGroups > .navGroup:nth-child(6) > .collapsible:hover,
+.navGroups > .navGroup:nth-child(6) > ul:after {
+  background-image: url("/academy/img/highlight_stroke_business.svg");
+  background-size: 173.72px 36.5px;
+}
+
+.navGroups > .navGroup:nth-child(7) > .collapsible:hover,
+.navGroups > .navGroup:nth-child(7) > ul:after {
+  background-image: url("/academy/img/highlight_stroke_starterkits.svg");
+  background-size: 174.46px 42.01px;
+}
+
+.navGroups > .navGroup:nth-child(8) > .collapsible:hover,
+.navGroups > .navGroup:nth-child(8) > ul:after {
+  background-image: url("/academy/img/highlight_stroke_experiments.svg");
+  background-size: 243.5px 49.04px;
+}
+
+.navGroups > .navGroup:nth-child(9) > .collapsible:hover,
+.navGroups > .navGroup:nth-child(9) > ul:after {
+  background-image: url("/academy/img/highlight_stroke_questions.svg");
+  background-size: 148.4px 39.91px;
+}
+
+.navGroups > .navGroup:nth-child(10) > .collapsible:hover,
+.navGroups > .navGroup:nth-child(10) > ul:after {
+  background-image: url("/academy/img/highlight_stroke_download.svg");
+  background-size: 201.44px 46.2px;
+}
+
+.navGroups > .navGroup:nth-child(12) > .collapsible:hover,
+.navGroups > .navGroup:nth-child(12) > ul:after {
+  background-image: none;
+}
+
+.toc .toggleNav .navGroup h4.navGroupSubcategoryTitle {
+  color: #afafaf;
+  padding: 5px 0 5px 1px;
+  cursor: pointer;
+  position: relative;
+}
+
+.toc .toggleNav .navGroup h4.navGroupSubcategoryTitle:after {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 50%;
+  display: block;
+  background-image: url("/academy/img/chevron-down.svg");
+  background-repeat: no-repeat;
+  width: 24px;
+  height: 24px;
+  margin-top: -12px;
+  transition: transform 200ms ease-in-out;
+}
+
+.toc .toggleNav .navGroup h4.navGroupSubcategoryTitle.upsideDown {
+  color: #404040;
+}
+
+.upsideDown:after {
+  transform: rotate(180deg);
+  -webkit-filter: grayscale(100%) brightness(500%) brightness(25%);
+  filter: grayscale(100%) brightness(500%) brightness(25%);
+}
+
+.navGroup.subNavGroup ul::after {
+  display: none;
+}
+
+.toc .toggleNav .navGroup {
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+.toc .toggleNav .navGroup ul.hide {
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.5s, visibility 0s linear;
+  display: block;
+  border-left: 4px solid transparent;
+  height: 0;
+  margin: 0;
+  margin-left: 10px;
+}
+
+.toc .toggleNav .navGroup ul li.navListItem {
+  margin-left: -4px;
+  padding-left: 15px;
+  margin-bottom: 5px;
+}
+
+.toggleNav h2 i {
+  font-style: normal;
+}
+
+.navGroup ul li.navListItemActive {
+  border-left: 4px solid var(--highlight, $primaryColor);
+}
+
+.navGroup .arrow {
+  display: none;
+}
+
+.onPageNav {
+  display: none;
+}
+
+.postHeaderTitle {
+  display: none;
+}
+
+.videoChapters {
+  display: flex;
+}
+
+.videoChaptersSidebar {
+  display: none;
+}
+
+.tns-outer {
+  position: relative;
+}
+
+.tns-item > * {
+  height: 600px;
+  object-fit: contain;
+}
+
+.tns-controls {
+  margin-top: -32px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.tns-controls button:hover {
+  color: #000 !important;
+}
+
+.tns-controls button:first-child {
+  width: 44px;
+  height: 44px;
+  text-align: center;
+  color: #66737f;
+}
+
+.tns-controls button:last-child {
+  width: 44px;
+  height: 44px;
+  text-align: center;
+  color: #66737f;
+}
+
+.tns-nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 22px;
+}
+
+.tns-nav button {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1;
+  margin: 0 8px 0 0;
+  overflow: visible;
+  text-transform: none;
+  -webkit-appearance: button;
+  background-color: $primaryFade;
+  border: none;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  padding: 0;
+}
+
+button.tns-nav-active {
+  background-color: $primaryColor;
+}
+
+.tns-controls button {
+  font-family: inherit;
+  font-size: 200%;
+  line-height: 1;
+  margin: 0;
+  overflow: visible;
+  text-transform: none;
+  -webkit-appearance: button;
+  background: none;
+  color: rgba(255, 255, 255, 0.7);
+  border: none;
+  transition: color 300ms;
+}
+
+.tns-controls button:hover {
+  color: rgba(255, 255, 255, 1);
+}
+
+.navigationSlider .slidingNav ul {
+  margin-bottom: 0;
+  background-color: $primaryColor;
+}
+
+.navigationSlider .slidingNav ul li.siteNavItemActive > a:focus,
+.navigationSlider .slidingNav ul li.siteNavItemActive > a:hover,
+.navigationSlider .slidingNav ul li.siteNavItemActive > a {
+  background-color: $primaryShade;
+}
+
+.icon-list {
+  display: flex;
+  align-content: center;
+  justify-content: flex-start;
+}
+
+.icon-list img {
+  width: 100%;
+  height: 100%;
+  max-width: 40px;
+  max-height: 40px;
+}
+
+.icon-list div {
+  margin-right: 70px;
+}
+
+.icon-list div::after {
+  content: attr(data-label);
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  font-size: 0.9em;
+}
+/* Remove Header */
+.fixedHeaderContainer {
+  display: none;
+}
+.navPusher {
+  padding-top: 0;
+}
+
+.docLastUpdate {
+  text-align: left;
+}
+
+
+/* Edit page button */
+a.edit-page-link {
+  float: none;
+  padding: 8px;
+  background: none;
+  border: none;
+  position: absolute;
+  bottom: -100px;
+}
+
+header.postHeader {
+  text-align: center;
+  margin-bottom: 0 !important;
+}
+
+table th,
+table td {
+  padding: 0.5rem;
+  vertical-align: top;
+}
+
+table tr,
+table tr:nth-child(2n) {
+  background-color: white;
+}
+
+table {
+  display: inline-table;
+}
+
+hr {
+  border-color: #000;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 4px;
+}
+
+.note {
+  background-color: #caeff8;
+  color: #66737f;
+  border-left: 8px solid #29bbe3;
+  padding: 15px 30px 15px 15px;
+}
+
+/* Desktop and up */
+@media only screen and (min-width: 1024px) {
+  .toc {
+    padding: 50px 0;
+  }
+  /*
+  .mainContainer {
+      height: 100%;
+      overflow-y: scroll;
+      margin-right: 9px;
+      padding-right: 15px;
+  }
+
+  .docMainWrapper {
+    margin: 50px auto;
+    width: 80%;
+    background: #fff;
+    border-radius: 10px;
+    border: 2px solid #000;
+    height: calc(100vh - 100px);
+  }
+
+  .docsNavContainer {
+    height: 100%;
+  }
+*/
+  .wrapper {
+    padding: 0 50px;
+  }
+
+  .docsNavContainer {
+    top: 0px;
+    height: calc(100vh - 0px);
+  }
+
+  .separateOnPageNav.sideNavVisible .navPusher .mainContainer {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+}
+
+/* Tablet (think iPad) and up */
+@media only screen and (min-device-width: 768px) {
+  .videoChaptersMain {
+    width: 75%;
+    margin-right: 5%;
+  }
+
+  .videoChaptersSidebar {
+    display: block;
+  }
+
+  .videoChaptersSidebar ul {
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+    list-style-type: none;
+  }
+
+  .videoChaptersSidebar li {
+    color: #bababa;
+    font-size: 13px;
+    margin-bottom: 15px;
+  }
+
+  .videoChaptersSidebar li:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.loaded.fileStats {
+  opacity: 1;
+}
+
+.fileStats {
+  color: gray !important;
+  display: inline-block;
+  padding: 0 10px;
+  font-size: 0.6em;
+  text-align: center;
+  opacity: 0;
+  text-transform: uppercase;
+}
