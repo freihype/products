@@ -1,0 +1,13 @@
+# Hydraulic Power Pack
+
+## Overview
+
+An open source hydraulic power pack intended to supply a single ram to actuate future hydraulic Precious Plastic injection machines.
+
+Spec: (Suggested)
+
+Power output (Horsepower, kW): 3hp - 2.2kW
+
+Motor RPM: 1440
+
+Flow Rate: 30L/MIN
