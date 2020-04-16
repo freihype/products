@@ -35,6 +35,8 @@ Clamping Force: ~5 Ton
 
 - [Pressure Relief Valve](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/pressure-relief-valve/ReadMe.md)
 
+- [Power Supply](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/power-supply/ReadMe.md)
+
 - Pressure Guage
 
 - Flow Meter
