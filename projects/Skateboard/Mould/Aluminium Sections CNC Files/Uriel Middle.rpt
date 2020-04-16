@@ -1,0 +1,62 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : 
+Receiving System Product I.D.: 
+File Name                    : E:\Design Work\DM3701 Major Project\Final Mould\Aluminium Sections CNC Files\Uriel Middle.igs
+Sending System               : Rhinoceros ( Sep 13 2016 )
+Preprocessor Version         : Trout Lake IGES 012 Sep 13 2016
+File Creation Date           : 170410.024606
+Model Creation Date          : 170410.024606
+Units                        : MM
+Model Space Scale            : 1
+Author                       : 
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                13.7038
+  Maximum distance to origin:                          551.392
+  Minimum distance to origin:                          215.487
+  Effective number of significant digits:              13.6415
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+126  Rational B-spline curve                        140       140
+128  Rational B-spline surface                       15        15
+141  Boundary                                        15        15
+143  Bounded surface                                 13        13
+314  Color definition                                 1         1
+406  Property                                         2         2
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Monday, April 10, 2017 03:54:21
+Finish time: Monday, April 10, 2017 03:54:22
+Processing time: 0 days, 00 hours, 00 mins, 01 secs
