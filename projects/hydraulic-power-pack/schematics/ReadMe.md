@@ -1,5 +1,4 @@
 ## Hydraulic Power pak
 
 # Schematics
-
-(insert)
+1![Basic schematic](/schematics/hydraulic-power-pack-schematic.jpg)
