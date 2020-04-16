@@ -9,10 +9,15 @@
 Targets are assumed to value one or more of the following: 
 
 Making
+
 Environmentalism
+
 Education
+
 Entrepreneurship
+
 'Edutainment'
+
 B2B (Resellers/wholesalers)
 
 
@@ -29,15 +34,25 @@ Deploy PP keyboard warriors across multi-platform network (discord heros)
 Mainstream Social Media: (best candidates indicated *)
 
 Facebook *
+
 Youtube*
+
 Whatsapp
+
 FB messengeer
+
 WeChat
+
 Instagram *
+
 TikTok
+
 Reddit*
+
 SnapChat
+
 Twitter*
+
 Pinterest*
 
 
@@ -46,21 +61,30 @@ Niche communities and Special Interest POCs
 Blogger/Vlogger Channels:
 
 [3D Printing Nerd](https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ)
+
 [Makeit extreme](https://www.youtube.com/channel/UCkhZ3X6pVbrEs_VzIPfwWgQ)
 
 Forums:
 
 Making-
 [MadModder](https://madmodder.net/index.php) Great engineering forum
+
 [UKWorkshop](https://www.ukworkshop.co.uk/forums/metalworking-forum-t41593.html) UK forum
+
 [CircuitMaker](https://circuitmaker.com/forum)
+
 [EngineeringClicks](https://www.engineeringclicks.com/forum/?s=8fe453f5321fcc042126b6f7978d9b8d)
+
 [The Maker Forums](https://forum.makerforums.info/)
 
 Environmentalism-
+
 [EU Forum](https://community.eea.europa.eu/home/environmental-topics)
+
 [Care2](https://www.care2.com/)
+
 [MindBodyGreen](https://www.mindbodygreen.com/)
+
 [EnviroLink](https://www.envirolink.org/forum/)
 
 Education:
@@ -68,10 +92,12 @@ Education:
 
 
 
-'Real Life'
+'Real Life':
 
 Makerspaces
+
 Universities/colleges
+
 Trade shows/Industry Expos
 
 Global forums/expos: 
@@ -87,7 +113,9 @@ Global forums/expos:
 
 
 Local Authorities/Councils
+
 Corporate sponsored oureach schemes
+
 Youth Centres/Support groups
 
 Independent demonstrator salespeople? (commission based)
