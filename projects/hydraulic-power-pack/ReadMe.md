@@ -12,6 +12,8 @@ Motor RPM: 1440
 
 Flow Rate: 30L/MIN
 
+Clamping Force: ~5 Ton
+
 
 
 ## Parts Overview
@@ -19,19 +21,19 @@ Flow Rate: 30L/MIN
 
 #### Primary Components:
 
-- Motor
+- [Motor](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/motor/ReadMe.md)
 
-- Coupling
+- [Coupling](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/coupling/ReadMe.md)
 
-- Pump
+- [Pump](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/pump/ReadMe.md)
 
-- Bell Housing
+- [Bell Housing](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/bell-housing/ReadMe.md)
 
-- Oil Reservoir
+- [Oil Reservoir](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/reservoir/ReadMe.md)
 
-- Filtration
+- [Filtration](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/filtration/ReadMe.md)
 
-- Pressure Relief Valve
+- [Pressure Relief Valve](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/pressure-relief-valve/ReadMe.md)
 
 - Pressure Guage
 
