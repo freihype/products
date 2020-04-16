@@ -33,30 +33,32 @@ Deploy PP keyboard warriors across multi-platform network (discord heros)
 
 Mainstream Social Media: (best candidates indicated *)
 
-Facebook *
+Facebook * - sophisticated targeted ads
 
-Youtube*
+Youtube* - promo vids; followers
 
 Whatsapp
 
-FB messengeer
+FB messenger
 
 WeChat
 
-Instagram *
+Instagram * Image based- followers
 
 TikTok
 
-Reddit*
+Reddit* - fast moving, numerous subs
 
 SnapChat
 
-Twitter*
+Twitter* - Wide reach though hashtags
 
-Pinterest*
+Pinterest* 
+
 
 
 Niche communities and Special Interest POCs
+
 
 Blogger/Vlogger Channels:
 
@@ -64,9 +66,12 @@ Blogger/Vlogger Channels:
 
 [Makeit extreme](https://www.youtube.com/channel/UCkhZ3X6pVbrEs_VzIPfwWgQ)
 
+
 Forums:
 
 Making-
+
+
 [MadModder](https://madmodder.net/index.php) Great engineering forum
 
 [UKWorkshop](https://www.ukworkshop.co.uk/forums/metalworking-forum-t41593.html) UK forum
@@ -77,7 +82,9 @@ Making-
 
 [The Maker Forums](https://forum.makerforums.info/)
 
+
 Environmentalism-
+
 
 [EU Forum](https://community.eea.europa.eu/home/environmental-topics)
 
@@ -86,6 +93,7 @@ Environmentalism-
 [MindBodyGreen](https://www.mindbodygreen.com/)
 
 [EnviroLink](https://www.envirolink.org/forum/)
+
 
 Education:
 [MumsNet](https://www.mumsnet.com/) -massive community for mums
@@ -99,6 +107,7 @@ Makerspaces
 Universities/colleges
 
 Trade shows/Industry Expos
+
 
 Global forums/expos: 
 
