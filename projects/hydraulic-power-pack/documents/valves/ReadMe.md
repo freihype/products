@@ -21,15 +21,23 @@ for electronic control of hydraulic systems
 [Video- Spool Valves (Full Lecture)](https://www.youtube.com/watch?v=Jfdmrm4A99s)
 
 
-For momentary action with automatic return (as with combined action clamping-injection) a 2 way Normally Closed valve is used:
+For simple momentary action with automatic return (as with combined action clamping-injection) a 2 way Normally Closed valve can be used:
 
 [2 way Normally Closed Valve](https://www.youtube.com/watch?v=IR6yFLXYBxc)
 
+
+However, for full positional control of the actuator, double-acting 5 port 2 position valve is required.
+
+![5 Port 2 Position Schematic](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/valves/2-position-5-way-double-solenoid-valve-for-the-double-action-air-cylinder.jpg)
+
+For this application, the valve should be 'closed centre' (all ports blocked in central position).
+
+
 The suggested package for this development is:
 
-[CETOP 5 (NG 10) DOUBLE ACTING SOLENOID OPERATED DIRECTIONAL CONTROL VALVE](https://www.parker.com/Literature/Hydraulic%20Valve%20Division/hydraulicvalve/Catalog%20sections%20for%20websphere/Industrial%20Directional%20Control/Catalog%20-%20Static%20Files/D3DW.pdf)
+[CETOP 5 (NG 10) DOUBLE ACTING SOLENOID OPERATED DIRECTIONAL CONTROL VALVE 220V](https://www.parker.com/Literature/Hydraulic%20Valve%20Division/hydraulicvalve/Catalog%20sections%20for%20websphere/Industrial%20Directional%20Control/Catalog%20-%20Static%20Files/D3DW.pdf)
 
-![CETOP 5 Vave](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/valves/cetop-5-valve.jpeg)
+![CETOP 5 Valve](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/valves/cetop-5-valve.jpeg)
 
 
 
@@ -37,9 +45,7 @@ The suggested package for this development is:
 
 
 
-For full postional control of the actuator, a 5 Way 2 Position valve is required.
 
-![5 Port 2 Position Schematic](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/valves/2-position-5-way-double-solenoid-valve-for-the-double-action-air-cylinder.jpg)
 
 
 # Flow Control valves
