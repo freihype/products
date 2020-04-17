@@ -3,9 +3,11 @@
 # Reservoir
 
 
-- Volume
+- Volume: 10 Gal.(37.8 litres)
 
-- Dimensions
+- Capacity: 16.35 Gallons (61.9 liters) to plate; 10.15 Gallons (38.4 liters) to top of level gauge
+
+- Dimensions: approx W400xL400xH387mm internal
 
 - Suction Line Outlet - to terminate well below fluid line, near to bottom of reservoir, end cut at 45 degrees
 
@@ -27,6 +29,3 @@
 
 - Floorstanding support to prevent base corrosion
 
-
-
-The reservoir stores oil for use by the pump. It is also where cooling and cleaning of the oil takes place. 
