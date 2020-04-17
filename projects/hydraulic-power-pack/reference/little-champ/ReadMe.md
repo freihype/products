@@ -4,6 +4,9 @@
 
 ![Little Champ](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/reference/little-champ/little-champ-photo.jpg)
 
+
+![Little Champ Kit](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/reference/little-champ/champ-kit-clean-web.jpg)
+
 This development will draw heavily on the design of the Little Champ Hydraulic Power unit (10G)
 
 [Continental Hydraulics](http://www.continentalhydraulics.co.uk)
