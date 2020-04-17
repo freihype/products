@@ -28,7 +28,7 @@ For momentary action with automatic return (as with combined action clamping-inj
 
 For full postional control of the actuator, a 5 Way 2 Position valve is required.
 
-![5 Port 2 Position Schematic])https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/valves/2-position-5-way-double-solenoid-valve-for-the-double-action-air-cylinder.jpg)
+![5 Port 2 Position Schematic](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/valves/2-position-5-way-double-solenoid-valve-for-the-double-action-air-cylinder.jpg)
 
 
 # Flow Control valves
