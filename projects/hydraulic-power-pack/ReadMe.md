@@ -23,6 +23,8 @@ The initial design will be based on the Little Champ hydraulic power unit by [Co
 
 ![Little Champ](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/reference/little-champ/little-champ-photo.jpg)
 
+![Little Champ Kit](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/reference/little-champ/champ-kit-clean-web.jpg)
+
 
 ## Parts Overview
 
