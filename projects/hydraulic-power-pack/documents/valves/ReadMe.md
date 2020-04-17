@@ -1,14 +1,12 @@
 ## Hydraulic Power Pack
 
-# Valves
+# Control Valves
 
 Mechanical or Solenoid Valves are used to control the action of the actuator. 
 
-Pressure Relief Valve controls maximum system pressure
+These can be mounted directly onto the manifold on the mounting plate:
 
-Flow Valve controls the flow rate of the fluid and thereby the speed of the actuator
-
-
+![Valve mounting](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/valves/valve-mounting.jpg)
 
 
 
@@ -29,6 +27,8 @@ For momentary action with automatic return (as with combined action clamping-inj
 
 
 For full postional control of the actuator, a 5 Way 2 Position valve is required.
+
+![5 Port 2 Position Schematic])https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/valves/2-position-5-way-double-solenoid-valve-for-the-double-action-air-cylinder.jpg)
 
 
 # Flow Control valves
