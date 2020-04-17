@@ -2,7 +2,7 @@
 
 ## Overview
 
-An open source hydraulic power pack intended to supply a single ram to actuate future hydraulic Precious Plastic injection machines.
+An open source hydraulic power pack intended to supply a single double-acting ram to actuate future hydraulic Precious Plastic injection machines.
 
 Spec: (Suggested)
 
@@ -14,6 +14,14 @@ Flow Rate: 30L/MIN
 
 Clamping Force: ~5 Ton
 
+
+## Existing Product
+
+The initial design will be based on the Little Champ hydraulic power unit by [Continental Hydraulics UK](http://www.continentalhydraulics.co.uk):
+
+[Little Champ 10G](http://www.continentalhydraulics.co.uk/pdf/2013/power_units/little_champ_hydraulic_power_unit_kits.pdf)
+
+![Little Champ](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/reference/little-champ/little-champ-photo.jpg)
 
 
 ## Parts Overview
