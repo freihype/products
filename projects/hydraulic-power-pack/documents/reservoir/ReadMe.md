@@ -7,7 +7,7 @@
 
 - Capacity: 16.35 Gallons (61.9 liters) to plate; 10.15 Gallons (38.4 liters) to top of level gauge
 
-- Dimensions: approx W400xL400xH387mm internal
+- Dimensions: approx W400xL400xH387mm internal; 2.6mm mild steel plate
 
 - Suction Line Outlet - to terminate well below fluid line, near to bottom of reservoir, end cut at 45 degrees
 
