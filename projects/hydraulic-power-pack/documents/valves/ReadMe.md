@@ -25,6 +25,17 @@ For momentary action with automatic return (as with combined action clamping-inj
 
 [2 way Normally Closed Valve](https://www.youtube.com/watch?v=IR6yFLXYBxc)
 
+The suggested package for this development is:
+
+[CETOP 5 (NG 10) DOUBLE ACTING SOLENOID OPERATED DIRECTIONAL CONTROL VALVE](https://www.parker.com/Literature/Hydraulic%20Valve%20Division/hydraulicvalve/Catalog%20sections%20for%20websphere/Industrial%20Directional%20Control/Catalog%20-%20Static%20Files/D3DW.pdf)
+
+![CETOP 5 Vave](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/valves/cetop-5-valve.jpeg)
+
+
+
+[UK supplier- Phoenix Hydraulics https://www.phoenixhydraulics.co.uk/Products/CETOP-5-Directional-Control-Valves-Double-Solenoid/D3W001CNTW
+
+
 
 For full postional control of the actuator, a 5 Way 2 Position valve is required.
 
@@ -41,7 +52,7 @@ Controlling actuator speed
 Valve Brands:
 
 Check:
-UK- Rexroth
+UK- Rexroth; Parker
 China- Yuken
 India- Veljan
 
