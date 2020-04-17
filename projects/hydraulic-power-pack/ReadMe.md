@@ -51,6 +51,8 @@ Hydraulic systems deliver power to an actuator using pressurized fluid:
 
 - [Pressure Relief Valve](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/pressure-relief-valve/ReadMe.md)
 
+- [Control Valves](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/valves/ReadMe.md)
+
 - [Power Supply](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/power-supply/ReadMe.md)
 
 - Pressure Guage
