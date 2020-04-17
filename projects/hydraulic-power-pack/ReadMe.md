@@ -26,6 +26,10 @@ The initial design will be based on the Little Champ hydraulic power unit by [Co
 ![Little Champ Kit](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/reference/little-champ/champ-kit-clean-web.jpg)
 
 
+## Video Introduction- Theory
+
+[Video- Hydraulic Power Units and Reservoirs (Full Lecture)](https://www.youtube.com/watch?v=tSc6JfwofIo)
+
 ## Parts Overview
 
 
