@@ -19,7 +19,7 @@ Clamping Force: ~5 Ton
 
 The initial design will be based on the Little Champ hydraulic power unit by [Continental Hydraulics UK](http://www.continentalhydraulics.co.uk):
 
-[Little Champ 10G](http://www.continentalhydraulics.co.uk/pdf/2013/power_units/little_champ_hydraulic_power_unit_kits.pdf)
+[Little Champ 10G](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/reference/little-champ/Little-Champ-web.jpg)
 
 ![Little Champ](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/reference/little-champ/little-champ-photo.jpg)
 
