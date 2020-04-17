@@ -14,3 +14,8 @@
 - Volumetric Displacement per revolution
 
 - Hydraulic Power Output
+
+- Type: Gear Pump
+
+
+[Video- Gear Pumps](https://www.youtube.com/watch?v=vDqec_gpaeA)
