@@ -5,11 +5,11 @@
 
 - Flow Rate (Volumetric displacemen per revolution x RPM)
 
-	- Flow Rate as function of pressure graph
+	- Flow Rate as functio n of pressure graph
 
-	- Nominal Flow Rate
+	- Nominal Flow Rate:  Up to 11 GPM (41.6 liters)
 
-- Maximum Pressure
+- Pressure: Up to 3150 PSI (Up to 217 bar)
 
 - Volumetric Displacement per revolution
 
