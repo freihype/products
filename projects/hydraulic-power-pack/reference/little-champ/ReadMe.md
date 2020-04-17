@@ -2,7 +2,7 @@
 
 # Little Champ
 
-![Little Champ](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/reference/little-champ/little-champ-photo.jpg)
+![Little Champ](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/reference/little-champ/Little-Champ-web.jpg)
 
 
 ![Little Champ Kit](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/reference/little-champ/champ-kit-clean-web.jpg)
