@@ -43,7 +43,7 @@ The suggested package for this development is:
 
 [UK supplier- Phoenix Hydraulics](https://www.phoenixhydraulics.co.uk/Products/CETOP-5-Directional-Control-Valves-Double-Solenoid/D3W001CNTW)
 
-
+[UK supplier- Steerforth](https://www.steerforth.co.uk/cetop-valve-ng10-double-acting-cetop-solenoid-valve-p-4425.html?osCsid=plu81q5eklubd3oa3f27bb5se4)
 
 
 
