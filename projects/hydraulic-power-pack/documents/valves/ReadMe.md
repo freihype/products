@@ -33,7 +33,7 @@ The suggested package for this development is:
 
 
 
-[UK supplier- Phoenix Hydraulics https://www.phoenixhydraulics.co.uk/Products/CETOP-5-Directional-Control-Valves-Double-Solenoid/D3W001CNTW
+[UK supplier- Phoenix Hydraulics](https://www.phoenixhydraulics.co.uk/Products/CETOP-5-Directional-Control-Valves-Double-Solenoid/D3W001CNTW)
 
 
 
