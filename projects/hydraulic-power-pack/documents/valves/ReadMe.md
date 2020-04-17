@@ -13,7 +13,7 @@ for electronic control of hydraulic systems
 
 [Video- Spool Valves (Full Lecture)](https://www.youtube.com/watch?v=Jfdmrm4A99s)
 
-[Schematic Animation- 5 3 Valve](https://www.youtube.com/watch?v=XVkuAhu4M2M)
+[2 way Normally Closed Valve](https://www.youtube.com/watch?v=IR6yFLXYBxc)
 
 
 
