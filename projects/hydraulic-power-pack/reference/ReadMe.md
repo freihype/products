@@ -39,3 +39,6 @@
 ![D-pak](https://img.letgo.com/images/8e/d6/6b/fb/8ed66bfb7aac2d71df1232e192f879df.jpg?impolicy=img_600)
 
 [CAD model](https://b2b.partcommunity.com/community/pin/73525/3d-cad-models-d-pak-low-profile-series-hydraulic-power-units)
+
+[More CAD models (better)](www.parker.com/cadfiles/246579/DPAKS.ZIP)
+
