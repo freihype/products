@@ -4,10 +4,16 @@
 
 "A suggested minimum total reservoir volume is 5/8 of the maximum charge pump flow per minute with a minimum fluid volume equal to 1/2 of the maximum charge pump flow per minute. This allows 30 seconds fluid dwell for removing entrained air at the maximum return flow." [Brendan Casey, How to size a hydraulic tank](https://www.hydraulicsupermarket.com/blog/all/how-to-size-a-hydraulic-tank/)
 
+Therefore at suggested 30L per minute, the minimum tank size should be 18.75L; It should hold 1/2 the volume of oil output per minute, so 15L of fluid.
+We will go a bit bigger...
 
-- Volume: 10 Gal.(37.8 litres)
 
-- Capacity: 16.35 Gallons (61.9 liters) to plate; 10.15 Gallons (38.4 liters) to top of level gauge
+# Specifications (suggested)
+
+
+- Fill Volume: 10 Gal.(37.8 litres)
+
+- Total volume: 16.35 Gallons (61.9 liters) to plate; 10.15 Gallons (38.4 liters) to top of level gauge
 
 - Dimensions: approx W400xL400xH387mm internal; 2.6mm mild steel plate
 
