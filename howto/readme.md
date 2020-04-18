@@ -18,7 +18,7 @@
 [Nozzle interface](./nozzle_interface/thumbs.md)
 
 ## Sheetpress
-[Sheetpress cartrigde heater block late vise](./sheetpress/cartridge_heater/hole/thumbs.md)
+[Sheetpress cartrigde heater block lathe vise](./sheetpress/cartridge_heater/hole/thumbs.md)
 
 ## Shredder
 
