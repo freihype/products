@@ -1,5 +1,18 @@
-<p>We're into plastic open source recycling machinery, aiming at high quality & safety. We develop software tools and machines to enrich the Precious Plastic eco system.
-</p>
+### PlasticHub is the biggest contributor of the Precious Plastic Open Source Movement.
+
+We mainly produce for communities, schools, universities, small enterprises and startups and provide after sales support.
+
+### Our activities
+
+- donations to various talents and teams in the community
+- develop new machines, updates and fixes of the machines
+- develop various open source software tools: Precious-Plastic Wiki Language, and machine firmware
+- extensive community suppport in the forum and Discord since 2 years
+- maintainence and support of community projects and activities
+
+</hr>
+
+
 
 <p style="color:#f58d8e;">
     <a href="https://www.instagram.com/plastichubcat/"><span style="color:#f58d8e;">Instagram</span></a> | <a
@@ -13,10 +26,6 @@
 <p><a href="https://discord.gg/nVaNCs3"><span style="color:#f58d8e;">Discord - Support Chat (pre-sales,
             community)</span></a> | <a href="tel://0034666894789"><span style="color:#f58d8e;">Telefon (Whatsapp,
             English, French, German, Spanish, Catalan)</span></a>
-</p>
-<p>We serve communities, schools, universities, small enterprises and startups; made with love ! We also provide after
-    sale support and take issues serious. We do various open-source activities for machines and software, powering the
-    PP community since 2 years.
 </p>
 <br>
 
