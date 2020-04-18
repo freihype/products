@@ -2,6 +2,8 @@
 
 # Reservoir
 
+"A suggested minimum total reservoir volume is 5/8 of the maximum charge pump flow per minute with a minimum fluid volume equal to 1/2 of the maximum charge pump flow per minute. This allows 30 seconds fluid dwell for removing entrained air at the maximum return flow." [Brendan Casey, How to size a hydraulic tank](https://www.hydraulicsupermarket.com/blog/all/how-to-size-a-hydraulic-tank/)
+
 
 - Volume: 10 Gal.(37.8 litres)
 
