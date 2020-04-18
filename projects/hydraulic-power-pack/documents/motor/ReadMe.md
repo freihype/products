@@ -7,13 +7,17 @@
 
 ### Specifications:
 
-- Frame: NEMA 56
+- Model: 182TC
+
+- Enclosure: TEFC
+
+- Flange: 56C
 
 - No-load Current: 4.6 A
 
 - Mounting:  
-  Flange - NEMA 56 C-FACE (for dbell housing)
-  B3 Foot Mounting (for external pump)  
+  Flange - NEMA 56 C-FACE (for bell housing)
+  or B3 Foot Mounting (for external pump)  
 
 - Power Output: 3 HP (2.2kW)
 
@@ -27,13 +31,16 @@
 
 - Starting Current: 65.4 A
 
-- Speed: - 1725 RPM
+- Speed: - 1750 RPM
 
 - Full load Torque: 8.8 LB-FT = 11.9312N/m
 
 - Service Factor 1.15
 
 - Weight: 49lb 22kg
+
+Example: [Baldor VM3611T]
+
 
 Continental ref 030T Part No 601351
 
