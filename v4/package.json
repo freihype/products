@@ -1,0 +1,39 @@
+{
+  "name": "pp4",
+  "dependencies": {
+    "git-module": "^0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-modules": "git-module init-modules",
+    "update": "git-module each update",
+    "build": "git-module each build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plastic-hub/products.git"
+  },
+  "keywords": [
+    "precious",
+    "plastic"
+  ],
+  "author": "PlasticHub Ltd.",
+  "license": "GPL-3.0-or-later",
+  "modules": [
+    {
+      "name": "download-kit",
+      "options": {
+        "repository": "https://github.com/ONEARMY/precious-plastic-kit.git",
+        "directory": "download-kit"
+      }
+    },
+    {
+      "name": "src",
+      "options": {
+        "repository": "https://gitlab.com/cgoflyn/v4ce.git",
+        "directory": "src"
+      }
+    }
+  ]
+}

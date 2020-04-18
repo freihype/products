@@ -1,0 +1,11 @@
+{
+    "machines":[
+        "./extrusion",
+        "./shredder",
+        "./sheetpress",
+        "./v3/shredder/",
+        "./v3/extrusion/",
+        "./v3/injection/",
+        "./v3/compression/"
+    ]
+}
