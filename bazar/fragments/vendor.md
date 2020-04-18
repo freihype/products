@@ -1,5 +1,6 @@
 ### Plastic-Hub is the biggest contributor of the Precious-Plastic open source movement 
 
+
 We're 100% open source and we mainly produce for communities, schools, universities, small enterprises and startups and provide after sales support.
 
 ### Our activities
