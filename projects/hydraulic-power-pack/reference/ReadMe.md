@@ -32,6 +32,8 @@
  
  Available in kit form: ![Little Champ Kit](https://www.continentalhydraulics.com/wp-content/uploads/2018/11/champ-kit-clean-web.jpg)
 
+[Little Champ CAD - smallest 1hp version 7.4L/m 22L tank]
+
 #### D-Pak by Parker
 
 [Parker D-Pak (pdf)](https://www.parker.com/Literature/Hydraulic%20Pump%20Division/Hydraulic%20Pump%20Division%20STATIC%20FILES/Sales%20Catalogs%20&%20Thumbnails/Power%20Units/D-Pak%205%20Gallon/D,H,V-Pak_and_V-Pak_Low_Profile_Series_HY28-2661-CD-US.pdf)
