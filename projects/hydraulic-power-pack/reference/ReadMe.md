@@ -15,10 +15,10 @@
 ### Existing CAD designs
 
 [3 solenoid valve version](https://grabcad.com/library/hydraulic-power-pack-5)
-!(https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/3057e40ad6e4a9b9f2c3266b4671d26e/large.png)
+![Image](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/3057e40ad6e4a9b9f2c3266b4671d26e/large.png)
 
 [Elevated pump version](https://www.3dcadbrowser.com/3d-model/hydraulic-power-pack)
-!(https://www.3dcadbrowser.com/th/1/57/57996.jpg)
+![Image](https://www.3dcadbrowser.com/th/1/57/57996.jpg)
 
 [3hp version](https://www.3dcontentcentral.com/download-model.aspx?catalogid=2252&id=199825)
  
