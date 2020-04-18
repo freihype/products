@@ -3,9 +3,9 @@
 # Pump
 
 
-- Flow Rate (Volumetric displacemen per revolution x RPM)
+- Flow Rate (Volumetric displacement per revolution x RPM)
 
-	- Flow Rate as functio n of pressure graph
+	- Flow Rate as function of pressure graph
 
 	- Nominal Flow Rate:  ~30 liters/minute
 
