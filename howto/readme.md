@@ -10,8 +10,11 @@
 ## Extrusion
 
 [Extrusion Frame](./extrusion/frame/thumbs.md)
+
 [Extrusion Flange](./extrusion_flange/thumbs.md)
+
 [Extrusion Keyway](./extrusion_keyway/thumbs.md)
+
 [Nozzle interface](./nozzle_interface/thumbs.md)
 
 ## Sheetpress
