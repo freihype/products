@@ -11,7 +11,7 @@
 
 - Enclosure: TEFC
 
-- Flange: 56C
+- Flange: B14A (56C)
 
 - No-load Current: 4.6 A
 
