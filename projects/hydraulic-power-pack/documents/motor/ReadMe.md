@@ -1,7 +1,7 @@
 ## Hydraulic Power Pack
 
 # Motor
-2.2kW (3HP) 230V/400V 3ph 4 Pole AC Motor 182TC
+2.2kW (3HP) 230V/400V 3ph 4 Pole AC Motor 182TC B14A Flange (56 C face)
 
 ![3HP Motor 56c](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/motor/3hp-motor-56c.jpg)
 
