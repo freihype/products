@@ -25,12 +25,16 @@
  
  ### Existing Products
  
+ #### Little Champ by Continental
  [Little Champ](https://pdf.directindustry.com/pdf/continental-hydraulics/little-champ-hydraulic-power-units-catalog/7308-97992.html)
  ![Little Champ](http://www.zeushydratech.com/wp-content/uploads/2015/09/Little-Champ-500x500.gif)
  
  Available in kit form: ![Little Champ Kit](https://www.continentalhydraulics.com/wp-content/uploads/2018/11/champ-kit-clean-web.jpg)
 
+#### D-Pak by Parker
 
-[Flowfit Hydraulic 12V DC single acting trailer kit](http://www.flowfitonline.com/hydraulic-power-units/trailer-tipper-assemblies/flowfit-hydraulic-12v-dc-single-acting-trailer-kit-to-lift-39-tonne-400mm-cylinder-stroke?gclid=EAIaIQobChMIs5-8y4ft6AIVSkPTCh36FgmNEAkYASABEgLGWfD_BwE) to lift 3.9 Tonne, ~£350 INCLUDING CYLINDER!! 400mm cylinder stroke
+[Parker D-Pak](https://www.parker.com/Literature/Hydraulic%20Pump%20Division/Hydraulic%20Pump%20Division%20STATIC%20FILES/Sales%20Catalogs%20&%20Thumbnails/Power%20Units/D-Pak%205%20Gallon/D,H,V-Pak_and_V-Pak_Low_Profile_Series_HY28-2661-CD-US.pdf)
 
-![Flowfit 12V](https://images-na.ssl-images-amazon.com/images/I/51jYe1Rob2L.jpg)
+![D-pak](https://www.parker.com/Online/Product%20Images/Hydraulic-Pump-Division/zoom_1000x1000/D-Pak_ZM.jpg)
+
+[CAD model](https://b2b.partcommunity.com/community/pin/73525/3d-cad-models-d-pak-low-profile-series-hydraulic-power-units)
