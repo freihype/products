@@ -39,7 +39,7 @@
 
 - Weight: 49lb 22kg
 
-Example: [Baldor VM3611T]
+Example: [Baldor VM3611T](https://www.baldor.com/catalog/VM3611T)
 
 
 Continental ref 030T Part No 601351
