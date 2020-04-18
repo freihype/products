@@ -23,14 +23,8 @@ The initial design will be based on the Little Champ hydraulic power unit by [Co
 
 ![Little Champ Kit](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/reference/little-champ/champ-kit-clean-web.jpg)
 
+[Reference Section](https://github.com/plastic-hub/products/tree/master/projects/hydraulic-power-pack/reference) with other similar models
 
-## Introduction to Hydraulics- Theory
-
-Hydraulic systems deliver power to an actuator using pressurized fluid:
-
-![Basic System Schematic](https://www.cylinderservices.net/wp-content/uploads/2019/01/Log-Splitter-Circuit-Drawing2.jpg)
-
-[Video- Hydraulic Power Units and Reservoirs (Full Lecture)](https://www.youtube.com/watch?v=tSc6JfwofIo)
 
 ## Parts Overview
 
