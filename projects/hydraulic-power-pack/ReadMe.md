@@ -8,11 +8,11 @@ Spec: (Suggested)
 
 Power output (Horsepower, kW): 3hp - 2.2kW
 
-Motor RPM: 1440
+Motor RPM: 1750
 
-Flow Rate: 30L/MIN
+Flow Rate: ~10L/MIN
 
-Clamping Force: ~5 Ton
+Pressure: 3000psi
 
 
 ## Existing Product
