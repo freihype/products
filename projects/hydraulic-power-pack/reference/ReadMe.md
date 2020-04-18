@@ -36,6 +36,6 @@
 
 [Parker D-Pak (pdf)](https://www.parker.com/Literature/Hydraulic%20Pump%20Division/Hydraulic%20Pump%20Division%20STATIC%20FILES/Sales%20Catalogs%20&%20Thumbnails/Power%20Units/D-Pak%205%20Gallon/D,H,V-Pak_and_V-Pak_Low_Profile_Series_HY28-2661-CD-US.pdf)
 
-![D-pak](https://cdn.mscdirect.com/global/images/ProductImages/0962300-11.jpg)
+![D-pak](https://img.letgo.com/images/8e/d6/6b/fb/8ed66bfb7aac2d71df1232e192f879df.jpg?impolicy=img_600)
 
 [CAD model](https://b2b.partcommunity.com/community/pin/73525/3d-cad-models-d-pak-low-profile-series-hydraulic-power-units)
