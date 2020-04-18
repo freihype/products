@@ -7,7 +7,7 @@
 
 	- Flow Rate as functio n of pressure graph
 
-	- Nominal Flow Rate:  Up to 11 GPM (41.6 liters)
+	- Nominal Flow Rate:  ~10 liters/minute
 
 - Pressure: Up to 3150 PSI (Up to 217 bar)
 
