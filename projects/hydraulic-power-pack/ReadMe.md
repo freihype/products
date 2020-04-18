@@ -31,23 +31,23 @@ The initial design will be based on the Little Champ hydraulic power unit by [Co
 
 #### Primary Components:
 
-- [Motor](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/motor/ReadMe.md): 2.2kW (3HP) 230V/400V 3ph 4 Pole AC Motor 182TC
+- [Motor](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/motor/ReadMe.md): 2.2kW (3HP) 230V/400V 3HP 4 Pole AC Motor 182TC
 
-- [Coupling](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/coupling/ReadMe.md)
+- [Coupling](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/coupling/ReadMe.md): : PM90
 
 - [Pump](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/pump/ReadMe.md)
 
-- [Bell Housing](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/bell-housing/ReadMe.md)
+- [Bell Housing](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/bell-housing/ReadMe.md): 6028 Pump Motor Adapter 56C to SAE A
 
-- [Oil Reservoir](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/reservoir/ReadMe.md)
+- [Oil Reservoir](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/reservoir/ReadMe.md): 10 Gallons 38.4 litres fill level W400xL400xH387mm internal; 2.6mm mild steel plate
 
 - [Filtration](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/filtration/ReadMe.md)
 
 - [Pressure Relief Valve](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/pressure-relief-valve/ReadMe.md)
 
-- [Control Valves](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/valves/ReadMe.md)
+- [Control Valve](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/valves/ReadMe.md): CETOP 5 (NG 10) DOUBLE ACTING SOLENOID OPERATED DIRECTIONAL CONTROL VALVE 220V
 
-- [Power Supply](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/power-supply/ReadMe.md)
+- [Power Supply](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/power-supply/ReadMe.md): 3HP Invertor 220/480V
 
 - Pressure Guage
 
@@ -55,9 +55,10 @@ The initial design will be based on the Little Champ hydraulic power unit by [Co
 
 - Intermediary Pipework and Fittings
 
-- Manifold
+- [Manifold](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/documents/manifold/ReadMe.md)
+: Valve Manifold, D03 Single Station, 4 SAE
 
-- Mounting Plate
+- Mounting Plate: 5mm Steel
 
 - Chassis
 
