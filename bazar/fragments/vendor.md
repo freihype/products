@@ -1,6 +1,6 @@
-### PlasticHub is the biggest contributor of the Precious Plastic Open Source Movement.
+### Plastic-Hub is the biggest contributor of the Precious-Plastic open source movement 
 
-We mainly produce for communities, schools, universities, small enterprises and startups and provide after sales support.
+We're 100% open source and we mainly produce for communities, schools, universities, small enterprises and startups and provide after sales support.
 
 ### Our activities
 
@@ -11,6 +11,28 @@ We mainly produce for communities, schools, universities, small enterprises and 
 - maintainence and support of community projects and activities
 
 </hr>
+
+### The team
+
+- **Guenter** - Senior software and hardware engineer from Germany
+- **Anne** - Communication and sales officer from France
+- **Daniel** - Lead engineer from the UK
+- **David - 3D Seed** : Product Engineer and Design from Australia
+- **David** :  Production, from Catalonia
+- **Kampru** : Electronics Engineer, from Catalonia
+- **Nials** : Product Designer, from the UK
+
+### Projects
+
+- **[Asterix](https://github.com/plastic-hub/products/tree/master/products/asterix)** : Full automatic bottle vending machiene for schools and bars.
+- **[Precious Plastic](https://github.com/plastic-hub/products)** : maintainence and updates for Precious Plastic machinery
+- **[Precious Plastic Language](https://github.com/plastic-hub/lang)** : development of a new Wiki language
+- **[Plastic - Hub](https://github.com/plastic-hub/products/tree/master/products/)** : development of new and open source plastic recycling machines, based on Precious Plastic and beyond
+- **[Firmware](https://github.com/plastic-hub/firmware)** : development of firmware for plastic recycling machines
+- **[Forum](https://forum.precious-plastic.org/)** : development of a new forum for the Precious Plastic community
+- **[Community Projects](https://github.com/plastic-hub/products/tree/master/projects)** : maintainence and development of community projects
+
+
 
 
 
