@@ -2,8 +2,16 @@
 
 # Reference
 
+## Introduction to Hydraulics- Theory
 
-### Videos:
+Hydraulic systems deliver power to an actuator using pressurized fluid:
+
+![Basic System Schematic](https://www.cylinderservices.net/wp-content/uploads/2019/01/Log-Splitter-Circuit-Drawing2.jpg)
+
+[Video- Hydraulic Power Units and Reservoirs (Full Lecture)](https://www.youtube.com/watch?v=tSc6JfwofIo)
+
+
+### Hyrdraulic Power Pack Videos:
 
 [Hydraulic Power Units and Reservoirs (Full Lecture)](https://www.youtube.com/watch?v=tSc6JfwofIo)
 
