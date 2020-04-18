@@ -2,21 +2,21 @@
 
 ## General
 
-[Brackets](./brackets/thumb.md)
+[Brackets](./brackets/thumbs.md)
 
 ## Control Cabinet
-[Controlbox](./controlbox/thumb.md)
+[Controlbox](./controlbox/thumbs.md)
 
 ## Extrusion
 
-[Extrusion Frame](./extrusion/frame/thumb.md)
-[Extrusion Flange](./extrusion_flange/thumb.md)
-[Extrusion Keyway](./extrusion_keyway/thumb.md)
-[Nozzle interface](./nozzle_interface/thumb.md)
+[Extrusion Frame](./extrusion/frame/thumbs.md)
+[Extrusion Flange](./extrusion_flange/thumbs.md)
+[Extrusion Keyway](./extrusion_keyway/thumbs.md)
+[Nozzle interface](./nozzle_interface/thumbs.md)
 
 ## Sheetpress
-[Sheetpress cartrigde heater block late vise](./sheetpress/cartridge_heater/hole/thumb.md)
+[Sheetpress cartrigde heater block late vise](./sheetpress/cartridge_heater/hole/thumbs.md)
 
 ## Shredder
 
-[Shredder](./shredder/thumb.md)
+[Shredder](./shredder/thumbs.md)
