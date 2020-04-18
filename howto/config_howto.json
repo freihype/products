@@ -1,0 +1,7 @@
+{
+    "tags":"${howto_tags}",
+    "breadcrumb":"${howto_breadcrumb}",
+    "title":"${howto_title}",
+    "compatible":"${howto_compat}",
+    "requirements":"${howto_compat}"
+}
