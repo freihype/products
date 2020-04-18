@@ -10,7 +10,7 @@ Power output (Horsepower, kW): 3hp - 2.2kW
 
 Motor RPM: 1750
 
-Flow Rate: ~10L/MIN
+Flow Rate: ~30L/MIN
 
 Pressure: 3000psi
 
