@@ -15,7 +15,7 @@
 
 [Extrusion Keyway](./extrusion/keyway/thumbs.md)
 
-[Extrusion Hopper](./extrusion/keyway/thumbs.md)
+[Extrusion Hopper](./extrusion/hopper/thumbs.md)
 
 [Nozzle interface](./nozzle_interface/thumbs.md)
 
