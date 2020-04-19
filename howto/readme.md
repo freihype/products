@@ -11,9 +11,11 @@
 
 [Extrusion Frame](./extrusion/frame/thumbs.md)
 
-[Extrusion Flange](./extrusion_flange/thumbs.md)
+[Extrusion Flange](./extrusion/flange/thumbs.md)
 
-[Extrusion Keyway](./extrusion_keyway/thumbs.md)
+[Extrusion Keyway](./extrusion/keyway/thumbs.md)
+
+[Extrusion Hopper](./extrusion/keyway/thumbs.md)
 
 [Nozzle interface](./nozzle_interface/thumbs.md)
 
