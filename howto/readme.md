@@ -4,6 +4,9 @@
 
 [Brackets](./brackets/thumbs.md)
 
+[Jaw Spider Coupling Filling Clamp](./couplings/clamp)
+
+
 ## Control Cabinet
 [Controlbox](./controlbox/thumbs.md)
 
