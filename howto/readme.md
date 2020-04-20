@@ -2,30 +2,29 @@
 
 ## General
 
-[Brackets](./brackets/thumbs.md)
+[Brackets](./brackets/thumb.md)
 
-[Jaw Spider Coupling Filling Clamp](./couplings/clamp)
-
+[Jaw Spider Coupling Filling Clamp](./couplings/clamp/thumb.md)
 
 ## Control Cabinet
-[Controlbox](./controlbox/thumbs.md)
+[Controlbox](./controlbox/thumb.md)
 
 ## Extrusion
 
-[Extrusion Frame](./extrusion/frame/thumbs.md)
+[Extrusion Frame](./extrusion/frame/thumb.md)
 
-[Extrusion Flange](./extrusion/flange/thumbs.md)
+[Extrusion Flange](./extrusion/flange/thumb.md)
 
-[Extrusion Keyway](./extrusion/keyway/thumbs.md)
+[Extrusion Keyway](./extrusion/keyway/thumb.md)
 
-[Extrusion Hopper](./extrusion/hopper/thumbs.md)
+[Extrusion Hopper](./extrusion/hopper/thumb.md)
 
-[Nozzle interface](./nozzle_interface/thumbs.md)
+[Nozzle interface](./nozzle_interface/thumb.md)
 
 ## Sheetpress
 
-[Sheetpress cartrigde heater block lathe vise](./sheetpress/cartridge_heater/hole/thumbs.md)
+[Sheetpress cartrigde heater block lathe vise](./sheetpress/cartridge_heater/hole/thumb.md)
 
 ## Shredder
 
-[Shredder](./shredder/thumbs.md)
+[Shredder](./shredder/thumb.md)
