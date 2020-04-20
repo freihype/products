@@ -7,6 +7,7 @@
 [Jaw Spider Coupling Filling Clamp](./couplings/clamp/thumb.md)
 
 ## Control Cabinet
+
 [Controlbox](./controlbox/thumb.md)
 
 ## Extrusion
@@ -20,6 +21,8 @@
 [Extrusion Hopper](./extrusion/hopper/thumb.md)
 
 [Nozzle interface](./nozzle_interface/thumb.md)
+
+[Clamp flange (Shredder combo extrusion cluetch )](./extrustrion/clamp_flange/thumb.md)
 
 ## Sheetpress
 
