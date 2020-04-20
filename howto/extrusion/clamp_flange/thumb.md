@@ -26,7 +26,3 @@
     <img src="./IMG_1962.JPG" width="100%" />
 </div>
 <hr />
-<div class="thumb">
-    <img src="./IMG_1963.JPG" width="100%" />
-</div>
-<hr />
