@@ -22,7 +22,7 @@
 
 [Nozzle interface](./nozzle_interface/thumb.md)
 
-[Clamp flange (Shredder combo extrusion cluetch )](./extrustrion/clamp_flange/thumb.md)
+[Clamp flange (Shredder combo extrusion cluetch )](./extrusion/clamp_flange/thumb.md)
 
 ## Sheetpress
 
