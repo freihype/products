@@ -10,7 +10,7 @@
 
 [Controlbox](./controlbox/thumb.md)
 
-[Controlbox DIN rail layout](./controlbox/dinrail_layou/thumb.md)
+[Controlbox DIN rail layout](./controlbox/dinrail_layout/thumb.md)
 
 ## Extrusion
 
