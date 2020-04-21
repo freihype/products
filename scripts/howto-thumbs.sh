@@ -6,6 +6,7 @@ BASEDIR=$(cd $(dirname $0) && pwd)
 ph-cli md:thumbs --debug=true --source="../howto/brackets"
 ph-cli md:thumbs --debug=true --source="../howto/controlbox"
 ph-cli md:thumbs --debug=true --source="../howto/controlbox/dinrail_layout"
+ph-cli md:thumbs --debug=true --source="../howto/controlbox/wiring" 
 ph-cli md:thumbs --debug=true --source="../howto/extrusion/frame"
 ph-cli md:thumbs --debug=true --source="../howto/extrusion/hopper"
 ph-cli md:thumbs --debug=true --source="../howto/extrusion/flange"

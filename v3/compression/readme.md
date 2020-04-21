@@ -1,20 +1,7 @@
----
-id: compression
-title: Build an compression Machine
-sidebar_label: Compression
----
-
 <div class="videocontainer">
   <iframe width="800" height="400" src="https://www.youtube.com/embed/ogI8kt0w43Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<style>
-:root {
-  --highlight: #f29094;
-  --hover: #f29094;
-
-}
-</style>
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
@@ -29,6 +16,7 @@ The compression machine is basically an electric kitchen oven to heat the plasti
 
 
 </div>
+
 <div class="videoChaptersSidebar">
 
 ### Video Chapters
@@ -57,11 +45,8 @@ The compression machine is basically an electric kitchen oven to heat the plasti
 ⚡️ AMP | 2.6A
 ♻️ Input Flake Size  | Medium, Small  |
 
-
 # 🌐 3D Model
 <iframe width="500" height="500" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Compression+Basic+V2.0&model_id=96647&portal=b2b&noAutoload=false&autoRotate=false&hideMenu=true&topColor=%23dde7ed&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96647" allowfullscreen></iframe>
-
-
 
 
 # 🛠 Required machinery & skills
