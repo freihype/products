@@ -10,6 +10,8 @@
 
 [Controlbox](./controlbox/thumb.md)
 
+[Controlbox DIN rail layout](./controlbox/dinrail_layou/thumb.md)
+
 ## Extrusion
 
 [Extrusion Frame](./extrusion/frame/thumb.md)
@@ -21,6 +23,8 @@
 [Extrusion Hopper](./extrusion/hopper/thumb.md)
 
 [Nozzle interface](./nozzle_interface/thumb.md)
+
+[Extrusion Shredder Combo shaft clamp](./extrusion/shaft_clamp/thumb.md)
 
 [Clamp flange (Shredder combo extrusion cluetch )](./extrusion/clamp_flange/thumb.md)
 
