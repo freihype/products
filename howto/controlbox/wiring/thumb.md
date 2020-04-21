@@ -2,7 +2,8 @@
     <img src="./IMG_1980.JPG" width="100%" />
 </div>
 <hr />
-# Front panel
+
+**Front panel**
 
 from top to bottom, left to right
 
@@ -40,6 +41,22 @@ from top to bottom, left to right
     <img src="./IMG_1982.JPG" width="100%" />
 </div>
 <hr />
+
+**Power Section**
+
+left to right
+
+1. 3 Phase motor protection [Amazon](${BOM_MBREAKER}) | [Specs](${SPEC_MBREAKER})
+
+2. Distribution block [Amazon](${BOM_DBLOCK}) | [Specs](${SPEC_DBLOCK})
+
+3. Power meter [Amazon](${BOM_POWERMETER}) | [Specs](${SPEC_POWERMETER})
+
+4. Breaker for shredder [Amazon](${BOM_BREAKER_SHREDDER}) | [Specs](${SPEC_BREAKER_SHREDDER})
+
+5. Breaker for extrusion [Amazon](${BOM_BREAKER_EXTRUSION}) | [Specs](${SPEC_BREAKER_EXTRUSION})
+
+
 <div class="thumb">
     <img src="./IMG_1983.JPG" width="100%" />
 </div>
