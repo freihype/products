@@ -26,7 +26,7 @@
 
 [Extrusion Shredder Combo shaft clamp](./extrusion/shaft_clamp/thumb.md)
 
-[Clamp flange (Shredder combo extrusion cluetch )](./extrusion/clamp_flange/thumb.md)
+[Clamp flange (Shredder combo extrusion clutch )](./extrusion/clamp_flange/thumb.md)
 
 ## Sheetpress
 
