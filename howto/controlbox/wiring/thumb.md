@@ -25,7 +25,7 @@ from top to bottom, left to right
 
 7. Status LED - Ok [Amazon](${BOM_DSWTICH}) | [Specs](${SPEC_GLED})
 
-8. Momentary Switch [Amazon](${BOM_MSWTICH}) | [Specs](${SPEC_MSWITCH})
+8. Momentary Switch (Reset & Extrusion semi auto control) [Amazon](${BOM_MSWTICH}) | [Specs](${SPEC_MSWITCH})
 
 
 <hr />
