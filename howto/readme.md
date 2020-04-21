@@ -12,6 +12,8 @@
 
 [Controlbox DIN rail layout](./controlbox/dinrail_layout/thumb.md)
 
+[Wiring](./controlbox/wiring/thumb.md)
+
 ## Extrusion
 
 [Extrusion Frame](./extrusion/frame/thumb.md)
