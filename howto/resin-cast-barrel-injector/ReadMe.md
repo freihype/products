@@ -3,7 +3,7 @@
 ### You will need:
 
 - 3 empty cans
-- high temperature casting silicone
+- [High temperature 2-part casting silicone](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/s-l1600.jpg)
 - plunger- aluminium bar around 40mm diameter, minimum length the same as 1 can
 - drill press
 - something to make a 'nozzle'- short cylinder eg. half a wine cork
