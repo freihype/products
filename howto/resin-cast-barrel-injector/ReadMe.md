@@ -8,13 +8,15 @@
 - drill press
 - something to make a 'nozzle'- short cylinder eg. half a wine cork
 - the object you want to reproduce
+- oven
+- PPE
 
 
 ### Method:
 
 1. Cast your barrel
 
-fix your nozzle piece to the end of your plunger, balance it uprigh in a can and cast in in high temp silicone
+Fix your nozzle piece to the end of your plunger, balance it upright in a can, and cast around it with high temp 2 part silicone
 
 ![Plunger in can](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0021.jpg)
 
