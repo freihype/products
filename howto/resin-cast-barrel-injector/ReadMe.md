@@ -16,7 +16,7 @@
 
 fix your nozzle piece to the end of your plunger, balance it uprigh in a can and cast in in high temp silicone
 
-![Plunger in can](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0021.jpg]
+![Plunger in can](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0021.jpg)
 
 ![Casting the barrel](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0022.jpg)
 
