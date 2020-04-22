@@ -30,29 +30,29 @@ When the casting is solid, carefully peel off the metal can (Be careful, it will
 
 Remove the plunger bar from the silicone barrel- a vise can help
 
-[Remove plunger](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0017.jpg)
+![Remove plunger](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0017.jpg)
 
-[Plunger Removed](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0016.jpg)
+![Plunger Removed](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0016.jpg)
 
 Push out your nozzle piece to create the nozzle hole
 
-[Nozzle piece in](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0018.jpg)
+![Nozzle piece in](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0018.jpg)
 
-[Nozzle piece out](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0015.jpg)
+![Nozzle piece out](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0015.jpg)
 
 Trim the end of the barrel to create a flat surface
 
-[Trim barrel end](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0014.jpg)
+![Trim barrel end](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0014.jpg)
 
 Your barrel and plunger are ready to go!
 
-[ready to go 1](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0013.jpg)
+![ready to go 1](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0013.jpg)
 
-[ready to go 2](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0012.jpg)
+![ready to go 2](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0012.jpg)
 
 In a similar way, create your mould in a second can. The mould needs to be cut with a razorblade to remove the original part:
 
-[mould cut](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0008.jpg)
+![mould cut](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0008.jpg)
 
 Place the empty mould in a third empty can. This will hold the cut halves together again. Some holes near the bottom will help to make it easier to remove (preventing a vacuum) 
 
