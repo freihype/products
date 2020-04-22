@@ -26,8 +26,6 @@ When the casting is solid, carefully peel off the metal can (Be careful, it will
 
 ![Peel off can](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0020.jpg)
 
-![with pliers](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0004.jpg)
-
 ![Peeled](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0019.jpg)
 
 Remove the plunger bar from the silicone barrel- a vise can help
