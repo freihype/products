@@ -32,8 +32,6 @@ Remove the plunger bar from the silicone barrel- a vise can help
 
 ![Remove plunger](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0017.jpg)
 
-![Plunger Removed](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0016.jpg)
-
 Push out your nozzle piece to create the nozzle hole
 
 ![Nozzle piece in](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0018.jpg)
@@ -44,11 +42,7 @@ Trim the end of the barrel to create a flat surface
 
 ![Trim barrel end](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0014.jpg)
 
-Your barrel and plunger are ready to go!
-
-![ready to go 1](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0013.jpg)
-
-![ready to go 2](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0012.jpg)
+2. Create your mould
 
 In a similar way, create your mould in a second can. The mould needs to be cut with a razorblade to remove the original part:
 
@@ -58,7 +52,13 @@ Place the empty mould in a third empty can. This will hold the cut halves togeth
 
 ![Mould in can](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0006.jpg)
 
-Fill the barrel with shredded plastic (HDPE), place on a heatproof tray and heat until melted in an oven
+3. Your barrel and plunger are ready to go!
+
+![ready to go 1](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0013.jpg)
+
+![ready to go 2](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0012.jpg)
+
+Fill the barrel with shredded plastic (HDPE), place on a heatproof tray and heat in an oven until melted
 
 Then (using gloves) place the hot barrel on top of the mould in the drill press.
 
