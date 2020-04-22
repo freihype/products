@@ -4,7 +4,9 @@
 
 [Brackets](./brackets/thumb.md)
 
-[Jaw Spider Coupling Filling Clamp](./couplings/clamp/thumb.md)
+[Jaw Spider Coupling - Filling Clamp (Nylon/Delrin)](./couplings/clamp/thumb.md)
+
+[Jaw Spider Coupling - Keyway](./couplings/keyway/thumb.md)
 
 ## Control Cabinet
 
