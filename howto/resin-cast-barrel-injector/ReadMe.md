@@ -49,7 +49,7 @@ In a similar way, create your mould in a second can. The mould needs to be cut w
 ![mould cut](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0008.jpg)
 
 
-3. Your barrel and plunger are ready to go!
+3. Your plunger, barrel and mould are ready to go!
 
 ![ready to go 1](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0013.jpg)
 
