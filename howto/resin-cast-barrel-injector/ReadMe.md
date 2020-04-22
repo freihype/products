@@ -48,9 +48,6 @@ In a similar way, create your mould in a second can. The mould needs to be cut w
 
 ![mould cut](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0008.jpg)
 
-Place the empty mould in a third empty can. This will hold the cut halves together again. Some holes near the bottom will help to make it easier to remove (preventing a vacuum) 
-
-![Mould in can](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0006.jpg)
 
 3. Your barrel and plunger are ready to go!
 
@@ -58,7 +55,9 @@ Place the empty mould in a third empty can. This will hold the cut halves togeth
 
 ![ready to go 2](https://github.com/plastic-hub/products/blob/master/howto/resin-cast-barrel-injector/IMG-20200420-WA0012.jpg)
 
-Fill the barrel with shredded plastic (HDPE), place on a heatproof tray and heat in an oven until melted
+Place the mould in an empty can to hold it together.
+
+Fill the barrel with shredded plastic (HDPE), place on a heatproof tray and heat in an oven until melted.
 
 Then (using gloves) place the hot barrel on top of the mould in the drill press.
 
