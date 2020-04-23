@@ -28,6 +28,8 @@
 
 [Extrusion Hopper](./extrusion/hopper/thumb.md)
 
+[Extrusion Screw Mount](./extrusion/screw_mount/thumb.md)
+
 [Nozzle interface](./nozzle_interface/thumb.md)
 
 [Extrusion Shredder Combo shaft clamp](./extrusion/shaft_clamp/thumb.md)
