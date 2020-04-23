@@ -40,7 +40,3 @@
 
 [Sheetpress cartrigde heater block hole](./sheetpress/cartridge_heater/hole/drilling/thumb.md)
 
-
-## Shredder
-
-[Shredder](./shredder/thumb.md)
