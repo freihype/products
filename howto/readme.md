@@ -8,6 +8,8 @@
 
 [Jaw Spider Coupling - Keyway](./couplings/keyway/thumb.md)
 
+## Injector
+[Resin Cast Barrel Injector](./resin-cast-barre-injector/)
 ## Control Cabinet
 
 [Controlbox](./controlbox/thumb.md)
@@ -34,7 +36,10 @@
 
 ## Sheetpress
 
-[Sheetpress cartrigde heater block lathe vise](./sheetpress/cartridge_heater/hole/thumb.md)
+[Sheetpress cartrigde heater block lathe vise](./sheetpress/cartridge_heater/hole/block_vise/thumb.md)
+
+[Sheetpress cartrigde heater block hole](./sheetpress/cartridge_heater/hole/drilling/thumb.md)
+
 
 ## Shredder
 
