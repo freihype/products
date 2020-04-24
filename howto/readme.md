@@ -32,6 +32,8 @@
 
 [Extrusion Screw Mount](./extrusion/screw_mount/thumb.md)
 
+[Extrusion Thermocouple clips](./extrusion/thermo_couple_clips/thumb.md)
+
 [Nozzle interface](./nozzle_interface/thumb.md)
 
 [Extrusion Shredder Combo shaft clamp](./extrusion/shaft_clamp/thumb.md)
@@ -39,6 +41,8 @@
 [Clamp flange (Shredder combo extrusion clutch )](./extrusion/clamp_flange/thumb.md)
 
 ## Sheetpress
+
+[Sheetpress cartrigde heater block drill addon](./sheetpress/cartridge_heater/hole/lathe_drill_addon/thumb.md)
 
 [Sheetpress cartrigde heater block lathe vise](./sheetpress/cartridge_heater/hole/block_vise/thumb.md)
 
