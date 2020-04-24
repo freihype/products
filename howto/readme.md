@@ -42,7 +42,7 @@
 
 ## Sheetpress
 
-### Cartridge Heatter block hole
+### Cartridge Heater Block Hole
 
 [Sheetpress cartrigde heater block drill addon](./sheetpress/cartridge_heater/hole/lathe_drill_addon/thumb.md)
 
