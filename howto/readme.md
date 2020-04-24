@@ -28,6 +28,8 @@
 
 [Extrusion Hopper](./extrusion/hopper/thumb.md)
 
+[Extrusion Barrel Mount - **v4**](./extrusion/barrel_mount/thumb.md)
+
 [Extrusion Screw Mount](./extrusion/screw_mount/thumb.md)
 
 [Nozzle interface](./nozzle_interface/thumb.md)
