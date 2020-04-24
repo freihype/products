@@ -26,7 +26,9 @@
 
 [Extrusion Keyway](./extrusion/keyway/thumb.md)
 
-[Extrusion Hopper](./extrusion/hopper/thumb.md)
+[Extrusion Hopper - old](./extrusion/hopper/thumb.md)
+
+[Extrusion Hopper - new](./extrusion/hopper_mount/thumb.md)
 
 [Extrusion Barrel Mount - **v4**](./extrusion/barrel_mount/thumb.md)
 
