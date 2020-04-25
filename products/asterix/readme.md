@@ -15,7 +15,7 @@
 - [3D Step File - All](./cad/Asterix-All_final.STEP)
 - [3D Step File - No panels](Asterix-All_final-no_panels_or_supports.STEP) | [3D - Preview / Download](https://a360.co/2w6kilw)
 
-<img width="300px" src="./media/no_panels.JPG">
+<img width="300px" src="./media/no_panels.JPG"/>
 
 ## Current design - Rev. A
 

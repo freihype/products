@@ -1,14 +1,14 @@
-This is our best seller and is truly open source. It comes with auto-reverse and lots of safety functions.</p>
+<p>This is our best seller and is truly open source. It comes with auto-reverse and lots of safety functions.</p>
 
 <div>
     <a href="${product_overview}">
         <p style="text-align: center">
-            <img width="100%" src="${product_overview}">
+            <img width="100%" src="${product_overview}"/>
         </p>
     </a>
     <a href="https://precious-plastic.org/products/products/components/hal/overview.JPG">
         <p style="text-align: center">
-            <img width="100%" src="https://precious-plastic.org/products/products/components/hal/overview.JPG">
+            <img width="100%" src="https://precious-plastic.org/products/products/components/hal/overview.JPG"/>
         </p>
     </a>
 </div>

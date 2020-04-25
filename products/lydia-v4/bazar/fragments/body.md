@@ -3,7 +3,7 @@ Popular PP extruder , perfect for labs, small enterprises; updated for a bigger 
 <div>
     <a href="${product_overview}">
         <p style="text-align: center">
-            <img width="100%" src="${product_overview}">
+            <img width="100%" src="${product_overview}"/>
         </p></a>
 </div>
 ### Features
