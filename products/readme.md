@@ -6,7 +6,7 @@
 
 <img width="200px" src="./zoe/media/preview.jpg"/>
 
-[Idefix](/products/products/idefix/readme.md) - PET flake grinder
+[Idefix](./idefix/) - PET flake grinder
 
 <img width="200px" src="./idefix/renderings/grinder_pers.png"/>
 
