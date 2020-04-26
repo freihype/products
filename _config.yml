@@ -188,8 +188,6 @@ defaults:
       author_profile: false
       share: false
       comments: false
-      sidebar:
-        nav: "docs"
   # _recipes
   - scope:
       path: ""
@@ -224,6 +222,10 @@ defaults:
       layout: single
       author_profile: false
       share: true
+
+      
+sass:
+  style: compact # possible values: nested expanded compact compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
