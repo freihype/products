@@ -21,7 +21,9 @@ Fully automated with mould cooling
 
 Shot size 1kg
 
-Clamping Pressure 230 tons
+Clamping mechanism: 3 platten, 4 ti-bar, 5 point double toggle
+
+Clamping Pressure 240 tons
 
 Mould Opening Stroke: 450mm
 
