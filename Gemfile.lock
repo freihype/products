@@ -139,7 +139,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.0.0)
   jekyll-algolia
-  jekyll-feed (~> 0.12)
   jekyll-gist
   jekyll-include-cache
   jekyll-paginate
