@@ -128,9 +128,14 @@ In our case, 150mm x 3 = **450mm**
 
 Together, the required Clamping Force and Mould Opening Stroke dictate the geometry of the Clamping Mechanism. The Mechanical Advantage of the clamping mechanism can be calculated as a ratio. Then the appropriate hydraulic cylinder and power unit can be sized.
 
-# Summary
+## Sizing- Summary
 
 To inject an object similar in size and volume to the PP Brick, an injection machine would require a **clamping force of 250 tons and a mould opening stroke of 450mm**
 
 These will form the basis of the development going forward.
+
+---
+
+# Injection Machine Parts
+
 
