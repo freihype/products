@@ -138,4 +138,21 @@ These will form the basis of the development going forward.
 
 # Injection Machine Parts
 
+![Moulding Machine Parts](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/The-main-components-of-injection-molding-machine.png.jpg)
+
+[Clamping Mechanism] and [Clamping Hydraulic Cylinder]
+
+[Platens] and [Tie Rods]
+
+[Injector Screw and Barrel]
+
+[Screw Drive Mechanism]
+
+[Injection Hydraulics]
+
+[Hydraulic Power Unit]
+
+[Control Unit] and [Electrical System]
+
+
 
