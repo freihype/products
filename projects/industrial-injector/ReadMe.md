@@ -1,6 +1,7 @@
-#Industrial Scale Injector
+# Industrial Scale Injector
 
-## Intro
+
+## Introduction
 
 It is percieved that in the future there will be a demand for larger scale injection machines designed exclusively for 
 
@@ -16,7 +17,6 @@ removable mould. Relatively high production rates can theoretically be achieved 
 switching moulds over and demoulding the product is labour intensive, meaning that the production cost per product remains 
 
 high.
-
 
 
 
@@ -76,24 +76,31 @@ Machines of this size are measured by tonnage of Clamping Force.
 
 Clamping force refers to the force applied to a mold by the clamping unit. In order to keep the mold closed, this force must oppose the separating force, caused by the injection of molten plastic into the mold. 
 
-The required clamping force can be calculated primarily from the cavity pressure inside the mold and the shot projected area, on which this pressure is acting.
+The required clamping force can be calculated primarily from the **cavity pressure** inside the mold and the **shot projected area**, on which this pressure is acting.
+
+### Cavity Pressure
+
+HDPE typically requires a cavity pressure of around 800psi at an average wall thickness of 1mm. This is considered to be a sensible minimum wall thickness for recylced products of this size.
+
+### Shot Projected Area
 
 The shot projected area is the cross sectional area occupied by the part, including its runner. For example, our Brick might have a shot area of 10cmx20cm = 200cm2
 
 ![Shot area](https://i.pinimg.com/originals/45/93/67/4593679418e8e5e12db66ce29e9bb644.png)
 
 
-The other variables that affect the clamping force calculation are the Melt Flow and the Depth of the part.
+The other variables that affect the clamping force calculation are the **Melt Flow** and the **Depth** of the part.
 
 ### Melt Flow
 
-Plastic resins are rated according to their viscosity, and their flow rating is expressed as a Melt Flow Rating (MFR), or Melt Flow Index (MFI). In our case, the Melt Flow Index of 100% recycled HDPE is reported to be approximately 5g/10min, which is slightly higher than virgin HDPE granules (1.4g/10min) but still considered a High FLow material, so at this stage we will use a factor of 1.
+Plastic resins are rated according to their viscosity, and their flow rating is expressed as a Melt Flow Rating (MFR), or Melt Flow Index (MFI). In our case, the Melt Flow Index of 100% recycled HDPE is reported to be approximately 5g/10min, which is slightly higher than virgin HDPE granules (1.4g/10min) but still considered a High FLow material, so for estimation purposes we will use a factor of 1.
 
 ### Depth of Part
 
 If the depth of the part is greater than 1 inch, we need to increase the clamping force calculation by 10% or every further inch. So, for a part with a total depth of 150mm ~6 inches, we need to add 50% to our calculation.
 
-### Clamping Force Calculation
+
+## Clamping Force Calculation
 
 The required mold clamping force of a mold can be calculated using the following equation.
 
@@ -107,7 +114,7 @@ F = 56.2456x200/1000 =112.4912 tf
 
 Factoring in the additional 50% for the part depths gives 168.7368 tf. 
 
-Allowing a safety factor of approximately 1.5, a 250 ton machine should be chosen. 
+Allowing a safety factor of approximately 1.5, a **250 ton** machine should be chosen. 
 
 
 ## Mould Opening Stroke
@@ -116,14 +123,14 @@ The other significant specification of an injection machine is the Mould Opening
 
 The length of stroke required by the moving platten must be at least 3x the depth of the part in order to allow ejection. 
 
-In our case, 150mm x 3 = 450mm
+In our case, 150mm x 3 = **450mm**
 
 
 Together, the required Clamping Force and Mould Opening Stroke dictate the geometry of the Clamping Mechanism. The Mechanical Advantage of the clamping mechanism can be calculated as a ratio. Then the appropriate hydraulic cylinder and power unit can be sized.
 
 # Summary
 
-To inject an object similar in size and volume to the PP Brick, an injection machine would require a clamping force of 250 tons and a mould opening stroke of 450mm
+To inject an object similar in size and volume to the PP Brick, an injection machine would require a **clamping force of 250 tons and a mould opening stroke of 450mm**
 
 These will form the basis of the development going forward.
 
