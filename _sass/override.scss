@@ -1,0 +1,170 @@
+.container-fluid {
+    max-width: 1200px;
+    min-width: 280px;
+    margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    color: #465363;
+}
+
+.ty-vendor-plans {
+    margin-top: 40px;
+    text-align: center;
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: stretch;
+    align-items: stretch;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.ty-vendor-plans__title {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.ty-vendor-plans__title-header {
+    font-size: 28px;
+}
+
+.ty-vendor-plans-info {
+    min-height: 280px;
+}
+
+.ty-vendor-plans__item {
+    display: inline-block;
+    width: 220px;
+    background: #fbfbfb;
+    vertical-align: top;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    border: 1px solid #f0f0f0;
+    padding: 1px;
+    transition: all 200ms;
+}
+
+
+
+.ty-vendor-plans__item:hover {
+    border-color: #dedede;
+}
+
+.ty-vendor-plans__item.active {
+    background: #fff;
+    border: 0;
+    box-shadow: 0 0 30px #bfbfbf;
+}
+
+.ty-vendor-plans__item.active .ty-vendor-plan-content,
+.ty-vendor-plans__item.vendor-plan-current {
+    margin-top: 0;
+}
+
+.ty-vendor-plans__item.hidden {
+    display: none;
+}
+
+.ty-vendor-plans__item .ty-vendor-plan-current-plan {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 300;
+    color: #fff;
+    background-color: #f90;
+    border-radius: 3px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    display: inline;
+    padding: 4px 18px;
+}
+
+.ty-vendor-plans__item .ty-vendor-plan-content {
+    padding: 7px 14px;
+    margin-top: 10px;
+}
+
+.ty-vendor-plans__item .ty-vendor-plan-descr {
+    min-height: 1em;
+}
+
+.ty-vendor-plans__item .ty-vendor-plan-header {
+    margin-top: 10px;
+    font-weight: 200;
+    font-size: 24px;
+}
+
+.ty-vendor-plans__item .ty-vendor-plan-price {
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-right: 5px;
+}
+
+.ty-vendor-plans__item .ty-vendor-plan-price-period {
+    color: #999;
+    font-size: 15px;
+    font-weight: 300;
+    font-style: normal;
+    text-transform: lowercase;
+    line-height: 1em;
+}
+
+.ty-vendor-plans__item .ty-vendor-plan-link {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.ty-vendor-plans__item .ty-vendor-plan-params {
+    padding: 15px 0;
+}
+
+.ty-vendor-plans__item .ty-vendor-plan-params p {
+    margin: 0;
+    padding: 2px 0;
+    font-size: 14px;
+}
+
+.ty-grid-list__item,
+.ty-product-list {
+    background: #fff;
+    border-radius: 8px;
+    transition: all 0.2s ease-in-out 0s;
+    box-shadow: none;
+    overflow: hidden;
+    border: 1px solid #edf2f5;
+    border-radius: 5px;
+    margin: 0 10px 25px;
+}
+
+.ty-grid-list__item--overlay:hover,
+.ty-product-list:hover {
+    box-shadow: none;
+    border-color: #000;
+    transform: scale(1.02);
+}
+
+.ty-grid-list__image {
+    border-radius: 6px 0;
+}
+
+.ty-product-list__image {
+    margin-bottom: 0;
+}
+
+.ty-product-list__image img {
+    border: none;
+    object-fit: cover;
+    width: 220px;
+    height: 220px;
+}
