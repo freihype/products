@@ -140,7 +140,7 @@ These will form the basis of the development going forward.
 
 ![Moulding Machine Parts](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/The-main-components-of-injection-molding-machine.png.jpg)
 
-[Clamping Mechanism] and [Clamping Hydraulic Cylinder]
+[Clamping Mechanism](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/ReadMe.md) and [Clamping Hydraulic Cylinder]
 
 [Platens] and [Tie Rods]
 
@@ -150,7 +150,7 @@ These will form the basis of the development going forward.
 
 [Injection Hydraulics]
 
-[Hydraulic Power Unit]
+[Hydraulic Power Unit](https://github.com/plastic-hub/products/blob/master/projects/hydraulic-power-pack/ReadMe.md)
 
 [Control Unit] and [Electrical System]
 
