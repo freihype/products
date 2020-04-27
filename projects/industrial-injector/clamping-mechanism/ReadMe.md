@@ -17,3 +17,9 @@ The 5 point double toggle mechanism is used on high-tonnage machines
 ![Toggle clamp diagram](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/clamping.gif)
 
 
+## Design of a clamping mechanism
+
+The challenge of designing a high tonnage toggle clamp is to be able to calculate the ratio of input and output forces. This is called the Mechanical Advantage. This ratio allows an appropriate hydraulic cylinder and power supply to be selected.
+
+The geometry of the 5 point clamping mechanism is complex, but can be represented algebraically. In order to calculate optimum link lengths between the 5 points, this algebraic relationship may be submitted to a genetic algorithm to rapidly determine the most efficient geometry for a given set of input values including clamping force and mould opening stroke.
+
