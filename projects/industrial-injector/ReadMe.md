@@ -138,7 +138,7 @@ These will form the basis of the development going forward.
 
 # Injection Machine Parts
 
-![Moulding Machine Parts](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/The-main-components-of-injection-molding-machine.png.jpg)
+![Moulding Machine Parts](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/components-of-plastic-injection-molding-4-638.jpg)
 
 [Clamping Mechanism](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/ReadMe.md) and [Clamping Hydraulic Cylinder]
 
