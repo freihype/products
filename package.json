@@ -11,7 +11,8 @@
         "bazar-zoe": "cd ..\\lang\\cli; cd node ./build/main.js bazar-product-html --debug=true --products=../../products --product=zoe",
         "bazar-elena": "cd ..\\lang\\cli; node ./build/main.js bazar-product-html --debug=true --products=../../products --product=elena",
         "gallery-all": "sigal build -d ./products ./gallery/",
-        "serve" : "bundle exec jekyll serve --trace --port 8008 --incremental"
+        "serve" : "bundle exec jekyll serve --trace --port 8008 --incremental",
+        "build" : "bundle exec jekyll build -d ../pp"
     },
     "author": "",
     "license": "ISC",
