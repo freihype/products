@@ -121,6 +121,75 @@ As proposed in the first paper cited above, determining optimal geometry might b
   
   There is potential for existing Tensorflow machine learning tools to be copy/pasted and adapted for this application, as youtube hero [Suraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) has done here to [build an automated trading bot](https://www.youtube.com/watch?v=HhqhFbwiaig)
   
+  
+  The flow of the optimisation algorithm is described in the above paper as follows:
+  
+ Step 1. Input the machine specifications and constraints. The specifications, given in Table 1, include the mold-opening
+stroke Am, the offset h of slider A, the maximal clamping force F, the radii RO, RA, RB, RC and RD of the pin joints, the friction
+coefficient l, the tie bar length L, the cross-sectional area A, and the elastic modulus E. The constraints on FM and /o are
+specified as ranges, based on reasonable dimensions of the clamping hydraulic cylinder and the initial speed of the moldclosing.
+The ranges are determined empirically, and their constraining equations are generally given as follows.
+FMmin 6 FM 6 FMmax; ð28Þ
+/min 6 /o 6 /max; ð29Þ
+
+where FM ranges from 19 to 23 and /c ranges from 18 to 24.
+
+
+ Step 2. Generate an initial population and evaluate the goal function. A binary population is generated randomly. It must be
+transferred into real numbers before the goal function is calculated. In this work, the population size is 40 and the number
+of generations is 10. All phenotypes of the population are used to calculate the goal function given as follows.
+GF ¼ Min
+Kvmax
+Kvmin
+ R
+Kv
+ 2
+þ ðKd  K
+dÞ2
+" #
+; ð30Þ
+where Kvmax and Kvmin are calculated using Eq. (8) and represent the local maximum and the local minimum in the Kv
+curve, respectively. The ratio Kvmax/Kvmin represents the smoothness of the motion of the platen. K
+d is the desired value
+of the stroke ratio Kd in Eq. (7) and R
+Kv is the desired ratio of Kvmax to Kvmin. An R
+Kv value of close to 1 indicates the smooth
+motion of the moving platen. The goal function in Eq. (30) minimizes the errors in the stroke ratio and speed ratio with
+respect from the respective desired values; their weightings are equal. The goal function is an important performance index
+or life index, and determines whether the chromosome can continue to exist or is eliminated in the evolutionary
+process.
+
+
+ Step 3. Perform coding and decoding. Binary encoding is the most common, mainly because first works about GA used this
+type of encoding. In binary encoding every chromosome is a string of bits, 0 or 1. Binary encoding gives many possible
+chromosomes even with a small number of alleles. On the other hand, this encoding is often not natural for many
+problems and sometimes corrections must be made after crossover and/or mutation. When the GA is used to solve the problem, each searching range must be coded as a binary string to enable the reproduction, crossover and mutation of
+chromosomes, and then the binary string is decoded as a real number to calculate the goal function. In this work, the
+length of every chromosome is 50.
+
+
+ Step 4. Perform reproduction. In the GA, roulette wheel selection is applied as the method of reproduction. The chromosome
+is reproduced in the next generation based on the value of its goal function. A greater value of the goal function
+corresponds to a larger area of the roulette wheel associated with the chromosome, and a greater probability of reproduction
+of the chromosome.
+
+
+ Step 5. Perform crossover. These two chromosomes, which are randomly selected from the reproduced chromosomes,
+exchange their genes with each other. In this study, double-point crossover is adopted, and the initial crossover rate is
+set to 0.8. When the crossover rate increases to 0.95, the values of the goal functions remain constant in the subsequent
+20 generations. The crossover rate becomes 0.8 when the value of the goal function is changing.
+
+
+ Step 6. Perform mutation. Mutation is a process by which a binary population is randomly and the characteristic, which is
+the selected binary population, is randomly changed from 0 to 1, or from 1 to 0. In a manner similar to the crossover rate,
+the mutation rate is set to 0.05 initially. The rate rises to 0.1 after the values of the goal functions have not changed for 20
+generations, and are returned to 0.05 when the goal function value change. This process is intended to yield a local
+solution.
+
+
+ Step 7. Define the stopping rule. Since the GA follows the uninterrupted competition and propagation unless a stopping
+rule is activated, a stopping rule terminates the calculation when the goal function is less than 104. If the stopping rule
+is not satisfied, repeat Step 3.
 
   
   
