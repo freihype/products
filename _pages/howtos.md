@@ -6,8 +6,6 @@ breadcrumbs: true
 layout : single
 author: false
 ---
-
-
 <div class="">
 
 <h1>General</h1>
