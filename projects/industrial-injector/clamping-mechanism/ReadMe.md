@@ -126,7 +126,7 @@ As proposed in the first paper cited above, determining optimal geometry might b
   
 Step 1. Input the machine specifications and constraints 
 
-Step 2. Generate an initial population and evaluate the goal function. A binary population is generated randomly. It must be
+Step 2. Generate an initial population (.csv file) and evaluate the goal function('fitness value'). A binary population is generated randomly. It must be
 transferred into real numbers before the goal function is calculated. 
 
 
