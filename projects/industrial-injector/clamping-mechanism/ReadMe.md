@@ -25,9 +25,48 @@ The challenge of designing a high tonnage toggle clamp is to be able to calculat
 
 The geometry of the 5 point clamping mechanism is complex, but can be represented algebraically. 
 
-Mathematical modelling is discussed in the key paper is the [Study on improvements of the five-point double-toggle mould clamping mechanism (2004)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.828.9042&rep=rep1&type=pdf)
+Mathematical modelling is discussed in the key paper, [Study on improvements of the five-point double-toggle mould clamping mechanism (2004)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.828.9042&rep=rep1&type=pdf)
 
-In a subsequent study, [Key design parameters and optimal design of a five-point double-toggle clamping mechanism (2011) ](https://doi.org/10.1016/j.apm.2011.03.001), an optimization approach is suggested.
+In a subsequent study, [Key design parameters and optimal design of a five-point double-toggle clamping mveechanism (2011) ](https://doi.org/10.1016/j.apm.2011.03.001), an optimization approach is suggested:
 
-In order to calculate optimum link lengths between the 5 points, this algebraic relationship may be submitted to a genetic algorithm to rapidly determine the most efficient geometry for a given set of input values including clamping force and mould opening stroke.
+In order to calculate optimum link lengths between the 5 points, the algebraic relationship may be subjected to a genetic algorithm in order to rapidly determine the most efficient link geometry for a given set of input values including clamping force and mould opening stroke.
 
+The paper outlines the flow of a machine learning algorithm which can achieve this objective. Injection machine manufacturers appear to develop their own applications of this approach and their optimization algorithms are not in the public domain.
+
+## ToDo
+
+1. The algebraic relationships described in the papers need to be confirmed and represented graphically here in a way that is easy to understand; Create spreadsheet representation
+
+2. Investigation into methods to determine the geometry for a 250 ton machine with a 450mm stroke:
+  - Finding examples to copy directly
+  - Custom built machine learning algorithm 
+  
+  
+  
+  # Copy-cat design
+  
+  To be added
+  
+  
+  # Machine Learning algorithms
+  
+  If no suitable design can be found to copy, we will need to determine our own optimal geometry. 
+  
+  This might be ahieved using a [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) 
+  
+  [Video- Genetic Algorithms (full lecture)](https://www.youtube.com/watch?v=lpD38NxTOnk) 
+  
+  This method will produce an optimal design through a mathematical process of evolution. This involves 'breeding' and testing large numbers of configuations of the defined variables (link lengths, in this case), requiring a large amount of computing power, but a tiny fraction of what would be require to attempt to test *all* possible confgurations. Machine learning has been demonstrated to be extremely effective in solving this type of complex problem involving multiple variables.
+  
+    
+  The most promising candidate for a machine learning environment identified so far appears to be Tensorflow 2.0
+  
+  [TensorFlow in 5 Min](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
+  
+  Tensors are higher order numbers, having more than one dimension. The relationships between link lengths in a 5 point double toggle clamping mechanism can potentially be represented as tensors.
+  
+  There is potential for existing Tensorflow machine learning tools to be copy/pasted and adapted for this application, as youtube hero [Suraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) has done here to [build an automated trading bot](https://www.youtube.com/watch?v=HhqhFbwiaig)
+  
+
+  
+  
