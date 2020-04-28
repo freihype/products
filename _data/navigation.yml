@@ -20,7 +20,7 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Docs"
     url: /docs/quick-start-guide/
   - title: "About"
     url: /about/
@@ -28,25 +28,24 @@ main:
     url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
-
 
 # documentation links
 docs:
-  - title: Getting Started
+  - title: Machines
     children:
-      - title: "Quick-Start Guide"
+      - title: "Precious Plastic Eindhoven"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "Plastic Hub Catalonia"
         url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
+      - title: "Community"
+        children:
+        - title: "Precious Plastic"
+          url: /docs/quick-start-guide/
       - title: "Upgrading"
         url: /docs/upgrading/
-  - title: Customization
+  - title: How-to
     children:
-      - title: "Configuration"
+      - title: "General"
         url: /docs/configuration/
       - title: "Overriding Theme Defaults"
         url: /docs/overriding-theme-defaults/
