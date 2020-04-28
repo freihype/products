@@ -1,3 +1,10 @@
+---
+image: /_howto/couplings/keyway/IMG_2002.JPG
+category: ""
+title: "Keyway"
+---
+
+
 <div class="thumb">
     <img src="./IMG_1985.JPG" width="100%" />
 </div>

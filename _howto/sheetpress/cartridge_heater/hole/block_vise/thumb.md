@@ -1,3 +1,10 @@
+---
+image: /_howto/sheetpress/cartridge_heater/hole/block_vise/IMG_1931.JPG
+category: ""
+title: "Block vise"
+---
+
+
 <div class="thumb">
     <img src="./IMG_1921.JPG" width="100%" />
 </div>

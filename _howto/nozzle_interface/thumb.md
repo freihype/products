@@ -1,3 +1,10 @@
+---
+image: /_howto/nozzle_interface/IMG_1946.JPG
+category: ""
+title: "Nozzle interface"
+---
+
+
 <div class="thumb">
     <img src="./1.JPG" width="100%" />
 </div>

@@ -1,3 +1,10 @@
+---
+image: /_howto/extrusion/thermo_couple_clips/IMG_1727.JPG
+category: ""
+title: "Thermo couple_clips"
+---
+
+
 <div class="thumb">
     <img src="./IMG_1719.JPG" width="100%" />
 </div>

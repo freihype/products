@@ -1,3 +1,10 @@
+---
+image: /_howto/controlbox/wiring/IMG_2000.JPG
+category: ""
+title: "Wiring"
+---
+
+
 <div class="thumb">
     <img src="./IMG_1980.JPG" width="100%" />
 </div>

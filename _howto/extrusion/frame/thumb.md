@@ -1,3 +1,10 @@
+---
+image: /_howto/extrusion/frame/IMG_1007.JPG
+category: ""
+title: "Frame"
+---
+
+
 <div class="thumb">
     <img src="./IMG_0990.JPG" width="100%" />
 </div>

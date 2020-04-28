@@ -1,3 +1,10 @@
+---
+image: /_howto/extrusion/screw_alignment/IMG_0994.JPG
+category: ""
+title: "Screw alignment"
+---
+
+
 <div class="thumb">
     <img src="./IMG_0974.JPG" width="100%" />
 </div>

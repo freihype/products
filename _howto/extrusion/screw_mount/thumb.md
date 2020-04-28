@@ -1,3 +1,10 @@
+---
+image: /_howto/extrusion/screw_mount/IMG_2018.JPG
+category: ""
+title: "Screw mount"
+---
+
+
 <div class="thumb">
     <img src="./IMG_2008.JPG" width="100%" />
 </div>

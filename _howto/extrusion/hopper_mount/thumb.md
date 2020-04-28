@@ -1,3 +1,10 @@
+---
+image: /_howto/extrusion/hopper_mount/IMG_2032.JPG
+category: ""
+title: "Hopper mount"
+---
+
+
 <div class="thumb">
     <img src="./IMG_2020.JPG" width="100%" />
 </div>

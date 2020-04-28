@@ -1,3 +1,10 @@
+---
+image: /_howto/extrusion/barrel_mount/IMG_1780.JPG
+category: ""
+title: "Barrel mount"
+---
+
+
 <div class="thumb">
     <img src="./IMG_1753.JPG" width="100%" />
 </div>

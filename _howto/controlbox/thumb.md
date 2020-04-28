@@ -1,3 +1,10 @@
+---
+image: /_howto/controlbox/5.JPG
+category: "general"
+title: "Control Box"
+---
+
+
 ### We start with the laser [cut sheets](../)
 
 

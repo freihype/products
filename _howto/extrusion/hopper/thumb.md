@@ -1,3 +1,10 @@
+---
+image: /_howto/extrusion/hopper/IMG_1144.JPG
+category: ""
+title: "Hopper"
+---
+
+
 <div class="thumb">
     <img src="./IMG_0670.JPG" width="100%" />
 </div>

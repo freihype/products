@@ -1,3 +1,10 @@
+---
+image: /_howto/extrusion/clamp_flange/IMG_1962.JPG
+category: ""
+title: "Clamp flange"
+---
+
+
 <div class="thumb">
     <img src="./IMG_1954.JPG" width="100%" />
 </div>

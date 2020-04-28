@@ -1,3 +1,10 @@
+---
+image: /_howto/couplings/clamp/IMG_1943.JPG
+category: ""
+title: "Clamp"
+---
+
+
 <div class="thumb">
     <img src="./0.JPG" width="100%" />
 </div>

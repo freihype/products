@@ -1,3 +1,10 @@
+---
+image: /_howto/sheetpress/cartridge_heater/hole/drilling/IMG_2007.JPG
+category: ""
+title: "Drilling"
+---
+
+
 <div class="thumb">
     <img src="./IMG_2004.JPG" width="100%" />
 </div>
