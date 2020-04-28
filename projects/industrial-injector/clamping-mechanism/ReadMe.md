@@ -124,7 +124,7 @@ As proposed in the first paper cited above, determining optimal geometry might b
   
   The flow of the optimisation algorithm is described in the above paper is summarised as follows:
   
-Step 1. Input the machine specifications and constraints including the mold-opening stroke Am, the offset h of slider A, the maximal clamping force F, the radii RO, RA, RB, RC and RD of the pin joints, the friction coefficient l, the tie bar length L, the cross-sectional area A, and the elastic modulus E. 
+Step 1. Input the machine specifications and constraints 
 
 Step 2. Generate an initial population and evaluate the goal function. A binary population is generated randomly. It must be
 transferred into real numbers before the goal function is calculated. 
