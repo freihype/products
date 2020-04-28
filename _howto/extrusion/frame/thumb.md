@@ -1,6 +1,6 @@
 ---
 image: /_howto/extrusion/frame/IMG_1007.JPG
-category: ""
+category: "extrusion"
 title: "Frame"
 ---
 

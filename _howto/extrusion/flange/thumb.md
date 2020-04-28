@@ -1,6 +1,6 @@
 ---
 image: /_howto/extrusion/flange/3.JPG
-category: ""
+category: "extrusion"
 title: "Flange"
 ---
 

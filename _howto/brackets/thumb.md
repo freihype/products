@@ -1,6 +1,6 @@
 ---
 image: /_howto/brackets/4.JPG
-category: ""
+category: "general"
 title: "Brackets"
 ---
 

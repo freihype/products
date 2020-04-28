@@ -1,6 +1,6 @@
 ---
 image: /_howto/controlbox/dinrail_layout/IMG_1978.JPG
-category: ""
+category: "general"
 title: "Dinrail layout"
 ---
 

@@ -1,6 +1,6 @@
 ---
 image: /_howto/extrusion/barrel_mount/IMG_1780.JPG
-category: ""
+category: "extrusion"
 title: "Barrel mount"
 ---
 

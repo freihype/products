@@ -1,6 +1,6 @@
 ---
 image: /_howto/extrusion/clamp_flange/IMG_1962.JPG
-category: ""
+category: "extrusion"
 title: "Clamp flange"
 ---
 

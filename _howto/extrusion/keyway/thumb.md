@@ -1,6 +1,6 @@
 ---
 image: /_howto/extrusion/keyway/4.JPG
-category: ""
+category: "extrusion"
 title: "Keyway"
 ---
 

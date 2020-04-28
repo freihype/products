@@ -1,6 +1,6 @@
 ---
 image: /_howto/nozzle_interface/IMG_1946.JPG
-category: ""
+category: "extrusion"
 title: "Nozzle interface"
 ---
 

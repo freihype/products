@@ -1,6 +1,6 @@
 ---
 image: /_howto/extrusion/hopper/IMG_1144.JPG
-category: ""
+category: "extrusion"
 title: "Hopper"
 ---
 

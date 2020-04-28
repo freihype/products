@@ -1,6 +1,6 @@
 ---
 image: /_howto/extrusion/hopper_mount/IMG_2032.JPG
-category: ""
+category: "extrusion"
 title: "Hopper mount"
 ---
 

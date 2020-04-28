@@ -1,6 +1,6 @@
 ---
 image: /_howto/couplings/keyway/IMG_2002.JPG
-category: ""
+category: "general"
 title: "Keyway"
 ---
 

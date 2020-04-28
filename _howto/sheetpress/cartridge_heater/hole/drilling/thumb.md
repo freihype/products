@@ -1,6 +1,6 @@
 ---
 image: /_howto/sheetpress/cartridge_heater/hole/drilling/IMG_2007.JPG
-category: ""
+category: "sheetpress"
 title: "Drilling"
 ---
 

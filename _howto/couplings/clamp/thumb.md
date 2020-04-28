@@ -1,6 +1,6 @@
 ---
 image: /_howto/couplings/clamp/IMG_1943.JPG
-category: ""
+category: "general"
 title: "Clamp"
 ---
 
