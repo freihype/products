@@ -35,22 +35,50 @@ The paper outlines the flow of a machine learning algorithm which can achieve th
 
 The algebraic relationship is very clearly laid out in the [Kinematic calculation analysis of micro injection molding machine with double-toggle clamping mechanism based on MATLAB (2012)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.876.19&rep=rep1&type=pdf) 
 
+![Geometric diagram](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/geometrical-drawing-main.png)
+
+The geometric model of double-toggle clamping mechanism
+
+L1----length of back toggle 
+H----height of crosshead center
+h----height of template center
+γ0----fastigiated angle
+θ----angle between L1 and L3
+φ0----maximal coping angle
+S0----stroke of crosshead
+Sb----stroke of moving platen
+λ1----ratio of L1 and L2
+λ2----ratio of L3 and L4
+L2----length of frontal rod
+L3----length of larger connecting toggle
+L4----length of nether connecting rod
+L5----length of middle connecting rod
+L6----length of crosshead connecting rod
+α ----toggle angle
+φ----coping angle
+β----angle between L2 and horizontal line
+
+#Key Formulas:
+
+##Stroke Ratio
+
+[Stroke ratio calcs](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/stroke-ratio-calcs.png)
+
+## Velocity Ratio
+
+[Velocity ratio calcs](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/velocity-ratio-calcs.png)
+
+## Amplified Force Ratio
+
+[Amplified force ratio calcs](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/amplified-force-ratio-calcs.png)
 
 
-## Design approaches
-  
-  # Copy-cat design
-  
-It may be possible to find an existing desgin and copy the geometry directly.
 
-  To be added  
   
   
   # Machine Learning algorithms
   
-  If no suitable design can be found to copy, we will need to determine our own optimal geometry. 
-  
-  This might be ahieved using a [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) 
+Determining optimal geometry might be ahieved using a [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) 
   
   [Video- Genetic Algorithms (full lecture)](https://www.youtube.com/watch?v=lpD38NxTOnk) 
   
