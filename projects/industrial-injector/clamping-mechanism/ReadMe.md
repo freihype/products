@@ -27,7 +27,7 @@ The geometry of the 5 point clamping mechanism is complex, but can be represente
 
 Mathematical modelling is discussed in the key paper, [Study on improvements of the five-point double-toggle mould clamping mechanism (2004)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.828.9042&rep=rep1&type=pdf)
 
-In a subsequent study, [Key design parameters and optimal design of a five-point double-toggle clamping mveechanism (2011) ](https://doi.org/10.1016/j.apm.2011.03.001), an optimization approach is suggested:
+In a subsequent study, [Key design parameters and optimal design of a five-point double-toggle clamping mechanism (2011) ](https://doi.org/10.1016/j.apm.2011.03.001), an optimization approach is suggested:
 
 In order to calculate optimum link lengths between the 5 points, the algebraic relationship may be subjected to a genetic algorithm in order to rapidly determine the most efficient link geometry for a given set of input values including clamping force and mould opening stroke.
 
