@@ -106,6 +106,8 @@ Sb----stroke of moving platen
   
   # Machine Learning algorithms
   
+  Determining combinations of link lengths in a toggle system is an example of a [Multi-Objetive Problem](https://www.youtube.com/watch?v=56JOMkPvoKs)
+  
 As proposed in the first paper cited above, determining optimal geometry might be achieved using a [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) 
   
   [Video- Genetic Algorithms (full lecture)](https://www.youtube.com/watch?v=lpD38NxTOnk) 
