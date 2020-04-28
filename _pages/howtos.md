@@ -2,13 +2,13 @@
 title: Howtos
 layout: default
 permalink: /howtos/
-toc: true
-sidebar:
-  nav: "docs"
 breadcrumbs: true
+layout : single
+author: false
 ---
 
-<div class="container-fluid">
+
+<div class="">
 
 <h1>General</h1>
 <div class="ty-vendor-plans">
