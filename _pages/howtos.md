@@ -5,6 +5,7 @@ permalink: /howtos/
 toc: true
 sidebar:
   nav: "docs"
+breadcrumbs: true
 ---
 
 <div class="container-fluid">

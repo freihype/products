@@ -22,8 +22,8 @@ foo:
 main:
   - title: "Docs"
     url: /docs/quick-start-guide/
-  - title: "About"
-    url: /about/
+  - title: "Howtos"
+    url: /howtos/
   - title: "Sample Posts"
     url: /year-archive/
   - title: "Sample Collections"

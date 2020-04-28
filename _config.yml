@@ -134,22 +134,27 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
+    breadcrumbs: true
   recipes:
     output: true
     permalink: /:collection/:path/
+    breadcrumbs: true
   pets:
     output: true
     permalink: /:collection/:path/
+    breadcrumbs: true
   portfolio:
     output: true
     permalink: /:collection/:path/
+    breadcrumbs: true
   products:
     output: true
     permalink: /:collection/:path/
+    breadcrumbs: true
   howto:
     output: true
     permalink: /:collection/:path
-
+    breadcrumbs: true
 # Defaults
 defaults:
   # _posts
