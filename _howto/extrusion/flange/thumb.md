@@ -1,5 +1,5 @@
 ---
-image: ./_howto/extrusion/flange/3.JPG
+image: /pp/_howto/extrusion/flange/3.JPG
 category: "extrusion"
 title: "Flange"
 ---

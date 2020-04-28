@@ -1,5 +1,5 @@
 ---
-image: ./_howto/extrusion/keyway/4.JPG
+image: /pp/_howto/extrusion/keyway/4.JPG
 category: "extrusion"
 title: "Keyway"
 ---

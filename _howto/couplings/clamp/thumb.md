@@ -1,5 +1,5 @@
 ---
-image: ./_howto/couplings/clamp/IMG_1943.JPG
+image: /pp/_howto/couplings/clamp/IMG_1943.JPG
 category: "general"
 title: "Clamp"
 ---

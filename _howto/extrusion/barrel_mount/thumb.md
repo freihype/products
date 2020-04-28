@@ -1,5 +1,5 @@
 ---
-image: ./_howto/extrusion/barrel_mount/IMG_1780.JPG
+image: /pp/_howto/extrusion/barrel_mount/IMG_1780.JPG
 category: "extrusion"
 title: "Barrel Mount"
 ---

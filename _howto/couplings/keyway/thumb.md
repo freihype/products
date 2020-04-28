@@ -1,5 +1,5 @@
 ---
-image: ./_howto/couplings/keyway/IMG_2002.JPG
+image: /pp/_howto/couplings/keyway/IMG_2002.JPG
 category: "general"
 title: "Keyway"
 ---

@@ -1,5 +1,5 @@
 ---
-image: ./_howto/extrusion/screw_mount/IMG_2018.JPG
+image: /pp/_howto/extrusion/screw_mount/IMG_2018.JPG
 category: "extrusion"
 title: "Screw Mount"
 ---

@@ -1,5 +1,5 @@
 ---
-image: ./_howto/sheetpress/cartridge_heater/hole/block_vise/IMG_1931.JPG
+image: /pp/_howto/sheetpress/cartridge_heater/hole/block_vise/IMG_1931.JPG
 category: "sheetpress"
 title: "Block Vise"
 ---

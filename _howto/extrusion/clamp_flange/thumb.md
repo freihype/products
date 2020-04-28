@@ -1,5 +1,5 @@
 ---
-image: ./_howto/extrusion/clamp_flange/IMG_1962.JPG
+image: /pp/_howto/extrusion/clamp_flange/IMG_1962.JPG
 category: "extrusion"
 title: "Clamp Flange"
 ---

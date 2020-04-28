@@ -1,5 +1,5 @@
 ---
-image: ./_howto/extrusion/screw_alignment/IMG_0994.JPG
+image: /pp/_howto/extrusion/screw_alignment/IMG_0994.JPG
 category: "extrusion"
 title: "Screw Alignment"
 ---

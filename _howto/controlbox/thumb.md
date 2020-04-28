@@ -1,5 +1,5 @@
 ---
-image: ./_howto/controlbox/5.JPG
+image: /pp/_howto/controlbox/5.JPG
 category: "general"
 title: "Control Box"
 ---

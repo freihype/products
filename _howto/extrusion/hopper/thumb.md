@@ -1,5 +1,5 @@
 ---
-image: ./_howto/extrusion/hopper/IMG_1144.JPG
+image: /pp/_howto/extrusion/hopper/IMG_1144.JPG
 category: "extrusion"
 title: "Hopper"
 ---

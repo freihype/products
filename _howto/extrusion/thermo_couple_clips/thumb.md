@@ -1,5 +1,5 @@
 ---
-image: ./_howto/extrusion/thermo_couple_clips/IMG_1727.JPG
+image: /pp/_howto/extrusion/thermo_couple_clips/IMG_1727.JPG
 category: "extrusion"
 title: "Thermo Couple_clips"
 ---

@@ -1,5 +1,5 @@
 ---
-image: ./_howto/brackets/4.JPG
+image: /pp/_howto/brackets/4.JPG
 category: "general"
 title: "Brackets"
 ---

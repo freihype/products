@@ -1,5 +1,5 @@
 ---
-image: ./_howto/extrusion/shaft_clamp/IMG_1969.JPG
+image: /pp/_howto/extrusion/shaft_clamp/IMG_1969.JPG
 category: "extrusion"
 title: "Shaft Clamp"
 ---

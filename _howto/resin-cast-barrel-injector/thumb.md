@@ -1,5 +1,5 @@
 ---
-image: ./_howto/resin-cast-barrel-injector/z1000000.jpg
+image: /pp/_howto/resin-cast-barrel-injector/z1000000.jpg
 category: "injection"
 title: "Resin Cast Barrel Injector"
 ---
