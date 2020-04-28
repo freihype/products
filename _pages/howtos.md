@@ -11,9 +11,8 @@ permalink: /howtos/
 <h1>Extrusion</h1>
 
 <div class="ty-vendor-plans">
-{% for doc in site. howto %}
-  {% if doc. category == "extrusion" %}
-
+{% for doc in site.howto %}
+  {% if doc.category == "extrusion" %}
     <div class="ty-grid-list__item">
         <span class="image" >
           <img width="300px" src="{{ doc.image }}" alt="" />
@@ -24,7 +23,6 @@ permalink: /howtos/
           </h3>
         </header>
     </div>
-
   {% endif %}
 {% endfor %}
 </div>
