@@ -1,7 +1,7 @@
 ---
-image: /_howto/extrusion/thermo_couple_clips/IMG_1727.JPG
+image: ./_howto/extrusion/thermo_couple_clips/IMG_1727.JPG
 category: "extrusion"
-title: "Thermo couple_clips"
+title: "Thermo Couple_clips"
 ---
 
 

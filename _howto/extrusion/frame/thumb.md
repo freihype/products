@@ -1,5 +1,5 @@
 ---
-image: /_howto/extrusion/frame/IMG_1007.JPG
+image: ./_howto/extrusion/frame/IMG_1007.JPG
 category: "extrusion"
 title: "Frame"
 ---

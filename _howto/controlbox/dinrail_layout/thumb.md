@@ -1,7 +1,7 @@
 ---
-image: /_howto/controlbox/dinrail_layout/IMG_1978.JPG
+image: ./_howto/controlbox/dinrail_layout/IMG_1978.JPG
 category: "general"
-title: "Dinrail layout"
+title: "Dinrail Layout"
 ---
 
 

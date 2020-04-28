@@ -1,7 +1,7 @@
 ---
-image: /_howto/sheetpress/cartridge_heater/hole/block_vise/IMG_1931.JPG
+image: ./_howto/sheetpress/cartridge_heater/hole/block_vise/IMG_1931.JPG
 category: "sheetpress"
-title: "Block vise"
+title: "Block Vise"
 ---
 
 

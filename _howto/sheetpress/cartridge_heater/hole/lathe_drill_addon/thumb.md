@@ -1,7 +1,7 @@
 ---
-image: /_howto/sheetpress/cartridge_heater/hole/lathe_drill_addon/IMG_1743.JPG
+image: ./_howto/sheetpress/cartridge_heater/hole/lathe_drill_addon/IMG_1743.JPG
 category: "sheetpress"
-title: "Lathe drill_addon"
+title: "Lathe Drill_addon"
 ---
 
 

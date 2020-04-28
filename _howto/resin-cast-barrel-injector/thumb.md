@@ -1,5 +1,5 @@
 ---
-image: /_howto/resin-cast-barrel-injector/z1000000.jpg
+image: ./_howto/resin-cast-barrel-injector/z1000000.jpg
 category: "injection"
 title: "Resin Cast Barrel Injector"
 ---
@@ -53,8 +53,7 @@ Trim the end of the barrel to create a flat surface
 
 In a similar way, create your mould in a second can. The mould needs to be cut with a razorblade to remove the original part:
 
-![mould cut](./IMG-20200420-WA0008.jpg)
-
+![mould cut](./z1000000.jpg)
 
 3. Your plunger, barrel and mould are ready to go!
 

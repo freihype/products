@@ -1,7 +1,7 @@
 ---
-image: /_howto/extrusion/screw_alignment/IMG_0994.JPG
+image: ./_howto/extrusion/screw_alignment/IMG_0994.JPG
 category: "extrusion"
-title: "Screw alignment"
+title: "Screw Alignment"
 ---
 
 

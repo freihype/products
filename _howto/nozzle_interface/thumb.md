@@ -1,7 +1,7 @@
 ---
-image: /_howto/nozzle_interface/IMG_1946.JPG
+image: ./_howto/nozzle_interface/IMG_1946.JPG
 category: "extrusion"
-title: "Nozzle interface"
+title: "Nozzle Interface"
 ---
 
 
