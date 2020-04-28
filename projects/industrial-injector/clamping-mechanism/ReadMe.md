@@ -106,6 +106,8 @@ Sb----stroke of moving platen
   
   # Machine Learning algorithms
   
+  Determining combinations of link lengths in a toggle system is an example of a [Multi-Objective Problem](https://www.youtube.com/watch?v=56JOMkPvoKs)
+  
 As proposed in the first paper cited above, determining optimal geometry might be achieved using a [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) 
   
   [Video- Genetic Algorithms (full lecture)](https://www.youtube.com/watch?v=lpD38NxTOnk) 
@@ -113,9 +115,11 @@ As proposed in the first paper cited above, determining optimal geometry might b
   This method will produce an optimal design through a mathematical process of evolution. This involves 'breeding' and testing large numbers of configuations of the defined variables (link lengths, in this case), requiring a large amount of computing power, but a tiny fraction of what would be require to attempt to test *all* possible confgurations ('brute force'). Machine learning has been demonstrated to be extremely effective in solving this type of complex problem involving multiple variables.
   
     
-  The most promising candidate for a machine learning environment identified so far appears to be Tensorflow 2.0
+  The most promising candidate for a machine learning environment identified so far appears to be Tensorflow. 
   
   [TensorFlow in 5 Min](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
+  
+  TensorFlow can be used with Python or JavaScript
   
   Tensors are higher order numbers, having more than one dimension. The relationships between link lengths in a 5 point double toggle clamping mechanism can potentially be represented as tensors.
   
