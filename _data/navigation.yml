@@ -28,6 +28,14 @@ main:
     url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
+  - title: "Resources"
+    url: /resources/
+
+resources:
+  - title: Resources
+    children:
+      - title: "Extruder"
+        url: /resources/ex
 
 # documentation links
 docs:
@@ -37,10 +45,6 @@ docs:
         url: /docs/quick-start-guide/
       - title: "Plastic Hub Catalonia"
         url: /docs/structure/
-      - title: "Community"
-        children:
-        - title: "Precious Plastic"
-          url: /docs/quick-start-guide/
       - title: "Upgrading"
         url: /docs/upgrading/
   - title: How-to
