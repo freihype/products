@@ -56,7 +56,7 @@ The paper outlines the flow of a machine learning algorithm which can achieve th
   
   [Video- Genetic Algorithms (full lecture)](https://www.youtube.com/watch?v=lpD38NxTOnk) 
   
-  This method will produce an optimal design through a mathematical process of evolution. This involves 'breeding' and testing large numbers of configuations of the defined variables (link lengths, in this case), requiring a large amount of computing power, but a tiny fraction of what would be require to attempt to test *all* possible confgurations. Machine learning has been demonstrated to be extremely effective in solving this type of complex problem involving multiple variables.
+  This method will produce an optimal design through a mathematical process of evolution. This involves 'breeding' and testing large numbers of configuations of the defined variables (link lengths, in this case), requiring a large amount of computing power, but a tiny fraction of what would be require to attempt to test *all* possible confgurations ('brute force'). Machine learning has been demonstrated to be extremely effective in solving this type of complex problem involving multiple variables.
   
     
   The most promising candidate for a machine learning environment identified so far appears to be Tensorflow 2.0
