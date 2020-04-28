@@ -31,7 +31,7 @@ github_username:  jekyll
 
 # Build settings
 # theme: minima
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -43,7 +43,6 @@ include:
   - .htaccess
   - _pages
   - _howto
-  - products
 
 exclude:
   - "*.sublime-project"
@@ -68,7 +67,12 @@ exclude:
   - package.json
   - Rakefile
   - README
+  - cad
   - tmp
+  - "*.SLDDRW"
+  - "*.sldprt"
+  - "*.step"
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
@@ -144,7 +148,7 @@ collections:
     permalink: /:collection/:path/
   howto:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path
 
 # Defaults
 defaults:

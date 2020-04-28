@@ -2,13 +2,16 @@
 title: Howtos
 layout: default
 permalink: /howtos/
+toc: true
+sidebar:
+  nav: "docs"
 ---
 
 <div class="container-fluid">
 
 <h1>General</h1>
 
-<h1>Extrusion</h1>
+<h3>Extrusion</h3>
 
 <div class="ty-vendor-plans">
 {% for doc in site.howto %}
