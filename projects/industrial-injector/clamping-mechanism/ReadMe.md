@@ -122,6 +122,8 @@ As proposed in the first paper cited above, determining optimal geometry might b
   There is potential for existing Tensorflow machine learning tools to be copy/pasted and adapted for this application, as youtube hero [Suraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) has done here to [build an automated trading bot](https://www.youtube.com/watch?v=HhqhFbwiaig)
   
   
+  In [this video](https://www.youtube.com/watch?v=rGWBo0JGf50) he even mentions how machine learning can by used for optimization and in CAD. ( 11:00)
+  
   The flow of the optimisation algorithm is described in the above paper is summarised as follows:
   
 Step 1. Input the machine specifications and constraints 
