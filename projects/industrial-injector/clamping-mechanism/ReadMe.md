@@ -39,6 +39,8 @@ The paper outlines the flow of a machine learning algorithm which can achieve th
 
 The algebraic relationship is very clearly laid out in the [Kinematic calculation analysis of micro injection molding machine with double-toggle clamping mechanism based on MATLAB (2012)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.876.19&rep=rep1&type=pdf) 
 
+![Clamping mechanism](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/double-toggle-clamping-mechanism.png)
+
 
 ![Geometric diagram](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/geometrical-drawing-main.png)
 
@@ -46,6 +48,24 @@ The algebraic relationship is very clearly laid out in the [Kinematic calculatio
 The geometric model of double-toggle clamping mechanism
 
 L1----length of back toggle 
+
+
+
+L2----length of frontal rod
+
+L3----length of larger connecting toggle
+
+L4----length of nether connecting rod
+
+L5----length of middle connecting rod
+
+L6----length of crosshead connecting rod
+
+α ----toggle angle
+
+φ----coping angle
+
+β----angle between L2 and horizontal line
 
 H----height of crosshead center
 
@@ -65,26 +85,10 @@ Sb----stroke of moving platen
 
 λ2----ratio of L3 and L4
 
-L2----length of frontal rod
-
-L3----length of larger connecting toggle
-
-L4----length of nether connecting rod
-
-L5----length of middle connecting rod
-
-L6----length of crosshead connecting rod
-
-α ----toggle angle
-
-φ----coping angle
-
-β----angle between L2 and horizontal line
-
 
 #Key Formulas:
 
-##Stroke Ratio
+## Stroke Ratio
 
 ![Stroke ratio calcs](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/stroke-ratio-calcs.png)
 
@@ -102,7 +106,7 @@ L6----length of crosshead connecting rod
   
   # Machine Learning algorithms
   
-Determining optimal geometry might be achieved using a [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) 
+As proposed in the first paper cited above, determining optimal geometry might be achieved using a [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) 
   
   [Video- Genetic Algorithms (full lecture)](https://www.youtube.com/watch?v=lpD38NxTOnk) 
   
