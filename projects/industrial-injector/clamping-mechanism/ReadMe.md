@@ -33,19 +33,17 @@ In order to calculate optimum link lengths between the 5 points, the algebraic r
 
 The paper outlines the flow of a machine learning algorithm which can achieve this objective. Injection machine manufacturers appear to develop their own applications of this approach and their optimization algorithms are not in the public domain.
 
-## ToDo
+The algebraic relationship is very clearly laid out in the [Kinematic calculation analysis of micro injection molding machine with double-toggle clamping mechanism based on MATLAB (2012)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.876.19&rep=rep1&type=pdf) 
 
-1. The algebraic relationships described in the papers need to be confirmed and represented graphically here in a way that is easy to understand; Create spreadsheet representation
 
-2. Investigation into methods to determine the geometry for a 250 ton machine with a 450mm stroke:
-  - Finding examples to copy directly
-  - Custom built machine learning algorithm 
-  
-  
+
+## Design approaches
   
   # Copy-cat design
   
-  To be added
+It may be possible to find an existing desgin and copy the geometry directly.
+
+  To be added  
   
   
   # Machine Learning algorithms
