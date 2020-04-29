@@ -13,6 +13,9 @@ Language: Python
 
 Development environment: [Jupyter notebooks](https://jupyter.org/)
 
+Presentation: Standalone web-based app via Jupiter notebooks Viola
+
+
 Stack candidates:
 
 [numpy](https://github.com/numpy/numpy) - allows arrays
@@ -21,11 +24,13 @@ Stack candidates:
 
 [sympy](https://github.com/sympy/sympy)- library of symbolic algebra 
 
-[MatplotLib](https://github.com/matplotlib/matplotlib) - visualization - plotter
+[MatplotLib](https://github.com/matplotlib/matplotlib) - visualization - plotter, animation (matplotlib.animation)
 
 [Cheat sheet for matplotlib](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
 
+[PyPlot] - shell-like interface to Matplotlib, to make it easier to use for people who are used to MATLAB
 
+[pyQt] - GUI for user input window
 
 [PyDy](https://github.com/pydy/pydy) - Dynamics library
 
