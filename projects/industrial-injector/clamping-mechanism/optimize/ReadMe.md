@@ -13,17 +13,27 @@ Language: Python
 
 Development environment: [Jupyter notebooks](https://jupyter.org/)
 
-Stack contenders:
+Stack candidates:
 
 [numpy](https://github.com/numpy/numpy) - allows arrays
+
 [scipy](https://github.com/scipy/scipy) - works with arrays
+
 [sympy](https://github.com/sympy/sympy)- library of symbolic algebra 
+
 [MatplotLib](https://github.com/matplotlib/matplotlib) - visualization - plotter
 
 [Cheat sheet for matplotlib](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
 
+
+
 [PyDy](https://github.com/pydy/pydy) - Dynamics library
 
-[Tensorflow](https://github.com/tensorflow/tensorflow)
+[Pyslvs](https://github.com/KmolYuan/Pyslvs-UI) - planar linkage mechanism simulation and mechanical synthesis system
+
+[Mechplot](https://github.com/jlblancoc/mechplot) - plotter for mechanisms
+
+
+[Tensorflow](https://github.com/tensorflow/tensorflow) - machine learning
 
 
