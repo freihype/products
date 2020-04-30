@@ -28,7 +28,7 @@ classical machine learning algorithms and scientific Python packages: (numpy, sc
 
 - [sympy](https://github.com/sympy/sympy) -library for symbolic mathematics- algebra system (CAS). Includes LaTeX for algebraic expressions in symbolic form, [PyDy](https://github.com/pydy/pydy) multibody dynamics library; and Cadabra - Tensor algebra. Depends on mpmath.
 
-- [matplotLib](https://github.com/matplotlib/matplotlib) - visualization - plotter, animation (matplotlib.animation)
+- [matplotLib](https://github.com/matplotlib/matplotlib) - visualization - plotter (matplotlib.pyplot), animation (matplotlib.animation)
 
 
 [Cheat sheet for matplotlib](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
@@ -70,20 +70,15 @@ Download and install Anaconda (includes Python)
 Open Anaconda, create a new environment, then in the Home tab open Jupyter Notebooks. Finally open a new notebook which opens in your web browser.
 Note- I had to [download SQLite](https://www.sqlite.org/download.html) and place it in the DLLLs folder to get Notebooks to run
 
-# Flow
+## Flow
 
 
-
-## Intialize environment and display
-
-GUI display and input for variables
-
-Plot standard 5 point double toggle mechanism
+Intialize environment and display -GUI display and input for variables; Plot standard 5 point double toggle mechanism
 
   
-- Step 1. Input the machine specifications and constraints (desired input/output ratio, force, stroke length etc)
+- Step 1. Input the machine specifications and constraints (desired input/output ratio, force, stroke length, fitness value etc)
 
-- Step 2. Generate an initial population (.csv file) and evaluate the goal function('fitness value'). A binary population is generated randomly. It must be
+- Step 2. Generate an initial population and evaluate the goal function('fitness value'). A binary population is generated randomly. It must be
 transferred into real numbers before the goal function is calculated. 
 
 
