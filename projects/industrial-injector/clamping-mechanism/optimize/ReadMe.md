@@ -19,14 +19,16 @@ Presentation: Standalone web-based app via Jupiter notebooks Viola
 ## Dependent modules:
 
 ### sklearn 
-- classical machine learning algorithms and scientific Python packages: (numpy, scipy, matplotlib).
+- classical machine learning algorithms and scientific Python packages: (numpy, scipy, sympy, matplotlib).
     
 - [numpy](https://github.com/numpy/numpy) - allows arrays
 
 - [scipy](https://github.com/scipy/scipy) - works with arrays
 
-### [matplotLib](https://github.com/matplotlib/matplotlib) 
-- visualization - plotter, animation (matplotlib.animation)
+- [sympy](https://github.com/sympy/sympy) -library for symbolic mathematics- algebra system (CAS). Depends on mpmath
+
+- [matplotLib](https://github.com/matplotlib/matplotlib) - visualization - plotter, animation (matplotlib.animation)
+
 
 [Cheat sheet for matplotlib](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
 
