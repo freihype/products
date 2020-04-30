@@ -56,4 +56,11 @@ Stack candidates:
 
 [Optimisation approach for synthesis of 5 point double toggle mechanism- (Academic Paper- paywall)
 
+Creat development environment:
+
+Download and install Anaconda (includes Python)
+
+Open Anaconda, create a new environment, then in the Home tab open Jupyter Notebooks. Finally open a new notebook which opens in your web browser.
+Note- I had to [download SQLite](https://www.sqlite.org/download.html) and place it in the DLLLs folder to get Notebooks to run
+
 
