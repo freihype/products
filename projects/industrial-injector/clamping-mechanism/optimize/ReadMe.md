@@ -16,21 +16,25 @@ Development environment: [Jupyter notebooks](https://jupyter.org/)
 Presentation: Standalone web-based app via Jupiter notebooks Viola
 
 
-Stack candidates:
+## Dependent modules:
 
-[numpy](https://github.com/numpy/numpy) - allows arrays
+### sklearn 
+- classical machine learning algorithms and scientific Python packages: (numpy, scipy, matplotlib).
+    
+- [numpy](https://github.com/numpy/numpy) - allows arrays
 
-[scipy](https://github.com/scipy/scipy) - works with arrays
+- [scipy](https://github.com/scipy/scipy) - works with arrays
 
-[sympy](https://github.com/sympy/sympy)- library of symbolic algebra 
-
-[MatplotLib](https://github.com/matplotlib/matplotlib) - visualization - plotter, animation (matplotlib.animation)
+### [matplotLib](https://github.com/matplotlib/matplotlib) 
+- visualization - plotter, animation (matplotlib.animation)
 
 [Cheat sheet for matplotlib](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
 
-[PyPlot] - shell-like interface to Matplotlib, to make it easier to use for people who are used to MATLAB
 
-[pyQt] - GUI for user input window
+## Candidate modules
+
+
+[PyPlot] - shell-like interface to Matplotlib, to make it easier to use for people who are used to MATLAB
 
 [PyDy](https://github.com/pydy/pydy) - Dynamics library
 
