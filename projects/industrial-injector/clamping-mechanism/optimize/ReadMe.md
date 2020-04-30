@@ -9,7 +9,7 @@ Objective: To dynamicaly model and visualize a 5 point double toggle mechanism b
 
 
 
-Language: Python
+Language: Python - Anaconda distribution (which includes lots of modules and jupyter notebooks)
 
 Development environment: [Jupyter notebooks](https://jupyter.org/)
 
