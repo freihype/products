@@ -48,6 +48,8 @@ classical machine learning algorithms and scientific Python packages: (numpy, sc
 
 ## Research/Reference
 
+[Example of Four Bar Mechanism with PyDy](https://github.com/pydy/pydy/blob/master/examples/four_bar_linkage/four_bar_linkage_with_motion_constrained_link.ipynb)
+
 [Evolutionary Algorithm for the Theo Jansen Walking Mechanism](https://stackoverflow.com/questions/6573415/evolutionary-algorithm-for-the-theo-jansen-walking-mechanism)
 
 [Setting up for mechanical engineering in Python](https://andypi.co.uk/2018/08/14/python-for-mechanical-engineers-rail-brake-distance-calculations/)
