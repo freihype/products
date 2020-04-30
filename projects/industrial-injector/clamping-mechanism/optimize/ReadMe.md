@@ -18,8 +18,9 @@ Presentation: Standalone web-based app via Jupiter notebooks Viola
 
 ## Dependent modules:
 
-### sklearn 
-- classical machine learning algorithms and scientific Python packages: (numpy, scipy, sympy, matplotlib).
+### sklearn
+
+classical machine learning algorithms and scientific Python packages: (numpy, scipy, sympy, matplotlib).
     
 - [numpy](https://github.com/numpy/numpy) - allows arrays
 
