@@ -54,6 +54,8 @@ classical machine learning algorithms and scientific Python packages: (numpy, sc
 
 [Example of Four Bar Mechanism with PyDy](https://github.com/pydy/pydy/blob/master/examples/four_bar_linkage/four_bar_linkage_with_motion_constrained_link.ipynb)
 
+[Mechanism as an object](http://firsttimeprogrammer.blogspot.com/2015/02/crankshaft-connecting-rod-and-piston.html)
+
 [Machine learning in Python step by step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 
 [Evolutionary Algorithm for the Theo Jansen Walking Mechanism](https://stackoverflow.com/questions/6573415/evolutionary-algorithm-for-the-theo-jansen-walking-mechanism)
@@ -64,11 +66,13 @@ Another [Simple 4 bar toggle linkage with matplotlib](https://github.com/Rod-Per
 
 [Rigid Body Dynamics with SymPy (Full Lecture)](https://www.youtube.com/watch?v=r4piIKV4sDw)
 
+
+
 ## Reference
 
 [Key Design Parameters and Optimisation approach (Academic paper, free pdf download)](https://link.springer.com/article/10.1007/s12008-014-0245-0?shared-article-renderer)
 
-[Optimisation approach for synthesis of 5 point double toggle mechanism- (Academic Paper- paywall)
+[Optimisation approach for synthesis of 5 point double toggle mechanism- (Academic Paper- paywall)(https://link.springer.com/article/10.1007/s12008-014-0245-0?shared-article-renderer)
 
 
 ### Create development environment:
