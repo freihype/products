@@ -114,44 +114,9 @@ As proposed in the first paper cited above, determining optimal geometry might b
   
   This method will produce an optimal design through a mathematical process of evolution. This involves 'breeding' and testing large numbers of configuations of the defined variables (link lengths, in this case), requiring a large amount of computing power, but a tiny fraction of what would be require to attempt to test *all* possible confgurations ('brute force'). Machine learning has been demonstrated to be extremely effective in solving this type of complex problem involving multiple variables.
   
-    
-  The most promising candidate for a machine learning environment identified so far appears to be Tensorflow. 
-  
-  [TensorFlow in 5 Min](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
-  
-  TensorFlow can be used with Python or JavaScript
-  
-  Tensors are higher order numbers, having more than one dimension. The relationships between link lengths in a 5 point double toggle clamping mechanism can potentially be represented as tensors.
-  
-  There is potential for existing Tensorflow machine learning tools to be copy/pasted and adapted for this application, as youtube hero [Suraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) has done here to [build an automated trading bot](https://www.youtube.com/watch?v=HhqhFbwiaig)
+  [Proposal for a visualization and optimization tool in Python](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/optimize/ReadMe.md)
   
   
-  In [this video](https://www.youtube.com/watch?v=rGWBo0JGf50) he even mentions how machine learning can by used for optimization and in CAD. ( 11:00)
-  
-  The flow of the optimisation algorithm is described in the above paper is summarised as follows:
-  
-Step 1. Input the machine specifications and constraints 
-
-Step 2. Generate an initial population (.csv file) and evaluate the goal function('fitness value'). A binary population is generated randomly. It must be
-transferred into real numbers before the goal function is calculated. 
-
-
-Step 3. Perform coding and decoding. (Binary)
-
-
-Step 4. Perform reproduction.  The chromosome is reproduced in the next generation based on the value of its goal function. A greater value of the goal function corresponds to a larger area of the roulette wheel associated with the chromosome, and a greater probability of reproduction of the chromosome.
-
-
-Step 5. Perform crossover. These two chromosomes, which are randomly selected from the reproduced chromosomes,
-exchange their genes with each other. 
-
-
-Step 6. Perform mutation. Mutation is a process by which a binary population is randomly, and the characteristic, which is
-the selected binary population, is randomly changed from 0 to 1, or from 1 to 0. 
-
-Step 7. Define the stopping rule. Since the GA follows the uninterrupted competition and propagation unless a stopping
-rule is activated, a stopping rule terminates the calculation when the goal function meets a set level. If the stopping rule
-is not satisfied, repeat Step 3.
 
   
   
