@@ -72,4 +72,39 @@ Download and install Anaconda (includes Python)
 Open Anaconda, create a new environment, then in the Home tab open Jupyter Notebooks. Finally open a new notebook which opens in your web browser.
 Note- I had to [download SQLite](https://www.sqlite.org/download.html) and place it in the DLLLs folder to get Notebooks to run
 
+# Flow
 
+
+
+## Intialize environment and display
+
+GUI display and input for variables
+
+Plot standard 5 point double toggle mechanism
+
+  
+- Step 1. Input the machine specifications and constraints (desired input/output ratio, force, stroke length etc)
+
+- Step 2. Generate an initial population (.csv file) and evaluate the goal function('fitness value'). A binary population is generated randomly. It must be
+transferred into real numbers before the goal function is calculated. 
+
+
+- Step 3. Perform coding and decoding. (Binary)
+
+
+- Step 4. Perform reproduction.  The chromosome is reproduced in the next generation based on the value of its goal function. A greater value of the goal function corresponds to a larger area of the roulette wheel associated with the chromosome, and a greater probability of reproduction of the chromosome.
+
+
+- Step 5. Perform crossover. These two chromosomes, which are randomly selected from the reproduced chromosomes,
+exchange their genes with each other. 
+
+
+- Step 6. Perform mutation. Mutation is a process by which a binary population is randomly, and the characteristic, which is
+the selected binary population, is randomly changed from 0 to 1, or from 1 to 0. 
+
+- Step 7. Define the stopping rule. Since the GA follows the uninterrupted competition and propagation unless a stopping
+rule is activated, a stopping rule terminates the calculation when the goal function meets a set level. If the stopping rule
+is not satisfied, repeat Step 3.
+
+
+Some of these functions can be handled by sklearn, but others could be done with Tensorflow??
