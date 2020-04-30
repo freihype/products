@@ -42,9 +42,7 @@ Presentation: Standalone web-based app via Jupiter notebooks Viola
 
 [Pyslvs](https://github.com/KmolYuan/Pyslvs-UI) - planar linkage mechanism simulation and mechanical synthesis system
 
-[Mechplot](https://github.com/jlblancoc/mechplot) - plotter for mechanisms
-
-[sklearn](https://scikit-learn.org/stable/) - machine learning included in anaconda
+[Mechplot](https://github.com/jlblancoc/mechplot) - MATLAB plotter for mechanisms - adapt?
 
 [SciPy Differential evolution](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.differential_evolution.html)
 
@@ -65,7 +63,8 @@ Presentation: Standalone web-based app via Jupiter notebooks Viola
 
 [Optimisation approach for synthesis of 5 point double toggle mechanism- (Academic Paper- paywall)
 
-Creat development environment:
+
+### Create development environment:
 
 Download and install Anaconda (includes Python)
 
