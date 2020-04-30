@@ -48,17 +48,21 @@ classical machine learning algorithms and scientific Python packages: (numpy, sc
 [Tensorflow](https://github.com/tensorflow/tensorflow) - machine learning
 
 
-## Research/Reference
+## Research
 
 [Example of Four Bar Mechanism with PyDy](https://github.com/pydy/pydy/blob/master/examples/four_bar_linkage/four_bar_linkage_with_motion_constrained_link.ipynb)
+
+[Machine learning in Python step by step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 
 [Evolutionary Algorithm for the Theo Jansen Walking Mechanism](https://stackoverflow.com/questions/6573415/evolutionary-algorithm-for-the-theo-jansen-walking-mechanism)
 
 [Setting up for mechanical engineering in Python](https://andypi.co.uk/2018/08/14/python-for-mechanical-engineers-rail-brake-distance-calculations/)
 
-[Simple 4 bar toggle linkage with matplotlib](https://github.com/Rod-Persky/Simple-Four-Bar)
+Another [Simple 4 bar toggle linkage with matplotlib](https://github.com/Rod-Persky/Simple-Four-Bar)
 
 [Rigid Body Dynamics with SymPy (Full Lecture)](https://www.youtube.com/watch?v=r4piIKV4sDw)
+
+## Reference
 
 [Key Design Parameters and Optimisation approach (Academic paper, free pdf download)](https://link.springer.com/article/10.1007/s12008-014-0245-0?shared-article-renderer)
 
