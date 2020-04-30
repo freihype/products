@@ -42,3 +42,18 @@ Stack candidates:
 [Tensorflow](https://github.com/tensorflow/tensorflow) - machine learning
 
 
+## Research/Reference
+
+[Evolutionary Algorithm for the Theo Jansen Walking Mechanism](https://stackoverflow.com/questions/6573415/evolutionary-algorithm-for-the-theo-jansen-walking-mechanism)
+
+[Setting up for mechanical engineering in Python](https://andypi.co.uk/2018/08/14/python-for-mechanical-engineers-rail-brake-distance-calculations/)
+
+[Simple 4 bar toggle linkage with matplotlib](https://github.com/Rod-Persky/Simple-Four-Bar)
+
+[Rigid Body Dynamics with SymPy (Full Lecture)](https://www.youtube.com/watch?v=r4piIKV4sDw)
+
+[Key Design Parameters and Optimisation approach (Academic paper, free pdf download)
+
+[Optimisation approach for synthesis of 5 point double toggle mechanism- (Academic Paper- paywall)
+
+
