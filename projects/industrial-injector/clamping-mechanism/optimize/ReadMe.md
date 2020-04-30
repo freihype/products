@@ -60,7 +60,7 @@ classical machine learning algorithms and scientific Python packages: (numpy, sc
 
 [Rigid Body Dynamics with SymPy (Full Lecture)](https://www.youtube.com/watch?v=r4piIKV4sDw)
 
-[Key Design Parameters and Optimisation approach (Academic paper, free pdf download)
+[Key Design Parameters and Optimisation approach (Academic paper, free pdf download)](https://link.springer.com/article/10.1007/s12008-014-0245-0?shared-article-renderer)
 
 [Optimisation approach for synthesis of 5 point double toggle mechanism- (Academic Paper- paywall)
 
