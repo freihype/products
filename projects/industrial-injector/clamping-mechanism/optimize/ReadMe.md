@@ -26,7 +26,7 @@ classical machine learning algorithms and scientific Python packages: (numpy, sc
 
 - [scipy](https://github.com/scipy/scipy) - works with arrays
 
-- [sympy](https://github.com/sympy/sympy) -library for symbolic mathematics- algebra system (CAS). Depends on mpmath
+- [sympy](https://github.com/sympy/sympy) -library for symbolic mathematics- algebra system (CAS). Includes LaTeX for algebraic expressions in symbolic form, [PyDy](https://github.com/pydy/pydy) multibody dynamics library; and Cadabra - Tensor algebra. Depends on mpmath.
 
 - [matplotLib](https://github.com/matplotlib/matplotlib) - visualization - plotter, animation (matplotlib.animation)
 
@@ -36,10 +36,6 @@ classical machine learning algorithms and scientific Python packages: (numpy, sc
 
 ## Candidate modules
 
-
-[PyPlot] - shell-like interface to Matplotlib, to make it easier to use for people who are used to MATLAB
-
-[PyDy](https://github.com/pydy/pydy) - Dynamics library
 
 [Pyslvs](https://github.com/KmolYuan/Pyslvs-UI) - planar linkage mechanism simulation and mechanical synthesis system
 
