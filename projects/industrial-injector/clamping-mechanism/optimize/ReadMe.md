@@ -47,6 +47,8 @@ classical machine learning algorithms and scientific Python packages: (numpy, sc
 
 [Tensorflow](https://github.com/tensorflow/tensorflow) - machine learning
 
+[SolveSpace](http://solvespace.com/index.pl) -Parametric 2D and 3D modelling for CAD
+
 
 ## Research
 
