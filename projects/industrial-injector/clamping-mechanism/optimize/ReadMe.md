@@ -38,6 +38,9 @@ Stack candidates:
 
 [Mechplot](https://github.com/jlblancoc/mechplot) - plotter for mechanisms
 
+[sklearn](https://scikit-learn.org/stable/) - machine learning included in anaconda
+
+[SciPy Differential evolution](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.differential_evolution.html)
 
 [Tensorflow](https://github.com/tensorflow/tensorflow) - machine learning
 
