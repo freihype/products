@@ -1,0 +1,9 @@
+{
+  "weight":{
+    "base": 40,
+    "hopper":2,
+    "screw" :4,
+    "barrel": 5,
+    "motor" : 40
+  }
+}
