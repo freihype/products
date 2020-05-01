@@ -24,9 +24,9 @@ Presentation: Standalone web-based app via Jupiter notebooks Viola
 
 classical machine learning algorithms and scientific Python packages: (numpy, scipy, sympy, matplotlib).
     
-- [numpy](https://github.com/numpy/numpy) - allows arrays
+- [numpy](https://github.com/numpy/numpy) -  library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays
 
-- [scipy](https://github.com/scipy/scipy) - works with arrays
+- [scipy](https://github.com/scipy/scipy) -  contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers and other tasks
 
 - [sympy](https://github.com/sympy/sympy) -library for symbolic mathematics- algebra system (CAS). Includes galgebra and LaTeX for algebraic expressions in symbolic form, [PyDy](https://github.com/pydy/pydy) multibody dynamics library; and Cadabra - Tensor algebra. Depends on mpmath.
 
