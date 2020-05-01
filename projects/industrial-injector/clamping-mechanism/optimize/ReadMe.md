@@ -72,7 +72,7 @@ Another [Simple 4 bar toggle linkage with matplotlib](https://github.com/Rod-Per
 
 [Key Design Parameters and Optimisation approach (Academic paper, free pdf download)](https://link.springer.com/article/10.1007/s12008-014-0245-0?shared-article-renderer)
 
-[Optimisation approach for synthesis of 5 point double toggle mechanism- (Academic Paper- paywall)(https://link.springer.com/article/10.1007/s12008-014-0245-0?shared-article-renderer)
+[Optimisation approach for synthesis of 5 point double toggle mechanism- (Academic Paper- paywall)](https://link.springer.com/article/10.1007/s12008-014-0245-0?shared-article-renderer)
 
 [Linkages in Python- study](https://x.st/linkages/)
 
@@ -85,7 +85,7 @@ Another [Simple 4 bar toggle linkage with matplotlib](https://github.com/Rod-Per
 Download and install Anaconda (includes Python)
 
 Open Anaconda, create a new environment, then in the Home tab open Jupyter Notebooks. Finally open a new notebook which opens in your web browser.
-Note- I had to [download SQLite](https://www.sqlite.org/download.html) and place it in the DLLLs folder to get Notebooks to run
+Note- I had to [download SQLite](https://www.sqlite.org/download.html) and place it in the DLLs folder to get Notebooks to run
 
 ## Flow
 
