@@ -6,6 +6,7 @@
 - [Wiki](${product_wiki})
 - [Source files](${product_github})
 - [Discord Chat](${product_chat})
+- [Wiring](${product_wiring})
 
 **Social resources and references of our v3 extruder**
 
