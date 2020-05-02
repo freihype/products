@@ -10,7 +10,7 @@ A machine learning tool to visualise and execute this process is proposed herein
 
 ## Project goal
 
-- To produce optimsed dimensions for a 5 point double toggle clamping mechanism
+- To produce optimized dimensions for a 5 point double toggle clamping mechanism
 
 ## Purpose of software
 
