@@ -26,11 +26,12 @@ Input:
 - Desired clamping force F.cl
 - Maximum input Force F0
 - Desired minimum mould opening stroke Δx (A)
-- Desired spacing of stationary pivot points C from centreline
 
 Optmized Output:
 
-- Dimensions AB, BC, DE, BD, CD, E to centerline
+- y values for C, E and A (fixed pivot spacings about centreline)
+
+- Dimensions AB, BC, DE, BD, CD (link lengths)
 
 - Cylinder stroke Δx (E)
 
