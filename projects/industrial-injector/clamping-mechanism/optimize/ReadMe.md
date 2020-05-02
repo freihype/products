@@ -7,8 +7,22 @@ To analyse and optimize the link lengths of a 5 point double toggle clamping mec
 
 A machine learning tool to visualise and execute this process is proposed herein
 
-Objective: To dynamicaly model and visualize a 5 point double toggle mechanism based on user input dimensions and to calculate optimum link lengths for given combinations of parameters
 
+### Project goal
+
+- To produce optimsed dimensions for a 5 point double toggle clamping mechanism
+
+## Purpose of software
+
+- To dynamicaly model and graphically visualize a 5 point double toggle mechanism based on user input dimensions 
+- To calculate and display optimum link lengths for given combinations of user input parameters
+
+## Functionality
+
+- Input - User defined values for set variable including Mechanical Advantage (Ratio) and Stroke Length
+- Model and display animated representation (plot)
+- Apply genetic algorithm to find opimized geometry
+- Output: Display optimized dimensions
 
 
 Language: Python - Anaconda distribution (which includes lots of modules and jupyter notebooks)
@@ -20,9 +34,7 @@ Presentation: Standalone web-based app via Jupiter notebooks Viola
 
 ## Dependent modules:
 
-### sklearn
-
-classical machine learning algorithms and scientific Python packages: (numpy, scipy, sympy, matplotlib).
+### sklearn -classical machine learning algorithms and scientific Python packages: (numpy, scipy, sympy, matplotlib):
     
 - [numpy](https://github.com/numpy/numpy) -  library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays
 
