@@ -74,7 +74,7 @@ Another [Simple 4 bar toggle linkage with matplotlib](https://github.com/Rod-Per
 
 [Optimisation approach for synthesis of 5 point double toggle mechanism- (Academic Paper- paywall)](https://link.springer.com/article/10.1007/s12008-014-0245-0?shared-article-renderer)
 
-[Study on improvements of the five-point double-toggle mould clamping mechanism (Academic paper- free pdf download)](Study on improvements of the five-point double-toggle mould clamping mechanism)
+[Study on improvements of the five-point double-toggle mould clamping mechanism (https://www.researchgate.net/publication/245387542_Study_on_improvements_of_the_five-point_double-toggle_mould_clamping_mechanism)
 
 [Linkages in Python- study](https://x.st/linkages/)
 
