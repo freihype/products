@@ -24,15 +24,25 @@ A machine learning tool to visualise and execute this process is proposed herein
 A four bar linkage made up of points A, B, C, D and E such that:
 
 A, B, C, D and E are mirrored in the y axis (negative y values plotted simultaneously such that y=0 represents the centreline
+
 A has a y value to be optimized or determined by user input and a moving x value
+
 A is connected to B by straight line B by line L1
+
 C has a fixed y value determined by user input and a fixed x value such as 0
+
 B is connected to C by line L2
+
 D is connected to B by line T1 and to C by line T2
+
 D is connected to E by line L3
+
 E is connected to -E by line L4 (crosshead)
+
 Vertical line L5 (tailstock platen) is fixed at a set dimension from 0
+
 Vertical line L6 (moving platen) moves in x and maintains a set dimension from A
+
 Vertical line L8 (stationary platen) is positioned in the x axis by user input in relation to Axmax to give the desired mould opening stroke represented by line L7
 
 
