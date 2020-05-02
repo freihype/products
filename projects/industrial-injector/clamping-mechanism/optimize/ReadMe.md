@@ -8,7 +8,7 @@ To analyse and optimize the link lengths of a 5 point double toggle clamping mec
 A machine learning tool to visualise and execute this process is proposed herein
 
 
-### Project goal
+## Project goal
 
 - To produce optimsed dimensions for a 5 point double toggle clamping mechanism
 
@@ -17,13 +17,34 @@ A machine learning tool to visualise and execute this process is proposed herein
 - To dynamicaly model and graphically visualize a 5 point double toggle mechanism based on user input dimensions 
 - To calculate and display optimum link lengths for given combinations of user input parameters
 
+## Input parameters
+
+![Diagram](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/optimize/Five-point-double-toggle-clamping-mechanism-of-the-injection-molding-machine.png)
+
+Input: 
+
+- Desired clamping force F.cl
+- Maximum input Force F0
+- Desired minimum mould opening stroke \( \delta \ \Delta \)xA
+- Desired spacing of stationary pivot points C from centreline
+
+Optmized Output:
+
+- Dimensions AB, BC, DE, BD, CD, E to centerline
+
+- Cylinder stroke  	\( \delta \ \Delta \)x E
+
+- Mechanical Advantage (F0:F.cl)
+
 ## Functionality
 
-- Input - User defined values for set variable including Mechanical Advantage (Ratio) and Stroke Length
+- Input - User defined values for set variables including Mechanical Advantage (Ratio) and Stroke Length
 - Model and display animated representation (plot)
 - Apply genetic algorithm to find opimized geometry
 - Output: Display optimized dimensions
 
+
+## Development
 
 Language: Python - Anaconda distribution (which includes lots of modules and jupyter notebooks)
 
@@ -59,7 +80,7 @@ Presentation: Standalone web-based app via Jupiter notebooks Viola
 
 [Tensorflow](https://github.com/tensorflow/tensorflow) - machine learning
 
-[SolveSpace](http://solvespace.com/index.pl) -Parametric 2D and 3D modelling for CAD
+[FreeCAD](https://www.freecadweb.org/) - CAD environment with Python compatability
 
 
 ## Research
@@ -77,7 +98,6 @@ Presentation: Standalone web-based app via Jupiter notebooks Viola
 Another [Simple 4 bar toggle linkage with matplotlib](https://github.com/Rod-Persky/Simple-Four-Bar)
 
 [Rigid Body Dynamics with SymPy (Full Lecture)](https://www.youtube.com/watch?v=r4piIKV4sDw)
-
 
 
 ## Reference
