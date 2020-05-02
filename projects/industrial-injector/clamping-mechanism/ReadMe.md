@@ -5,7 +5,7 @@ High tonnage machines, such as is proposed, cannot operate with a simple in-line
 The most efficient and reliable is the 5 point double toggle.
 
 
-![Photo](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/unname-twin-toggle-clamp.gif)
+![Photo](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/clamping-mech-photo.jpg)
 
 
 
