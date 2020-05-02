@@ -1,6 +1,5 @@
 # Clamping mechanism optimization
 
-
 ![5 point double toggle clamping mechanism](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/optimize/double-toggle-clamping-mechanism.png)
 
 To analyse and optimize the link lengths of a 5 point double toggle clamping mechanism, a genetic algorithm can be used.
@@ -15,19 +14,36 @@ A machine learning tool to visualise and execute this process is proposed herein
 ## Purpose of software
 
 - To dynamicaly model and graphically visualize a 5 point double toggle mechanism based on user input dimensions 
-- To calculate and display optimum link lengths for given combinations of user input parameters
+- To calculate and display optimum link lengths derved from given combinations of user input parameters
 
-## Input parameters
+
+## Linkange Plotting Configuration and Motion Contraints
 
 ![Diagram](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/optimize/Five-point-double-toggle-clamping-mechanism-of-the-injection-molding-machine.png)
 
-Input: 
+A four bar linkage made up of points A, B, C, D and E such that:
+
+A, B, C, D and E are mirrored in the y axis (negative y values plotted simultaneously such that y=0 represents the centreline
+A has a y value to be optimized or determined by user input and a moving x value
+A is connected to B by straight line B by line L1
+C has a fixed y value determined by user input and a fixed x value such as 0
+B is connected to C by line L2
+D is connected to B by line T1 and to C by line T2
+D is connected to E by line L3
+E is connected to -E by line L4 (crosshead)
+Vertical line L5 (tailstock platen) is fixed at a set dimension from 0
+Vertical line L6 (moving platen) moves in x and maintains a set dimension from A
+Vertical line L8 (stationary platen) is positioned in the x axis by user input in relation to Axmax to give the desired mould opening stroke represented by line L7
+
+
+## Input 
 
 - Desired clamping force F.cl
 - Maximum input Force F0
 - Desired minimum mould opening stroke Δx (A)
 
-Optmized Output:
+
+## Optmized Output:
 
 - y values for C, E and A (fixed pivot spacings about centreline)
 
@@ -36,6 +52,7 @@ Optmized Output:
 - Cylinder stroke Δx (E)
 
 - Mechanical Advantage (F0:F.cl)
+
 
 ## Functionality
 
@@ -122,8 +139,8 @@ Download and install Anaconda (includes Python)
 Open Anaconda, create a new environment, then in the Home tab open Jupyter Notebooks. Finally open a new notebook which opens in your web browser.
 Note- I had to [download SQLite](https://www.sqlite.org/download.html) and place it in the DLLs folder to get Notebooks to run
 
-## Flow
 
+## Flow
 
 Intialize environment and display -GUI display and input for variables; Plot standard 5 point double toggle mechanism; set governing equations
 
