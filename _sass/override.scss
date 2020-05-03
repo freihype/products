@@ -144,7 +144,8 @@ h6 {
     overflow: hidden;
     border: 1px solid #edf2f5;
     border-radius: 5px;
-    margin: 0 10px 25px;
+    margin: 0 10px 25px !important;
+    padding: 10px 10px 20px;
 }
 
 .ty-grid-list__item--overlay:hover,

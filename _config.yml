@@ -200,11 +200,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
-      sidebar:
-        nav: "docs"
-
-      
+      share: true      
 sass:
   style: compact # possible values: nested expanded compact compressed
 

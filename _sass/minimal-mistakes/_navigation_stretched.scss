@@ -1,0 +1,38 @@
+/* ==========================================================================
+   NAVIGATION
+   ========================================================================== */
+
+/*
+   Breadcrumb navigation links
+   ========================================================================== */
+
+.breadcrumbs_stretched {
+  @include clearfix;
+  margin: 0 auto;
+  max-width: 100%;
+  padding-left: 1em;
+  padding-right: 1em;
+  font-family: $sans-serif;
+  -webkit-animation: $intro-transition;
+  animation: $intro-transition;
+  -webkit-animation-delay: 0.3s;
+  animation-delay: 0.3s;
+
+  @include breakpoint($x-large) {
+    max-width: $x-large;
+  }
+
+  ol {
+    padding: 0;
+    list-style: none;
+    font-size: $type-size-6;
+  }
+
+  li {
+    display: inline;
+  }
+
+  .current {
+    font-weight: bold;
+  }
+}

@@ -1,5 +1,5 @@
-**Product Resources**
 
+### Product Resources
 - [3D Preview](${product_3d})
 - [Drawings](${product_drawings})
 - [CAD model](${product_cad})
