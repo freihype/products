@@ -44,6 +44,7 @@ plugins:
 include:
   - .htaccess
   - _pages
+  - _machines
   - _howto
 
 exclude:
@@ -137,15 +138,15 @@ collections:
     output: true
     permalink: /:collection/:path/
     breadcrumbs: true
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-    breadcrumbs: true
   products:
     output: true
     permalink: /:collection/:path:output_ext
     breadcrumbs: true
   howto:
+    output: true
+    permalink: /:collection/:path:output_ext
+    breadcrumbs: true
+  machines:
     output: true
     permalink: /:collection/:path:output_ext
     breadcrumbs: true
@@ -194,12 +195,14 @@ defaults:
         nav: "docs"
   # products
   - scope:
-      path: ""
-      type: products
+      path: "_machines"
+      type: machines
     values:
       layout: single
       author_profile: false
       share: true
+      sidebar:
+        nav: "docs"
 
       
 sass:

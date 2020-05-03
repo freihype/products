@@ -1,0 +1,1 @@
+[${vendor_name}]( ${vendor_website} ) -> [Machines](${vendor_products_external}) 

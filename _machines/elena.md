@@ -1,0 +1,283 @@
+---
+    image: no image
+    category: "injection"
+    title: "Arbor - injection machine - 'Elena' - Catalonia"
+    permalink: /machines/elena
+    ---
+[Plastic Hub]( www.precious-plastic.org ) -> [Machines](https://precious-plastic.org/products/products/)  -> <span>Arbor - injection machine - 'Elena' - Catalonia</span>
+
+<hr/>
+
+
+<p>Perfect for more complicated molds and better production rates as well good quality with high precision. Easy to
+    transport and ideal for a educational context and small enterprises.<br>
+</p>
+
+<p>
+    The machine is heavily inspired by the work of <a href="https://www.fosbarcelona.com/">FosBarcelona</a>, formerly known as <a href="http://www.esferica.org/en/">Taller Esferica.</a>
+</p>
+<hr>
+<div>
+
+    <div id="specs" style="padding: 16px">
+        <strong>Technical Information</strong>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Version
+                    </td>
+                    <td>1.3
+                    </td>
+                </tr>
+                <tr>
+                    <td> Weight
+                    </td>
+                    <td>40 kg
+                    </td>
+                </tr>
+                <tr>
+                    <td> Dimensions - Package
+                    </td>
+                    <td>1100 x 200 x 500 mm
+                    </td>
+                </tr>
+                <tr>
+                    <td> Barrel volume
+                    </td>
+                    <td>70 cm³
+                    </td>
+                </tr>
+                <tr>
+                    <td> Voltage
+                    </td>
+                    <td>220V
+                    </td>
+                </tr>
+                <tr>
+                    <td> AMP
+                    </td>
+                    <td>2.6A
+                    </td>
+                </tr>
+                <tr>
+                    <td> Input Flake Size
+                    </td>
+                    <td>Medium, Small
+                    </td>
+                </tr>
+                <tr>
+                    <td> License
+                    </td>
+                    <td><a href="https://ohwr.org/cernohl">CERN Open Source Hardware License</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>
+<div style="clear:both">
+    <div>
+        <a href="https://precious-plastic.org/products/products/elena/drawings/overview.JPG">
+            <p style="text-align: center">
+                <img width="100%" src="https://precious-plastic.org/products/products/elena/drawings/overview.JPG">
+            </p>
+        </a>
+    </div>
+
+
+    <div style="padding: 16px; display: inline-block">
+        **Product Resources**
+
+- [3D Preview](https://myhub.autodesk360.com/ue2b6df80/g/shares/SH7f1edQT22b515c761e2cc46804b9803c4c)
+- [Drawings](https://github.com/plastic-hub/products/tree/master/products/elena/drawings)
+- [CAD model](https://github.com/plastic-hub/products/tree/master/products/elena/cad)
+- [Wiki](https://precious-plastic.org/home/library/machines/arbor-injection-press/)
+- [Source files](https://github.com/plastic-hub/products/tree/master/products/elena/)
+- [Forum](https://davehakkens.nl/community/forums/topic/arbor-press-v14/)
+- [Discord Chat](https://discord.gg/SN6MT5N)
+- [Electrical wiring](https://precious-plastic.org/products/products/elena/electrics/wiring.png)
+
+
+
+    </div>
+
+    </p>
+</div>
+<strong>Community builds</strong>
+<div class="ty-vendor-plans">
+
+
+    <p class="ty-grid-list__item" style="float:left;border-color:#c5c5c5;width: 300px;display: inline-block">
+        <img width="300" src="https://bazar.preciousplastic.com/images/companies/24/elena/markz.jpg?1580037715294" />
+    </p>
+    <p class="ty-grid-list__item" style="float:left;border-color:#c5c5c5;width: 300px;display: inline-block"> <img
+            width="300"
+            src="https://bazar.preciousplastic.com/images/companies/24/elena/umelohmotne_59865422_441042840038598_5468035939138973777_n.jpg?1580037857618" />
+    </p>
+    <p class="ty-grid-list__item" style="float:left;border-color:#c5c5c5;width: 300px;display: inline-block">
+        <img width="300"
+            src="https://precious-plastic.org/wp-content/uploads/2020/03/com4.jpg" />
+    </p>
+    <p class="ty-grid-list__item" style="float:left;border-color:#c5c5c5;width: 300px;display: inline-block">
+        <img width="300"
+            src="https://precious-plastic.org/wp-content/uploads/2020/03/com5.jpg" /> 
+    </p>
+    <p class="ty-grid-list__item" style="float:left;border-color:#c5c5c5;width: 300px;display: inline-block">
+        <img width="300"
+            src="https://precious-plastic.org/wp-content/uploads/2020/03/com6.jpg" /> 
+    </p>
+
+</div>
+<br/>
+
+
+<br/>
+<div class="ty-grid-list__item" style="clear:both;border-color: #c5c5c5;"">
+<table>
+    <tbody>
+        <tr>
+            <td>
+
+<b>Payment terms</b>
+<ul>
+<li>70% upfront via bank transfer & invoice</li>
+<li> remaining 30% have to be paid as soon the machine is ready to be shipped (you will receive a tracking ID)</li>
+</ul>
+</td>
+
+<td>
+
+<b> Warrenty & Support</b>
+<ul>
+<li>All parts are new and come with warrenty and have also mostly CE certification</li>
+
+<li>After you receive the machine, we help you via Whatsapp video chat to assemble the parts, in case our Youtube instructions don't work for you</li>
+
+</ul>
+</td>
+
+</tr>
+</tbody>
+<table>
+</div>
+<hr/>
+<div style="padding:16px;text-align: center;">
+    <h3> See our other products </h3>
+    <div class="ty-vendor-plans">
+        <div class="ty-grid-list__item" style="float: left;border-color: #c5c5c5;width: 300px;display: inline-block">
+<a href="https://bazar.preciousplastic.com/index.php?dispatch=products.view&product_id=152">
+    <img height="200px" src="https://precious-plastic.org/products/products/zoe/media/preview.jpg">
+    <br/>
+    <p style="text-align: center;">Shredder & Extrusion Combo 'Zoe'</p>
+</a>
+</div>
+        <div class="ty-grid-list__item" style="float: left;border-color: #c5c5c5;width: 300px;display: inline-block">
+<a href="https://bazar.preciousplastic.com/index.php?dispatch=products.view&product_id=152">
+    <img height="200px" src="https://precious-plastic.org/products/products/zoe-x/drawings/overview.JPG">
+    <br/>
+    <p style="text-align: center;">Shredder & Extrusion Combo 'Zoe' v4</p>
+</a>
+</div>
+        <div class="ty-grid-list__item" style="float: left;border-color: #c5c5c5;width: 300px;display: inline-block">
+    <a href="https://bazar.preciousplastic.com/index.php?dispatch=products.view&product_id=179">
+        <img height="200px"
+            src="https://precious-plastic.org/products/products/lydia/media/preview.jpg">
+        <br />
+        <p style="text-align: center;">Extrusion v3</p>
+    </a>
+</div>
+        <div class="ty-grid-list__item" style="float: left;border-color: #c5c5c5;width: 300px;display: inline-block">
+    <a href="https://bazar.preciousplastic.com/index.php?dispatch=products.view&product_id=159">
+        <img height="200px"
+            src="https://precious-plastic.org/products/products/lydia-v4/media/preview.jpg">
+        <br />
+        <p style="text-align: center;">Extrusion v4</p>
+    </a>
+</div>
+        <div class="ty-grid-list__item" style="float: left;border-color: #c5c5c5;width: 300px;display: inline-block;">
+<a href="https://bazar.preciousplastic.com/index.php?dispatch=products.view&product_id=210">
+    <img width="height" src="https://precious-plastic.org/products/products/sheetpress-cell/media/preview2.jpg">
+    <br/>
+    <p style="text-align: center;">Dual or single sheetpress</p>
+</a>
+</div>
+    </div>
+</div>
+<div style="clear: both;">
+    <p style="text-align:center ;">
+        <a href="https://github.com/plastic-hub/products/tree/master/products">See more open sourced products</a>
+    </p>
+</div>
+<hr/>
+<p style="color:#f58d8e;clear: both;text-align: center;">
+    <a href="https://www.instagram.com/plastichubcat/"><span style="color:#f58d8e;">Instagram</span></a> | <a
+        href="https://github.com/plastic-hub"><span style="color:#f58d8e;">Github (open source files)</span></a> | <a href="mailto://cgoflyn@gmail.com"><span
+            style="color:#f58d8e;">EMail</span></a> | <a href="https://www.facebook.com/plastichubcat"><span
+            style="color:#f58d8e;">Facebook</span></a> | <a href="https://precious-plastic.org/library/machines/"><span
+            style="color:#f58d8e;">Wiki</span></a> | <a href="https://community.preciousplastic.com/u/plastichub"><span
+            style="color:#f58d8e;">Community map</span></a>
+</p>
+<p style="color:#f58d8e;clear: both;text-align: center;"><a href="https://discord.gg/nVaNCs3"><span style="color:#f58d8e;">Discord - Support Chat (pre-sales,
+            community)</span></a> | <a href="tel://0034666894789"><span style="color:#f58d8e;">Telefon (Whatsapp,
+            English, French, German, Spanish, Catalan)</span></a>
+</p>
+
+
+<hr/>
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://www.instagram.com/plastichubcat">
+                    <img width="30px"
+                        src="https://raw.githubusercontent.com/plastic-hub/products/master/bazar/assets/instagram-logo.png" />
+                </a>
+            </td>
+            <td>
+                <a href="https://www.youtube.com/channel/UCuWDxJtV2pf5BefHEy09Cew/featured?view_as=subscriber">
+                    <img width="30px"
+                        src="https://raw.githubusercontent.com/plastic-hub/products/master/bazar/assets/002-youtube.png" />
+                </a>
+            </td>
+            <td>
+                <a alt="Open Source Projects" href="https://github.com/plastic-hub">
+                    <img width="30px"
+                        src="https://raw.githubusercontent.com/plastic-hub/products/master/bazar/assets/github.png" />
+                </a>
+            </td>
+
+            <td>
+                <a alt="" href="tel:0034666894789">
+                    <img width="30px"
+                        src="https://raw.githubusercontent.com/plastic-hub/products/master/bazar/assets/007-whatsapp.png" />
+                </a>
+            </td>
+
+            <td>
+                <a alt="" href="https://www.facebook.com/plastichubcat/">
+                    <img width="30px"
+                        src="https://raw.githubusercontent.com/plastic-hub/products/master/bazar/assets/043-facebook-1.png" />
+                </a>
+            </td>
+            <td>
+                <a alt="" href="mailto:cgoflyn@gmail.com">
+                    <img width="30px"
+                        src="https://raw.githubusercontent.com/plastic-hub/products/master/bazar/assets/012-mail-2.png" />
+                </a>
+            </td>
+            <td>
+                <a alt="" href="https://precious-plastic.org/">
+                    <img width="30px"
+                        src="https://raw.githubusercontent.com/plastic-hub/products/master/bazar/assets/006-wordpress.png" />
+                </a>
+            </td>
+            <td>
+                <a alt="" href="https://discord.gg/SN6MT5N">
+                    <img width="30px"
+                        src="https://raw.githubusercontent.com/plastic-hub/products/master/bazar/assets/discord.png" />
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
