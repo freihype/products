@@ -1,14 +1,16 @@
 ---
 title: Howtos
 layout: default
-permalink: /howtos/
+permalink: /howto/
 breadcrumbs: true
 layout : single
 author: false
+sidebar: 
+   nav: "howto"
 ---
-<div class="">
 
-<h1>General</h1>
+### General
+
 <div class="ty-vendor-plans">
 {% for doc in site.howto %}
   {% if doc.category == "general" %}
@@ -28,7 +30,27 @@ author: false
 
 <hr/>
 
-<h3>Extrusion</h3>
+### Electrics
+<div class="ty-vendor-plans">
+{% for doc in site.howto %}
+  {% if doc.category == "electric" %}
+    <div class="ty-grid-list__item">
+       <a href="{{ doc.url  | relative_url }}" class="link">
+        <span class="image" >
+          <img class="cover" src="{{ doc.image }}" alt="" />
+        </span>
+        <header class="major">
+            {{ doc.title }}
+       </header>
+      </a>
+    </div>
+  {% endif %}
+{% endfor %}
+</div>
+
+<hr/>
+
+### Extrusion
 
 <div class="ty-vendor-plans">
 {% for doc in site.howto %}
@@ -49,7 +71,7 @@ author: false
 
 <hr/>
 
-<h3>Sheetpress</h3>
+### Sheetpress
 
 <div class="ty-vendor-plans">
 {% for doc in site.howto %}
@@ -68,7 +90,8 @@ author: false
 {% endfor %}
 </div>
 <hr/>
-<h3>Injection</h3>
+
+### Injection
 
 <div class="ty-vendor-plans">
 {% for doc in site.howto %}
@@ -85,6 +108,4 @@ author: false
     </div>
   {% endif %}
 {% endfor %}
-</div>
-
 </div>

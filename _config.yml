@@ -105,33 +105,24 @@ author:
   bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
   location         : "Buffalo, NY"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      url: "https://github.com/plastichub"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://instagram.com/plastichubcat"
 
 
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      url: "https://github.com/plastichub"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://instagram.com/plastichubcat"
 
 collections:
   docs:
@@ -144,7 +135,7 @@ collections:
     breadcrumbs: true
   howto:
     output: true
-    permalink: /:collection/:path:output_ext
+    permalink: /:collection/:path
     breadcrumbs: true
   machines:
     output: true
@@ -187,12 +178,12 @@ defaults:
       type: howto
     values:
       layout: single
-      read_time: false
+      read_time: true
       author_profile: false
-      share: false
-      comments: false
+      share: true
+      comments: true
       sidebar:
-        nav: "docs"
+        nav: "howto"
   # products
   - scope:
       path: "_machines"

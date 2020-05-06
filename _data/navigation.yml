@@ -20,25 +20,38 @@ foo:
 
 # main links
 main:
-  - title: "Docs"
-    url: /docs/quick-start-guide/
   - title: "Howtos"
-    url: /howtos/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+    url: /howto/
   - title: "Resources"
     url: /resources/
+  - title: "Machines"
+    url: /machines/
 
 resources:
   - title: Resources
     children:
       - title: "Extruder"
-        url: /resources/ex
+        url: /resources/ex.html
+
+howto:
+  - title: Categories
+    children:
+      - title: "General"
+        url: /howto/#general
+      - title: "Electics"
+        url: /howto/#electrics
+      - title: "Extrusion"
+        url: /howto/#extrusion
+      - title: "Sheetpress"
+        url: /howto/#sheetpress
+      - title: "Injection"
+        url: /howto/#injection
+      - title: "Arbor Injection"
+        url: /howto/#arbor-injection
+
 
 # documentation links
-docs:
+docs2:
   - title: Machines
     children:
       - title: "Precious Plastic Eindhoven"
