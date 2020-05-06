@@ -25,6 +25,10 @@ title: "Couplings"
     <img src="./IMG_2074.JPG" width="100%" />
 </div>
 <hr />
+[Make the keyway](./keyway/)
+
+
+
 <div class="thumb">
     <img src="./IMG_2075.JPG" width="100%" />
 </div>
