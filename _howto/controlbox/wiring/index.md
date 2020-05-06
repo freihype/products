@@ -1,6 +1,6 @@
 ---
 image: /pp/_howto/controlbox/wiring/IMG_2000.JPG
-category: "general"
+category: "electric"
 title: "Wiring"
 ---
 

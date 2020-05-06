@@ -1,6 +1,6 @@
 ---
 image: /pp/_howto/controlbox/dinrail_layout/IMG_1978.JPG
-category: "general"
+category: "electric"
 title: "Dinrail Layout"
 ---
 

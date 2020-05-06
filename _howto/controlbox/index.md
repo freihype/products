@@ -1,6 +1,6 @@
 ---
 image: /pp/_howto/controlbox/5.JPG
-category: "general"
+category: "electric"
 title: "Control Box"
 ---
 
