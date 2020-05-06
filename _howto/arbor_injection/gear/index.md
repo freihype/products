@@ -1,6 +1,6 @@
 ---
 image: /pp/_howto/arbor_injection/gear/IMG_2087.JPG
-category: ""
+category: "injection"
 title: "Gear"
 ---
 
