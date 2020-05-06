@@ -24,6 +24,7 @@ ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/sheetpress/cartr
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/sheetpress/cartridge_heater/hole/lathe_drill_addon" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/couplings/clamp" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/couplings/keyway" --outfile=index.md
+ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/couplings/" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/resin-cast-barrel-injector" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/arbor_injection/wheel_handle" --outfile=index.md
 
