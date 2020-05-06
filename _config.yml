@@ -135,7 +135,7 @@ collections:
     breadcrumbs: true
   howto:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path:output_ext
     breadcrumbs: true
   machines:
     output: true
