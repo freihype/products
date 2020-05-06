@@ -6,7 +6,9 @@ title: "Wiring"
 
 
 <div class="thumb">
-    <img src="./IMG_1980.JPG" width="100%" />
+    <a href="./IMG_1980.JPG" _target="_blank">
+        <img src="./IMG_1980.JPG" width="100%" />
+    </a>
 </div>
 <hr />
 
@@ -45,7 +47,9 @@ from top to bottom, left to right
 
 
 <div class="thumb">
-    <img src="./IMG_1982.JPG" width="100%" />
+    <a href="./IMG_1982.JPG" _target="_blank">
+        <img src="./IMG_1982.JPG" width="100%" />
+    </a>
 </div>
 <hr />
 
@@ -65,26 +69,38 @@ left to right
 
 
 <div class="thumb">
-    <img src="./IMG_1983.JPG" width="100%" />
+    <a href="./IMG_1983.JPG" _target="_blank">
+        <img src="./IMG_1983.JPG" width="100%" />
+    </a>
 </div>
 <hr />
 <div class="thumb">
-    <img src="./IMG_1995.JPG" width="100%" />
+    <a href="./IMG_1995.JPG" _target="_blank">
+        <img src="./IMG_1995.JPG" width="100%" />
+    </a>
 </div>
 <hr />
 <div class="thumb">
-    <img src="./IMG_1996.JPG" width="100%" />
+    <a href="./IMG_1996.JPG" _target="_blank">
+        <img src="./IMG_1996.JPG" width="100%" />
+    </a>
 </div>
 <hr />
 <div class="thumb">
-    <img src="./IMG_1998.JPG" width="100%" />
+    <a href="./IMG_1998.JPG" _target="_blank">
+        <img src="./IMG_1998.JPG" width="100%" />
+    </a>
 </div>
 <hr />
 <div class="thumb">
-    <img src="./IMG_1999.JPG" width="100%" />
+    <a href="./IMG_1999.JPG" _target="_blank">
+        <img src="./IMG_1999.JPG" width="100%" />
+    </a>
 </div>
 <hr />
 <div class="thumb">
-    <img src="./IMG_2000.JPG" width="100%" />
+    <a href="./IMG_2000.JPG" _target="_blank">
+        <img src="./IMG_2000.JPG" width="100%" />
+    </a>
 </div>
 <hr />
