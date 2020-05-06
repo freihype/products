@@ -30,7 +30,7 @@ feature_row:
     alt: "100% free"
     title: "Howtos"
     excerpt: "Howtos"
-    url: "/howtos/"
+    url: "/howto/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
