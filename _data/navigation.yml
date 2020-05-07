@@ -42,6 +42,8 @@ howto:
         url: /howto/#electrics
       - title: "Extrusion"
         url: /howto/#extrusion
+      - title: "Shredder"
+        url: /howto/#shredder
       - title: "Sheetpress"
         url: /howto/#sheetpress
       - title: "Injection"

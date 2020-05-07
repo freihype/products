@@ -28,6 +28,8 @@ ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/couplings/" --ou
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/resin-cast-barrel-injector" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/arbor_injection/wheel_handle" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/arbor_injection/gear" --outfile=index.md
+ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/shredder/knifes/" --outfile=index.md
+ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/shredder/bearing_mount/" --outfile=index.md
 
 
 cd ../_howto
