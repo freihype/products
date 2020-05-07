@@ -1,5 +1,5 @@
 ---
-image: /pp/_howto/shredder/shields/IMG_2133.JPG
+image: /pp/_howto/shredder/shields/IMG_2134.JPG
 category: "shredder"
 title: "Shields"
 ---
@@ -62,6 +62,12 @@ title: "Shields"
 <div class="thumb">
     <a href="./IMG_2133.JPG" _target="_blank">
         <img src="./IMG_2133.JPG" width="100%" />
+    </a>
+</div>
+<hr />
+<div class="thumb">
+    <a href="./IMG_2134.JPG" _target="_blank">
+        <img src="./IMG_2134.JPG" width="100%" />
     </a>
 </div>
 <hr />
