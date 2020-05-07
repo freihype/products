@@ -1,7 +1,7 @@
 ---
 image: /pp/_howto/shredder/kife_assembly/IMG_2112.JPG
-category: ""
-title: "Kife Assembly"
+category: "shredder"
+title: "Stationary Knife Assembly"
 ---
 
 
