@@ -1,5 +1,5 @@
 ---
-image: /pp/_howto/shredder/bearing_mount/IMG_2103.JPG
+image: /pp/_howto/shredder/bearing_mount/IMG_2105.JPG
 category: "shredder"
 title: "Bearing Mount"
 ---
@@ -50,6 +50,12 @@ title: "Bearing Mount"
 <div class="thumb">
     <a href="./IMG_2103.JPG" _target="_blank">
         <img src="./IMG_2103.JPG" width="100%" />
+    </a>
+</div>
+<hr />
+<div class="thumb">
+    <a href="./IMG_2105.JPG" _target="_blank">
+        <img src="./IMG_2105.JPG" width="100%" />
     </a>
 </div>
 <hr />
