@@ -32,6 +32,7 @@ ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/shredder/knifes/
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/shredder/bearing_mount/" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/shredder/kife_assembly/" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/shredder/hopper_mount/" --outfile=index.md
+ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/shredder/shields/" --outfile=index.md
 
 
 cd ../_howto
