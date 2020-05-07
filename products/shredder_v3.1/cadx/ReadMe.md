@@ -18,4 +18,34 @@ Hopper parts missing... locate or redraw
 
 
 
+07.05
+
+Redbuilt hopper from laser files
+
+Rebuilt Shields
+
+Added bearings with housings, bearing mounts and spacers
+
+in process of adding gearbox, coupling, rebuilt base plate
+
+added gearbox downloaded from Motovario
+
+Notes..
+
+check small holes diam at bottom of main plate = 5mm?
+
+Bearing - different to previous - UCFL206-30 has a 30mm bore - previous did not fit - maybe was uc205 pattern?
+
+NB this means the bolt spacing is wider- 117mm instead of 99mm previously ... do the bolts go into the main plate? if so they may crash with the tab of the frame plate?
+
+Gearbox has 1mm gap below and fence is 34mm not 33 - need to figure out where the discrepancy is
+
+time 8hrs
+
+
+
+
+
+
+
 
