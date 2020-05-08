@@ -1,5 +1,5 @@
 ---
-image: /pp/products/products/media/preview.jpg
+image: /pp/products/elena/media/preview.jpg
 category: "injection"
 title: "Arbor - injection machine - 'Elena' - Catalonia"
 permalink: /machines/elena

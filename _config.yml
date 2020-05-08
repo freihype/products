@@ -194,7 +194,13 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true      
+      share: true
+    sidebar:
+        nav: "machines"
+      enabled:
+       - categories
+       - tags
+
 sass:
   style: compact # possible values: nested expanded compact compressed
 

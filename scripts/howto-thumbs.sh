@@ -19,6 +19,7 @@ ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/nozzle_interface
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/extrusion/barrel_mount" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/extrusion/hopper_mount" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/extrusion/thermo_couple_clips" --outfile=index.md
+ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/extrusion/motor_flange" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/sheetpress/cartridge_heater/hole/block_vise" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/sheetpress/cartridge_heater/hole/drilling" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/sheetpress/cartridge_heater/hole/lathe_drill_addon" --outfile=index.md
