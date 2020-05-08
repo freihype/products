@@ -1,7 +1,7 @@
 ---
 image: /pp/_howto/extrusion/motor_flange/IMG_1595.JPG
-category: ""
-title: "Motor Flange"
+category: "extrusion"
+title: "V4 Extrusion Motor Flange"
 ---
 
 
