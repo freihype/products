@@ -9,6 +9,7 @@ ph-cli md:thumbs --debug=true --source="../products/lydia/media/social" --outfil
 ph-cli md:thumbs --debug=true --source="../products/elena/media" --outfile=readme.md
 ph-cli md:thumbs --debug=true --source="../products/elena/media/social" --outfile=readme.md
 ph-cli md:thumbs --debug=true --source="../products/zoe/media" --outfile=readme.md
+ph-cli md:thumbs --debug=true --source="../products/zoe/media/social" --outfile=readme.md
 ph-cli md:thumbs --debug=true --source="../products/asterix/media" --outfile=readme.md
 ph-cli md:thumbs --debug=true --source="../products/idefix/media" --outfile=readme.md
 ph-cli md:thumbs --debug=true --source="../products/shredder_v3.2/media" --outfile=readme.md
