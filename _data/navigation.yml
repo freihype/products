@@ -32,13 +32,15 @@ resources:
     children:
       - title: "Extruder"
         url: /resources/ex.html
+      - title: "Videos"
+        url: /videos/index.html
 
 howto:
   - title: Categories
     children:
       - title: "General"
         url: /howto/#general
-      - title: "Electics"
+      - title: "Electrics"
         url: /howto/#electrics
       - title: "Extrusion"
         url: /howto/#extrusion
@@ -50,7 +52,10 @@ howto:
         url: /howto/#injection
       - title: "Arbor Injection"
         url: /howto/#arbor-injection
-
+  - title: Resources
+    children:
+      - title: "Videos"
+        url: /videos/
 
 # documentation links
 docs2:

@@ -184,6 +184,9 @@ defaults:
       comments: true
       sidebar:
         nav: "howto"
+      enabled:
+       - categories
+       - tags
   # products
   - scope:
       path: "_machines"

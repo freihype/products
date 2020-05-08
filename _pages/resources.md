@@ -9,4 +9,3 @@ sidebar:
 ---
 
 Welcome to the resource section of Precious Plastic !
-
