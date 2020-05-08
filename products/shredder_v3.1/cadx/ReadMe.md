@@ -43,6 +43,25 @@ Gearbox has 1mm gap below and fence is 34mm not 33 - need to figure out where th
 time 8hrs
 
 
+08.05.20
+
+Located and corrected 1mm error in heights of Shredderbox mounts, corrected fence height to 33mm
+
+Rebuilt legs with hollow square section tube and built fixing system with 10mm threaded bar
+
+Built base plate extension for central legs under reducer
+
+Built new couplings with configs for 24, 30 and 35mm bore, 10mm keyways
+
+In process of adding screw and barrel arrangement but not sure im seeing it right....
+
+Notes..
+
+The rebuilt coupling is a bit different to the previous one, I reduced the ID of the star ring to give larger contact surface between the two halves of the coupling. Not sure if the star needs to have a hole in the middle? 
+
+time 6hrs ish but will continue for a bit..
+
+
 
 
 
