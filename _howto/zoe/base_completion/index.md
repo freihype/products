@@ -131,12 +131,6 @@ categories:
 </div>
 <hr />
 <div class="thumb">
-    <a href="./IMG_2182.JPG" _target="_blank">
-        <img src="./IMG_2182.JPG" width="100%" />
-    </a>
-</div>
-<hr />
-<div class="thumb">
     <a href="./IMG_2183.JPG" _target="_blank">
         <img src="./IMG_2183.JPG" width="100%" />
     </a>
