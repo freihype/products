@@ -2,6 +2,11 @@
 image: /pp/_howto/shredder/shields/IMG_2134.JPG
 category: "shredder"
 title: "Shields"
+tags :
+ - v3
+ - zoe
+categories:
+  - Shredder
 ---
 
 

@@ -4,15 +4,11 @@ category: "injection"
 title: "Arbor - injection machine - 'Elena' - Catalonia"
 permalink: /machines/elena
 tags :
- - injection
  - v3
- - arbor
+ - injection
 categories:
+  - Injection
   - Machines
-related: true
-classes: wide
-sidebar : 
-    nav: "machines"
 ---
 [Plastic Hub]( www.precious-plastic.org ) -> [Machines](https://precious-plastic.org/products/products/)  -> <span>Arbor - injection machine - 'Elena' - Catalonia</span>
 
