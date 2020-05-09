@@ -26,7 +26,7 @@ sidebar:
 {% endfor %}
 </div>
 
-### Injection
+### Extrusion
 
 <div class="ty-vendor-plans">
 {% for doc in site.machines %}
