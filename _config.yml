@@ -31,6 +31,22 @@ twitter_username: jekyllrb
 github_username:  jekyll
 relative_url: "/pp"
 
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : "lunr"
+algolia:
+  application_id         : "QB6HVGBSBA"
+  index_name             : "dev_minimal-mistakes"
+  search_only_api_key    : "9d5014e5bbc77372547bce778dfa5663"
+  powered_by             : true
+  
 # Build settings
 # theme: minima
 # theme: minimal-mistakes-jekyll
@@ -71,6 +87,13 @@ exclude:
   - Rakefile
   - README
   - cad
+  - products/elena/cad/
+  - products/zoe/cad/
+  - products/zoex/cad/
+  - products/lydia/cad/
+  - products/lydia-v4/cad/
+  - v4/
+  - v3/
   - tmp
   - "*.SLDDRW"
   - "*.sldprt"
@@ -141,6 +164,7 @@ collections:
     output: true
     permalink: /:collection/:path:output_ext
     breadcrumbs: true
+
 # Defaults
 defaults:
   # _posts
@@ -182,6 +206,7 @@ defaults:
       author_profile: false
       share: true
       comments: true
+      related: true
       sidebar:
         nav: "howto"
       enabled:
@@ -195,12 +220,9 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      related: true
     sidebar:
         nav: "machines"
-      enabled:
-       - categories
-       - tags
-
 sass:
   style: compact # possible values: nested expanded compact compressed
 

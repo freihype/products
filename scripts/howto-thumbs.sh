@@ -8,7 +8,6 @@ ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/controlbox" --ou
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/controlbox/dinrail_layout" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/controlbox/wiring" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/extrusion/frame" --outfile=index.md
-ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/extrusion/hopper" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/extrusion/flange" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/extrusion/screw_alignment" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/extrusion/keyway" --outfile=index.md

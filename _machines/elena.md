@@ -3,6 +3,13 @@ image: /pp/products/elena/media/preview.jpg
 category: "injection"
 title: "Arbor - injection machine - 'Elena' - Catalonia"
 permalink: /machines/elena
+tags :
+ - injection
+ - v3
+ - arbor
+categories:
+  - Edge Case
+related: true
 ---
 [Plastic Hub]( www.precious-plastic.org ) -> [Machines](https://precious-plastic.org/products/products/)  -> <span>Arbor - injection machine - 'Elena' - Catalonia</span>
 
