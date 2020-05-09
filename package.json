@@ -12,8 +12,8 @@
         "bazar-lydia-v4": "ph-cli bazar-product-html --debug=true --products=../../products --product=lydia-v4",
         "bazar-elena": "cd ..\\lang\\cli; node ./build/main.js bazar-product-html --debug=true --products=../../products --product=elena",
         "gallery-all": "sigal build -d ./products ./gallery/",
-        "serve" : "bundle exec jekyll serve --trace --port 8008 --incremental",
-        "build" : "bundle exec jekyll build -d ../pp"
+        "serve": "bundle exec jekyll serve --trace --port 8008 --incremental",
+        "build": "bundle exec jekyll build -d ../pp"
     },
     "author": "",
     "license": "ISC",
@@ -21,9 +21,20 @@
         "@plastichub/cli": "^1.0.4",
         "@types/lodash": "^4.14.148",
         "@types/node": "^12.12.8",
-        "lodash": "^4.17.15"
+        "lodash": "^4.17.15",
+        "grunt": "^1.0.1",
+        "grunt-contrib-clean": "^1.0.0",
+        "grunt-contrib-copy": "^1.0.0",
+        "grunt-extend-config": "^0.9.5",
+        "grunt-git": "^1.0.1",
+        "grunt-parallel": "^0.5.1",
+        "grunt-promise": "^1.1.1",
+        "grunt-shell": "^2.0.0",
+        "grunt-ssh": "git+https://github.com/israelroldan/grunt-ssh.git",
+        "load-grunt-config": "^0.19.2",
+        "recursive-merge": "^1.2.1",
+        "request": "^2.76.0",
+        "tcp-port-used": "^0.1.2"
     },
-    "devDependencies": {
-        
-    }
+    "devDependencies": {}
 }
