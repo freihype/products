@@ -13,7 +13,7 @@ sidebar:
 {% for doc in site.machines %}
   {% if doc.category == "injection" %}
     <div class="ty-grid-list__item">
-      <a href="{{ doc.url  | relative_url }}" class="link">
+      <a href="{{ doc.url  | relative_url }}.html" class="link">
         <span class="image" >
           <img class="cover" src="{{ doc.image }}" alt="" />
         </span>
@@ -32,7 +32,7 @@ sidebar:
 {% for doc in site.machines %}
   {% if doc.category == "extrusion" %}
     <div class="ty-grid-list__item">
-      <a href="{{ doc.url  | relative_url }}" class="link">
+      <a href="{{ doc.url  | relative_url }}.html" class="link">
         <span class="image" >
           <img class="cover" src="{{ doc.image }}" alt="" />
         </span>
