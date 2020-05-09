@@ -8,8 +8,11 @@ tags :
  - v3
  - arbor
 categories:
-  - Edge Case
+  - Machines
 related: true
+classes: wide
+sidebar : 
+    nav: "machines"
 ---
 [Plastic Hub]( www.precious-plastic.org ) -> [Machines](https://precious-plastic.org/products/products/)  -> <span>Arbor - injection machine - 'Elena' - Catalonia</span>
 

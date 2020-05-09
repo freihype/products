@@ -46,7 +46,7 @@ algolia:
   index_name             : "dev_minimal-mistakes"
   search_only_api_key    : "9d5014e5bbc77372547bce778dfa5663"
   powered_by             : true
-  
+
 # Build settings
 # theme: minima
 # theme: minimal-mistakes-jekyll
@@ -92,6 +92,13 @@ exclude:
   - products/zoex/cad/
   - products/lydia/cad/
   - products/lydia-v4/cad/
+  - products/obelix/cad/
+  - products/asterix/cad/
+  - products/shredder_v3.1/cad/
+  - products/shredder_v3.2/cad/
+  - products/shredder_v3.1_32mm_hexbar
+  - products/sheetpress-cell/cad/
+  - products/shredder_v4.1s
   - v4/
   - v3/
   - tmp

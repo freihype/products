@@ -35,6 +35,14 @@ resources:
       - title: "Videos"
         url: /videos/index.html
 
+machines:
+  - title: Categories
+    children:
+      - title: "Injection"
+        url: /machines/#injection
+      - title: "Extrusion"
+        url: /machines/#extrusion
+
 howto:
   - title: Categories
     children:
