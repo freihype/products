@@ -1,7 +1,7 @@
 ---
 image: /pp/_howto/zoe/fence/IMG_2169.JPG
 category: "shredder"
-title: "Base plate holes and assembly"
+title: "Shredder base plate fence"
 tags :
  - v3
  - zoe
