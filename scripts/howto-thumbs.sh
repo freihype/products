@@ -33,6 +33,9 @@ ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/shredder/bearing
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/shredder/kife_assembly/" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/shredder/hopper_mount/" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/shredder/shields/" --outfile=index.md
+ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/zoe/base/" --outfile=index.md
+ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/zoe/base_completion/" --outfile=index.md
+ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/zoe/fence/" --outfile=index.md
 
 
 cd ../_howto
