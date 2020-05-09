@@ -36,6 +36,7 @@ ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/shredder/shields
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/zoe/base/" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/zoe/base_completion/" --outfile=index.md
 ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/zoe/fence/" --outfile=index.md
+ph-cli md:thumbs --root="../"  --debug=true --source="../_howto/zoe/assembly/base/" --outfile=index.md
 
 
 cd ../_howto
