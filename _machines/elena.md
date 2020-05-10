@@ -179,7 +179,7 @@ sidebar:
   </div>
 
   <div class="tab-pane" id="discussion" role="tabpanel" aria-labelledby="discussion-tab">
-    <div id='discourse-comments'></div>
+    <div id='discourse-comments' style="min-height: 600px;"></div>
     <script type="text/javascript">
       DiscourseEmbed = { discourseUrl: 'https://forum.precious-plastic.org/',
                          discourseEmbedUrl: '{{site.url}}{{page.url}}.html' };
