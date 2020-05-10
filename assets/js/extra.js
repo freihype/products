@@ -12,6 +12,7 @@ $(document).ready(function () {
         if(e.target.hash === '#discussion'){
             var ifr = document.getElementById('discourse-embed-frame');
             ifr.src = ifr.src;
+            $(ifr).height('600px');
         }
     })
 });
