@@ -182,7 +182,7 @@ sidebar:
     <div id='discourse-comments'></div>
     <script type="text/javascript">
       DiscourseEmbed = { discourseUrl: 'https://forum.precious-plastic.org/',
-                         discourseEmbedUrl: '{{site.url}}{{page.url}}' };
+                         discourseEmbedUrl: '{{site.url}}{{page.url}}.html' };
     
       (function() {
         var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
