@@ -8,9 +8,6 @@ $(document).ready(function () {
 
     // Change hash for page-reload
     $('.nav-tabs a').on('shown.bs.tab', function (e) {
-        window.location.hash = e.target.hash;
-        setTimeout(function () {
-            window.scrollTo(0, 0);
-        }, 1);
+        history.pushState(null,null,e.target.hash);
     })
 });
