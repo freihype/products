@@ -1,8 +1,9 @@
 ---
-image: /pp/products/Lydia-V4/media/preview.jpg
+image: /pp/products/lydia-v4/media/preview.jpg
 category: "extrusion"
 title: "Extrusion v4 - Lydia"
-permalink: /machines/Lydia-V4
+permalink: /machines/lydia-v4
+
 ---
 [Plastic Hub]( www.precious-plastic.org ) -> [Machines](https://precious-plastic.org/products/products/)  -> <span>Extrusion v4 - Lydia</span>
 
