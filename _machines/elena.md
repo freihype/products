@@ -40,11 +40,11 @@ sidebar:
 <div class="tab-content">
   <div class="tab-pane active" id="overview" role="tabpanel" aria-labelledby="overview-tab">
     <div>
-    <a ref="https://precious-plastic.org/products/products/elena/drawings/overview.JPG">
+    <a href="https://precious-plastic.org/products/products/elena/drawings/overview.JPG">
         <img src="https://precious-plastic.org/products/products/elena/drawings/overview.JPG" style="float: left;width:50%;" />
     </a>
 
-    <span style="font-size: smaller;display: inline-block;">
+    <span style="font-size: smaller;">
         Perfect for more complicated molds and better production rates as well good quality with high precision. Easy
         to transport and ideal for a educational context and small enterprises.
     </span>
@@ -94,7 +94,36 @@ sidebar:
 
 <hr />
 
+<div style="padding:16px;text-align: center;">
+    <h3>Products</h3>
+    <div class="ty-vendor-plans">
+        
+        <div class="ty-grid-list__item" style="float:left;border-color: #c5c5c5;width: 300px;display: inline-block">
+            <a href="https://bazar.preciousplastic.com/moulds/injection-moulds/piranha-clamp/">
+                <img height="200px" src="/pp/_machines/assets/clamp.jpeg">
+                <br />
+                <p style="text-align: center;">Piranha Clamp</p>
+            </a>
+        </div>
 
+        <div class="ty-grid-list__item" style="float:left;border-color: #c5c5c5;width: 300px;display: inline-block">
+            <a href="https://bazar.preciousplastic.com/moulds/injection-moulds/water-cup-mould/">
+                <img height="200px" src="/pp/_machines/assets/watercup.jpeg">
+                <br />
+                <p style="text-align: center;">Water Cup</p>
+            </a>
+        </div>
+
+        <div class="ty-grid-list__item" style="float:left;border-color: #c5c5c5;width: 300px;display: inline-block">
+            <a href="https://bazar.preciousplastic.com/moulds/injection-moulds/hair-comb/">
+                <img height="200px" src="/pp/_machines/assets/comb.jpeg">
+                <br />
+                <p style="text-align: center;">Hair Comb</p>
+            </a>
+        </div>
+
+    </div>
+</div>
   </div>
   <div class="tab-pane active" id="build" role="tabpanel" aria-labelledby="build-tab">
     
