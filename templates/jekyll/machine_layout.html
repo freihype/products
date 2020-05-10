@@ -17,15 +17,36 @@
     <a class="nav-link" id="media-tab" data-toggle="tab" href="#media" role="tab" aria-controls="media" aria-selected="false">Media</a>
   </li>
 
+  <li class="nav-item">
+    <a class="nav-link" id="media-tab" data-toggle="tab" href="#discussion" role="tab" aria-controls="media" aria-selected="false">Discussion</a>
+  </li>
+
 </ul>
 
 <div class="tab-content">
   <div class="tab-pane active" id="overview" role="tabpanel" aria-labelledby="overview-tab">
     ${overview}
+
   </div>
   <div class="tab-pane active" id="build" role="tabpanel" aria-labelledby="build-tab">
     ${build}
     
+  </div>
+  <div class="tab-pane" id="resources" role="tabpanel" aria-labelledby="resources-tab">   
+<span style="font-size:smaller">
+
+${product_resources}
+
+</span>
+  </div>
+  <div class="tab-pane" id="howtos" role="tabpanel" aria-labelledby="howtos-tab">
+    ${howtos}
+  </div>
+  <div class="tab-pane" id="media" role="tabpanel" aria-labelledby="media-tab">
+    ${media}
+  </div>
+
+  <div class="tab-pane" id="discussion" role="tabpanel" aria-labelledby="discussion-tab">
     <div id='discourse-comments'></div>
     <script type="text/javascript">
       DiscourseEmbed = { discourseUrl: 'https://forum.precious-plastic.org/',
@@ -37,15 +58,5 @@
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
       })();
     </script>
-
-  </div>
-  <div class="tab-pane" id="resources" role="tabpanel" aria-labelledby="resources-tab">   
-  ${product_resources}
-  </div>
-  <div class="tab-pane" id="howtos" role="tabpanel" aria-labelledby="howtos-tab">
-    ${howtos}
-  </div>
-  <div class="tab-pane" id="media" role="tabpanel" aria-labelledby="media-tab">
-    ${media}
   </div>
 </div>

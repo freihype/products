@@ -1,4 +1,5 @@
 <span id="specs" style="padding: 16px">
+
     <table>
         <tbody>
             <tr>
@@ -24,7 +25,12 @@
                 </td>
                 <td><a href="https://ohwr.org/cernohl">CERN Open Source Hardware License</a>
             </td>
+            <td> Author </td>
+                <td>
+                 PlasticHub
+                </td>
             </tr>
         </tbody>
     </table>
+
 </span>

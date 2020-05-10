@@ -32,6 +32,10 @@ sidebar:
     <a class="nav-link" id="media-tab" data-toggle="tab" href="#media" role="tab" aria-controls="media" aria-selected="false">Media</a>
   </li>
 
+  <li class="nav-item">
+    <a class="nav-link" id="media-tab" data-toggle="tab" href="#discussion" role="tab" aria-controls="media" aria-selected="false">Discussion</a>
+  </li>
+
 </ul>
 
 <div class="tab-content">
@@ -79,8 +83,19 @@ sidebar:
 </span></p>
     </div>
 
-    <hr />
+</div>
 
+<div style="margin: 8px;">
+<a href="">
+    <span  style="margin: 8px;" class="fa fa-download"/>
+</a>
+
+<a href="">
+    <span style="margin: 8px;" class="fa fa-play"/>
+</a>
+<a href="">
+    <span style="margin: 8px;" class="fa fa-question"/>
+</a>
 </div>
 
 <hr />
@@ -115,25 +130,16 @@ sidebar:
 
     </div>
 </div>
+
   </div>
   <div class="tab-pane active" id="build" role="tabpanel" aria-labelledby="build-tab">
     <h3 id="buildthemachine">Build the machine</h3>
     
-    <div id='discourse-comments'></div>
-    <script type="text/javascript">
-      DiscourseEmbed = { discourseUrl: 'https://forum.precious-plastic.org/',
-                         discourseEmbedUrl: '{{site.url}}{{page.url}}' };
-    
-      (function() {
-        var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
-        d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
-      })();
-    </script>
-
   </div>
   <div class="tab-pane" id="resources" role="tabpanel" aria-labelledby="resources-tab">   
-  <ul>
+<span style="font-size:smaller">
+
+<ul>
 <li><a href="https://myhub.autodesk360.com/ue2b6df80/g/shares/SH7f1edQT22b515c761e2cc46804b9803c4c">3D Preview</a></li>
 <li><a href="https://github.com/plastic-hub/products/tree/master/products/elena/drawings">Drawings</a></li>
 <li><a href="https://github.com/plastic-hub/products/tree/master/products/elena/cad">CAD model</a></li>
@@ -143,6 +149,8 @@ sidebar:
 <li><a href="https://discord.gg/SN6MT5N">Discord Chat</a></li>
 <li><a href="https://precious-plastic.org/products/products/elena/electrics/wiring.png">Electrical wiring</a></li>
 </ul>
+
+</span>
   </div>
   <div class="tab-pane" id="howtos" role="tabpanel" aria-labelledby="howtos-tab">
     <h4 id="machinebuilderhowtos">Machine builder howtos</h4>
@@ -165,6 +173,20 @@ sidebar:
   </div>
   <div class="tab-pane" id="media" role="tabpanel" aria-labelledby="media-tab">
     <h3 id="media">Media</h3>
+  </div>
+
+  <div class="tab-pane" id="discussion" role="tabpanel" aria-labelledby="discussion-tab">
+    <div id='discourse-comments'></div>
+    <script type="text/javascript">
+      DiscourseEmbed = { discourseUrl: 'https://forum.precious-plastic.org/',
+                         discourseEmbedUrl: '{{site.url}}{{page.url}}' };
+    
+      (function() {
+        var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+        d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+      })();
+    </script>
   </div>
 </div>
 
