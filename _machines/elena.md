@@ -19,10 +19,7 @@ sidebar:
     <a class="nav-link active" id="overview-tab" data-toggle="tab" href="#overview" role="tab" aria-controls="overview" aria-selected="true">Overview</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" id="build-tab" data-toggle="tab" href="#build" role="tab" aria-controls="specs" aria-selected="false">Build</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" id="specs-tab" data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
+    <a class="nav-link" id="build-tab" data-toggle="tab" href="#build" role="tab" aria-controls="build" aria-selected="false">Build</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" id="resources-tab" data-toggle="tab" href="#resources" role="tab" aria-controls="resources" aria-selected="false">Resources</a>
@@ -32,7 +29,7 @@ sidebar:
   </li>
 
   <li class="nav-item">
-    <a class="nav-link" id="media-tab" data-toggle="tab" href="#media" role="tab" aria-controls="howtos" aria-selected="false">Media</a>
+    <a class="nav-link" id="media-tab" data-toggle="tab" href="#media" role="tab" aria-controls="media" aria-selected="false">Media</a>
   </li>
 
 </ul>
@@ -72,16 +69,10 @@ sidebar:
                 </td>
             </tr>
             <tr>
-                <td> Dimensions - Package
-                </td>
-                <td>1100 x 200 x 500 mm | 40Kg
-                </td>
-            </tr>
-            <tr>
-                <td> License
+            <td> License
                 </td>
                 <td><a href="https://ohwr.org/cernohl">CERN Open Source Hardware License</a>
-                </td>
+            </td>
             </tr>
         </tbody>
     </table>
@@ -126,64 +117,20 @@ sidebar:
 </div>
   </div>
   <div class="tab-pane active" id="build" role="tabpanel" aria-labelledby="build-tab">
+    <h3 id="buildthemachine">Build the machine</h3>
     
-  </div>
-  <div class="tab-pane" id="specs" role="tabpanel" aria-labelledby="specs-tab">
-    <div id="specs" style="padding: 16px">
-    <strong>Technical Information</strong>
-    <table>
-        <tbody>
-            <tr>
-                <td>Version
-                </td>
-                <td>1.3
-                </td>
-            </tr>
-            <tr>
-                <td> Weight
-                </td>
-                <td>40 kg
-                </td>
-            </tr>
-            <tr>
-                <td> Dimensions - Package
-                </td>
-                <td>1100 x 200 x 500 mm
-                </td>
-            </tr>
-            <tr>
-                <td> Barrel volume
-                </td>
-                <td>70 cm³
-                </td>
-            </tr>
-            <tr>
-                <td> Voltage
-                </td>
-                <td>220V
-                </td>
-            </tr>
-            <tr>
-                <td> AMP
-                </td>
-                <td>2.6A
-                </td>
-            </tr>
-            <tr>
-                <td> Input Flake Size
-                </td>
-                <td>Medium, Small
-                </td>
-            </tr>
-            <tr>
-                <td> License
-                </td>
-                <td><a href="https://ohwr.org/cernohl">CERN Open Source Hardware License</a>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+    <div id='discourse-comments'></div>
+    <script type="text/javascript">
+      DiscourseEmbed = { discourseUrl: 'https://forum.precious-plastic.org/',
+                         discourseEmbedUrl: '{{site.url}}{{page.url}}' };
+    
+      (function() {
+        var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+        d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+      })();
+    </script>
+
   </div>
   <div class="tab-pane" id="resources" role="tabpanel" aria-labelledby="resources-tab">   
   <ul>
@@ -217,7 +164,7 @@ sidebar:
 </div>
   </div>
   <div class="tab-pane" id="media" role="tabpanel" aria-labelledby="media-tab">
-    
+    <h3 id="media">Media</h3>
   </div>
 </div>
 

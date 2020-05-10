@@ -4,10 +4,7 @@
     <a class="nav-link active" id="overview-tab" data-toggle="tab" href="#overview" role="tab" aria-controls="overview" aria-selected="true">Overview</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" id="build-tab" data-toggle="tab" href="#build" role="tab" aria-controls="specs" aria-selected="false">Build</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" id="specs-tab" data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
+    <a class="nav-link" id="build-tab" data-toggle="tab" href="#build" role="tab" aria-controls="build" aria-selected="false">Build</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" id="resources-tab" data-toggle="tab" href="#resources" role="tab" aria-controls="resources" aria-selected="false">Resources</a>
@@ -17,7 +14,7 @@
   </li>
 
   <li class="nav-item">
-    <a class="nav-link" id="media-tab" data-toggle="tab" href="#media" role="tab" aria-controls="howtos" aria-selected="false">Media</a>
+    <a class="nav-link" id="media-tab" data-toggle="tab" href="#media" role="tab" aria-controls="media" aria-selected="false">Media</a>
   </li>
 
 </ul>
@@ -28,9 +25,19 @@
   </div>
   <div class="tab-pane active" id="build" role="tabpanel" aria-labelledby="build-tab">
     ${build}
-  </div>
-  <div class="tab-pane" id="specs" role="tabpanel" aria-labelledby="specs-tab">
-    ${specs}
+    
+    <div id='discourse-comments'></div>
+    <script type="text/javascript">
+      DiscourseEmbed = { discourseUrl: 'https://forum.precious-plastic.org/',
+                         discourseEmbedUrl: '{{site.url}}{{page.url}}' };
+    
+      (function() {
+        var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+        d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+      })();
+    </script>
+
   </div>
   <div class="tab-pane" id="resources" role="tabpanel" aria-labelledby="resources-tab">   
   ${product_resources}

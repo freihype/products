@@ -20,16 +20,10 @@
                 </td>
             </tr>
             <tr>
-                <td> Dimensions - Package
-                </td>
-                <td>1100 x 200 x 500 mm | 40Kg
-                </td>
-            </tr>
-            <tr>
-                <td> License
+            <td> License
                 </td>
                 <td><a href="https://ohwr.org/cernohl">CERN Open Source Hardware License</a>
-                </td>
+            </td>
             </tr>
         </tbody>
     </table>
