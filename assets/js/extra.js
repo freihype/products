@@ -9,5 +9,9 @@ $(document).ready(function () {
     // Change hash for page-reload
     $('.nav-tabs a').on('shown.bs.tab', function (e) {
         history.pushState(null,null,e.target.hash);
+        if(e.target.hash === '#discussion'){
+            var ifr = document.getElementById('discourse-embed-frame');
+            ifr.src = ifr.src;
+        }
     })
 });
