@@ -39,13 +39,62 @@ sidebar:
 
 <div class="tab-content">
   <div class="tab-pane active" id="overview" role="tabpanel" aria-labelledby="overview-tab">
-    <p>Perfect for more complicated molds and better production rates as well good quality with high precision. Easy to
-    transport and ideal for a educational context and small enterprises.<br>
-</p>
+    <div>
+    <a ref="https://precious-plastic.org/products/products/elena/drawings/overview.JPG">
+        <img src="https://precious-plastic.org/products/products/elena/drawings/overview.JPG" style="float: left;width:50%;" />
+    </a>
 
-<a ref="https://precious-plastic.org/products/products/elena/drawings/overview.JPG">
-    <img style="width:100%;" src="https://precious-plastic.org/products/products/elena/drawings/overview.JPG"/>
-</a>
+    <span style="font-size: smaller;display: inline-block;">
+        Perfect for more complicated molds and better production rates as well good quality with high precision. Easy
+        to transport and ideal for a educational context and small enterprises.
+    </span>
+
+    <div style="display: inline-block;">
+        <p><span id="specs" style="padding: 16px">
+    <table>
+        <tbody>
+            <tr>
+                <td>Type:
+                </td>
+                <td>Manual Injection
+                </td>
+            </tr>        
+            <tr>
+                <td>Version:
+                </td>
+                <td>1.3
+                </td>
+            </tr>
+            <tr>
+                <td> Status:
+                </td>
+                <td> Mature
+                </td>
+            </tr>
+            <tr>
+                <td> Dimensions - Package
+                </td>
+                <td>1100 x 200 x 500 mm | 40Kg
+                </td>
+            </tr>
+            <tr>
+                <td> License
+                </td>
+                <td><a href="https://ohwr.org/cernohl">CERN Open Source Hardware License</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</span></p>
+    </div>
+
+    <hr />
+
+</div>
+
+<hr />
+
+
   </div>
   <div class="tab-pane active" id="build" role="tabpanel" aria-labelledby="build-tab">
     
@@ -126,7 +175,5 @@ sidebar:
     
   </div>
 </div>
-<br/>
 
 
-<hr/>
