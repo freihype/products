@@ -19,6 +19,9 @@ sidebar:
     <a class="nav-link active" id="overview-tab" data-toggle="tab" href="#overview" role="tab" aria-controls="overview" aria-selected="true">Overview</a>
   </li>
   <li class="nav-item">
+    <a class="nav-link" id="build-tab" data-toggle="tab" href="#build" role="tab" aria-controls="specs" aria-selected="false">Build</a>
+  </li>
+  <li class="nav-item">
     <a class="nav-link" id="specs-tab" data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
   </li>
   <li class="nav-item">
@@ -43,6 +46,9 @@ sidebar:
 <a ref="https://precious-plastic.org/products/products/elena/drawings/overview.JPG">
     <img style="width:100%;" src="https://precious-plastic.org/products/products/elena/drawings/overview.JPG"/>
 </a>
+  </div>
+  <div class="tab-pane active" id="build" role="tabpanel" aria-labelledby="build-tab">
+    
   </div>
   <div class="tab-pane" id="specs" role="tabpanel" aria-labelledby="specs-tab">
     <div id="specs" style="padding: 16px">
