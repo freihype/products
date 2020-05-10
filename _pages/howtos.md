@@ -9,8 +9,8 @@ sidebar:
    nav: "howto"
 ---
 
-### General
 
+### General
 <div class="ty-vendor-plans">
 {% for doc in site.howto %}
   {% if doc.category == "general" %}
@@ -117,6 +117,25 @@ sidebar:
 <div class="ty-vendor-plans">
 {% for doc in site.howto %}
   {% if doc.category == "injection" %}
+    <div class="ty-grid-list__item">
+      <a href="{{ doc.url  | relative_url }}" class="link">
+        <span class="image" >
+          <img class="cover" src="{{ doc.image }}" alt="" />
+        </span>
+        <header class="major">
+            {{ doc.title }}
+       </header>
+      </a>
+    </div>
+  {% endif %}
+{% endfor %}
+</div>
+
+### Arbor Injection
+
+<div class="ty-vendor-plans">
+{% for doc in site.howto %}
+  {% if doc.category == "arborinjection" %}
     <div class="ty-grid-list__item">
       <a href="{{ doc.url  | relative_url }}" class="link">
         <span class="image" >

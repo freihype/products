@@ -1,7 +1,8 @@
 ---
 image: /pp/_howto/arbor_injection/wheel_handle/IMG_2068.JPG
-category: "injection"
+category: "arborinjection"
 title: "Wheel - Handle - Arbor Injection"
+
 ---
 
 

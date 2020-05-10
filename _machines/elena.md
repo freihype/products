@@ -198,7 +198,23 @@ sidebar:
 </ul>
   </div>
   <div class="tab-pane" id="howtos" role="tabpanel" aria-labelledby="howtos-tab">
-    
+    <h4 id="machinebuilderhowtos">Machine builder howtos</h4>
+<div class="ty-vendor-plans">
+{% for doc in site.howto %}
+  {% if doc.category == "arborinjection" %}
+    <div class="ty-grid-list__item">
+      <a href="{{ doc.url  | relative_url }}" class="link">
+        <span class="image" >
+          <img class="cover" src="{{ doc.image }}" alt="" />
+        </span>
+        <header class="major">
+            {{ doc.title }}
+       </header>
+      </a>
+    </div>
+  {% endif %}
+{% endfor %}
+</div>
   </div>
   <div class="tab-pane" id="media" role="tabpanel" aria-labelledby="media-tab">
     
