@@ -41,16 +41,17 @@ sidebar:
 <div class="tab-content">
   <div class="tab-pane active" id="overview" role="tabpanel" aria-labelledby="overview-tab">
     <div>
+
     <a href="https://precious-plastic.org/products/products/elena/renderings/perspective.JPG">
-        <img src="https://precious-plastic.org/products/products/elena/renderings/perspective.JPG" style="float: left;width:50%;" />
+        <img src="https://precious-plastic.org/products/products/elena/renderings/perspective.JPG" style="margin:8px; float: left;max-width:50%;max-height: 400px;" />
     </a>
 
-    <span style="font-size: smaller;">
+    <span style="font-size: smaller; margin-top: 16px;">
         Perfect for more complicated molds and better production rates as well good quality with high precision. Easy
         to transport and ideal for a educational context and small enterprises.
     </span>
 
-    <div style="display: inline-block;">
+    <div style="display: table-cell;">
         <p><span id="specs" style="padding: 16px">
     <table>
         <tbody>
@@ -87,21 +88,23 @@ sidebar:
         </tbody>
     </table>
 </span></p>
+
+        <a href="">
+            <span style="margin: 8px;" class="fa fa-download" />
+        </a>
+        <a href="">
+            <span style="margin: 8px;" class="fa fa-play" />
+        </a>
+        <a href="">
+            <span style="margin: 8px;" class="fa fa-question" />
+        </a>
+
     </div>
 
 </div>
 
-<div style="margin: 8px;">
-<a href="">
-    <span  style="margin: 8px;" class="fa fa-download"/>
-</a>
-
-<a href="">
-    <span style="margin: 8px;" class="fa fa-play"/>
-</a>
-<a href="">
-    <span style="margin: 8px;" class="fa fa-question"/>
-</a>
+<div style="margin: 8px;clear:both">
+    
 </div>
 
 <hr />
