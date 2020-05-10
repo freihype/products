@@ -41,8 +41,8 @@ sidebar:
 <div class="tab-content">
   <div class="tab-pane active" id="overview" role="tabpanel" aria-labelledby="overview-tab">
     <div>
-    <a href="https://precious-plastic.org/products/products/elena/drawings/overview.JPG">
-        <img src="https://precious-plastic.org/products/products/elena/drawings/overview.JPG" style="float: left;width:50%;" />
+    <a href="https://precious-plastic.org/products/products/elena/renderings/perspective.JPG">
+        <img src="https://precious-plastic.org/products/products/elena/renderings/perspective.JPG" style="float: left;width:50%;" />
     </a>
 
     <span style="font-size: smaller;">
